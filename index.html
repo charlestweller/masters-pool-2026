@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Masters Pool 2026</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      /* Official Masters palette */
+      --green-dark:   #0d2318;
+      --green-main:   #1c4932;
+      --green-mid:    #006747;
+      --green-row:    #1f5439;
+      --green-alt:    #163c28;
+      --yellow:       #fce300;
+      --yellow-dim:   #d4bc00;
+
+      /* Score colours */
+      --score-under:  #cc0000;
+      --score-even:   #000000;
+      --score-over:   #000000;
+
+      /* Text */
+      --white:        #ffffff;
+      --off-white:    #f0ede4;
+      --muted:        #8aac98;
+      --red:          #cc0000;
+
+      /* Typography */
+      --font-display: "Tiempos Headline", "Tiempos", "Times New Roman", serif;
+      --font-body:    "Benton Sans", BentonSans, Arial, Helvetica, sans-serif;
+    }
+
+    html, body {
+      min-height: 100%;
+      background-color: var(--green-dark);
+      color: var(--white);
+      font-family: var(--font-body);
+    }
+
+    body {
+      background-image:
+        radial-gradient(ellipse 90% 40% at 50% -5%, rgba(252,227,0,0.07) 0%, transparent 60%),
+        linear-gradient(160deg, #081610 0%, #102a1c 30%, #1c4932 65%, #0d2318 100%);
+      background-attachment: fixed;
+    }
+
+    /* ── TOP STRIPE ─────────────────────────────────── */
+    .top-stripe {
+      height: 4px;
+      background: linear-gradient(90deg, transparent 0%, var(--yellow) 30%, var(--yellow-dim) 70%, transparent 100%);
+    }
+
+    /* ── HEADER ─────────────────────────────────────── */
+    header {
+      text-align: center;
+      padding: 32px 20px 26px;
+    }
+
+    .masters-logo {
+      height: 56px;
+      display: block;
+      margin: 0 auto 18px;
+      filter: drop-shadow(0 2px 12px rgba(0,0,0,0.5));
+    }
+
+    h1 {
+      font-family: var(--font-display);
+      font-size: clamp(1.8rem, 5.5vw, 3.4rem);
+      font-weight: 700;
+      color: var(--off-white);
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      line-height: 1;
+      text-shadow: 0 2px 14px rgba(0,0,0,0.7);
+    }
+
+    h1 em {
+      color: var(--yellow);
+      font-style: normal;
+    }
+
+    .header-sub {
+      font-family: var(--font-body);
+      font-size: 0.72rem;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-top: 8px;
+    }
+
+    .header-rule {
+      width: 180px;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--yellow-dim), transparent);
+      margin: 16px auto;
+    }
+
+    /* ── STATUS BAR ─────────────────────────────────── */
+    .status-bar {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+
+    .status-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      background: rgba(0,0,0,0.35);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 2px;
+      padding: 5px 13px;
+      font-family: var(--font-body);
+      font-size: 0.72rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .status-pill .dot {
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: var(--muted);
+      flex-shrink: 0;
+    }
+
+    .status-pill.live { color: #6edda0; border-color: rgba(110,221,160,0.35); }
+    .status-pill.live .dot {
+      background: #6edda0;
+      box-shadow: 0 0 6px #6edda0;
+      animation: blink 1.6s ease-in-out infinite;
+    }
+    .status-pill.final { color: var(--yellow); border-color: rgba(252,227,0,0.35); }
+    .status-pill.final .dot { background: var(--yellow); }
+
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.25} }
+
+    /* ── CONTAINER ──────────────────────────────────── */
+    .container {
+      max-width: 1340px;
+      margin: 0 auto;
+      padding: 0 14px 70px;
+    }
+
+    /* ── INFO STRIP ─────────────────────────────────── */
+    .info-strip {
+      margin-top: 26px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 1px;
+      background: rgba(252,227,0,0.08);
+      border: 1px solid rgba(252,227,0,0.15);
+    }
+
+    .info-card {
+      background: rgba(8, 26, 16, 0.7);
+      padding: 16px 18px;
+      text-align: center;
+    }
+
+    .info-card .label {
+      font-family: var(--font-body);
+      font-size: 0.62rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+
+    .info-card .value {
+      font-family: var(--font-display);
+      font-size: 1.35rem;
+      color: var(--yellow);
+    }
+
+    /* ── BOARD ──────────────────────────────────────── */
+    .board-wrap {
+      margin-top: 24px;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      background: var(--green-main);
+      border: 1px solid rgba(252,227,0,0.2);
+      border-top: 3px solid var(--yellow);
+      box-shadow: 0 8px 48px rgba(0,0,0,0.55);
+    }
+
+    @media (max-width: 860px) {
+      .board-wrap::after {
+        content: '← swipe to scroll →';
+        display: block;
+        text-align: center;
+        font-family: var(--font-body);
+        font-size: 0.62rem;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--muted);
+        padding: 7px;
+        background: rgba(0,0,0,0.3);
+        border-top: 1px solid rgba(255,255,255,0.04);
+      }
+    }
+
+    .section-label {
+      font-family: var(--font-body);
+      font-size: 0.62rem;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--yellow);
+      padding: 10px 18px 9px;
+      background: rgba(0,0,0,0.3);
+      border-bottom: 1px solid rgba(252,227,0,0.12);
+    }
+
+    /* ── TABLE ──────────────────────────────────────── */
+    table {
+      width: 100%;
+      min-width: 840px;
+      border-collapse: collapse;
+    }
+
+    thead tr {
+      background: rgba(0,0,0,0.35);
+      border-bottom: 2px solid rgba(252,227,0,0.3);
+    }
+
+    thead th {
+      padding: 13px 10px 11px;
+      font-family: var(--font-body);
+      font-size: 0.63rem;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--yellow);
+      text-align: center;
+      white-space: nowrap;
+    }
+
+    thead th.left { text-align: left; padding-left: 22px; }
+
+    tbody tr {
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+      transition: background 0.12s;
+    }
+
+    tbody tr:nth-child(odd)  { background: rgba(255,255,255,0.025); }
+    tbody tr:nth-child(even) { background: rgba(0,0,0,0.15); }
+    tbody tr:hover           { background: rgba(252,227,0,0.05); }
+
+    /* Top 3 left accent bar */
+    tbody tr.rank-1 { border-left: 3px solid #d4af37; }
+    tbody tr.rank-2 { border-left: 3px solid #a8a8a8; }
+    tbody tr.rank-3 { border-left: 3px solid #a0735a; }
+    tbody tr.rank-1 td:first-child { padding-left: 17px; }
+    tbody tr.rank-2 td:first-child { padding-left: 17px; }
+    tbody tr.rank-3 td:first-child { padding-left: 17px; }
+
+    td {
+      padding: 14px 10px;
+      text-align: center;
+      vertical-align: middle;
+    }
+
+    td.left { text-align: left; padding-left: 22px; }
+
+    /* ── POSITION ───────────────────────────────────── */
+    .pos-num {
+      font-family: var(--font-display);
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: var(--yellow);
+      min-width: 44px;
+      display: inline-block;
+    }
+
+    .pos-t {
+      font-family: var(--font-body);
+      font-size: 0.65rem;
+      color: var(--muted);
+      vertical-align: super;
+      margin-right: 1px;
+    }
+
+    /* ── ENTRANT ────────────────────────────────────── */
+    .entrant-name {
+      font-family: var(--font-body);
+      font-size: 1.0rem;
+      font-weight: 500;
+      color: var(--off-white);
+      white-space: nowrap;
+      letter-spacing: 0.01em;
+    }
+
+    /* ── GOLFER CELL ────────────────────────────────── */
+    .golfer-cell { min-width: 128px; }
+
+    .golfer-name {
+      font-family: var(--font-body);
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 5px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 130px;
+    }
+
+    .golfer-score-row {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 5px;
+    }
+
+    /* ── SCORE CHIP ─────────────────────────────────── */
+    /* Always white background; text colour signals result */
+    .score-chip {
+      display: inline-block;
+      background: #ffffff;
+      font-family: var(--font-body);
+      font-size: 0.88rem;
+      font-weight: 700;
+      padding: 3px 9px;
+      min-width: 42px;
+      text-align: center;
+      border-radius: 2px;
+      line-height: 1.3;
+    }
+
+    .score-chip.under  { color: var(--score-under); }   /* red   */
+    .score-chip.even   { color: var(--score-even);  }   /* black */
+    .score-chip.over   { color: var(--score-over);  }   /* black */
+    .score-chip.cut    { color: var(--score-under); background: rgba(255,255,255,0.88); }
+    .score-chip.wd     { color: #555; font-size: 0.68rem; }
+    .score-chip.empty  { color: var(--muted); background: rgba(255,255,255,0.08); }
+
+    .cut-badge {
+      font-family: var(--font-body);
+      font-size: 0.56rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      color: var(--red);
+      background: rgba(204,0,0,0.12);
+      padding: 2px 4px;
+      border-radius: 2px;
+    }
+
+    .thru-label {
+      font-family: var(--font-body);
+      font-size: 0.6rem;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+    }
+
+    /* ── TOTAL ──────────────────────────────────────── */
+    .total-cell {
+      font-family: var(--font-display);
+      font-size: 1.45rem;
+      font-weight: 700;
+      min-width: 68px;
+      padding-right: 18px;
+    }
+
+    .total-cell.under { color: var(--yellow); text-shadow: 0 0 18px rgba(252,227,0,0.35); }
+    .total-cell.even  { color: var(--off-white); }
+    .total-cell.over  { color: #ff7a7a; }
+
+    /* ── EMPTY STATE ────────────────────────────────── */
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+    }
+
+    .empty-state .icon { font-size: 2.8rem; margin-bottom: 16px; }
+
+    .empty-state h2 {
+      font-family: var(--font-display);
+      font-size: 1.5rem;
+      color: var(--yellow);
+      margin-bottom: 10px;
+    }
+
+    .empty-state p {
+      font-family: var(--font-body);
+      font-size: 0.88rem;
+      max-width: 380px;
+      margin: 0 auto;
+      line-height: 1.65;
+      color: var(--muted);
+    }
+
+    /* ── RULES ──────────────────────────────────────── */
+    .rules {
+      margin-top: 30px;
+      background: rgba(0,0,0,0.28);
+      border: 1px solid rgba(255,255,255,0.06);
+      padding: 22px 26px;
+    }
+
+    .rules h3 {
+      font-family: var(--font-display);
+      font-size: 0.95rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--yellow);
+      margin-bottom: 14px;
+    }
+
+    .rules ol {
+      padding-left: 0;
+      counter-reset: rules;
+      list-style: none;
+    }
+
+    .rules li {
+      counter-increment: rules;
+      position: relative;
+      padding: 6px 0 6px 26px;
+      font-family: var(--font-body);
+      font-size: 0.82rem;
+      color: var(--muted);
+      line-height: 1.55;
+      border-bottom: 1px solid rgba(255,255,255,0.04);
+    }
+
+    .rules li:last-child { border-bottom: none; }
+
+    .rules li::before {
+      content: counter(rules) ".";
+      position: absolute;
+      left: 0;
+      color: var(--yellow-dim);
+      font-family: var(--font-body);
+      font-size: 0.75rem;
+      font-weight: 700;
+    }
+
+    .rules li strong { color: var(--off-white); }
+
+    /* ── FOOTER ─────────────────────────────────────── */
+    footer {
+      text-align: center;
+      padding: 18px 20px;
+      font-family: var(--font-body);
+      font-size: 0.66rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.18);
+      border-top: 1px solid rgba(255,255,255,0.05);
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="top-stripe"></div>
+
+<header>
+  <img class="masters-logo" src="masters_logo.png" alt="Masters" />
+  <h1>Pool <em>2026</em></h1>
+  <div class="header-sub">Augusta National Golf Club</div>
+  <div class="header-rule"></div>
+  <div class="status-bar">
+    <div class="status-pill" id="round-pill">
+      <span class="dot"></span>
+      <span id="round-text">Loading…</span>
+    </div>
+    <div class="status-pill">
+      <span id="updated-text">—</span>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+
+  <div class="info-strip">
+    <div class="info-card"><div class="label">Entry Fee</div><div class="value">$50</div></div>
+    <div class="info-card"><div class="label">1st Place</div><div class="value" id="payout-1">—</div></div>
+    <div class="info-card"><div class="label">2nd Place</div><div class="value" id="payout-2">—</div></div>
+    <div class="info-card"><div class="label">3rd Place</div><div class="value" id="payout-3">—</div></div>
+    <div class="info-card"><div class="label">Min Odds</div><div class="value" id="min-odds">25,000</div></div>
+    <div class="info-card"><div class="label">Entries</div><div class="value" id="entry-count">—</div></div>
+  </div>
+
+  <div class="board-wrap">
+    <div class="section-label">Pool Leaderboard &nbsp;&middot;&nbsp; Sorted by Aggregate Score</div>
+    <table>
+      <thead>
+        <tr>
+          <th>Pos</th>
+          <th class="left">Entrant</th>
+          <th>Golfer 1</th>
+          <th>Golfer 2</th>
+          <th>Golfer 3</th>
+          <th>Golfer 4</th>
+          <th>Total</th>
+        </tr>
+      </thead>
+      <tbody id="leaderboard-body"></tbody>
+    </table>
+  </div>
+
+  <div class="rules">
+    <h3>Pool Rules</h3>
+    <ol>
+      <li>Pick 4 golfers. Total aggregate odds must meet or exceed <strong>25,000</strong>.</li>
+      <li>Lowest aggregate score (sum of all 4 golfers&rsquo; scores to par) wins.</li>
+      <li>If a golfer misses the cut, you receive <strong>10 strokes above the highest 72-hole score</strong> for that golfer.</li>
+      <li>Payouts: 1st, 2nd, 3rd. Last year: $1,250 / $700 / $50.</li>
+      <li>$50 entry fee. Entries must be submitted before first tee time Thursday.</li>
+      <li>Email your 4 golfers and aggregate odds total to enter.</li>
+    </ol>
+  </div>
+
+</div>
+
+<footer>Masters Pool 2026 &nbsp;&middot;&nbsp; Auto-updates every 30 minutes during play &nbsp;&middot;&nbsp; Scores via ESPN</footer>
+
+<script>
+const CONFIG = {
+  autoRefreshMs: 5 * 60 * 1000,
+};
+
+async function main() {
+  const [entries, scores] = await Promise.all([
+    loadJson('data/entries.json'),
+    loadJson('data/scores.json'),
+  ]);
+  renderInfoStrip(entries);
+  renderLeaderboard(entries, scores);
+  renderStatus(scores);
+}
+
+async function loadJson(url) {
+  try {
+    const r = await fetch(url + '?t=' + Date.now());
+    if (!r.ok) throw new Error(r.status);
+    return await r.json();
+  } catch { return null; }
+}
+
+// ── Status bar ────────────────────────────────────────────────────────────────
+function renderStatus(scores) {
+  const pill = document.getElementById('round-pill');
+  const roundEl = document.getElementById('round-text');
+  const updEl   = document.getElementById('updated-text');
+
+  if (!scores || !scores.lastUpdated) {
+    roundEl.textContent = 'Pre-Tournament';
+    updEl.textContent   = 'Scores not yet available';
+    return;
+  }
+
+  const ts    = scores.tournamentStatus || 'unknown';
+  const round = scores.round || 0;
+
+  if (ts === 'complete') {
+    pill.classList.add('final');
+    roundEl.textContent = 'Final Results';
+  } else if (ts === 'in-progress') {
+    pill.classList.add('live');
+    roundEl.textContent = `Live · Round ${round}` + (scores.roundDetail ? ` · ${scores.roundDetail}` : '');
+  } else {
+    roundEl.textContent = round > 0 ? `Round ${round} Complete` : 'Pre-Tournament';
+  }
+
+  const d = new Date(scores.lastUpdated);
+  updEl.textContent = `Updated ${d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}`;
+}
+
+// ── Info strip ────────────────────────────────────────────────────────────────
+function renderInfoStrip(entries) {
+  const payouts  = entries?.payouts  || [1250, 700, 50];
+  const minOdds  = entries?.minOdds  || 25000;
+  const count    = entries?.entries?.length ?? '—';
+  document.getElementById('payout-1').textContent   = '$' + payouts[0].toLocaleString();
+  document.getElementById('payout-2').textContent   = '$' + payouts[1].toLocaleString();
+  document.getElementById('payout-3').textContent   = '$' + payouts[2].toLocaleString();
+  document.getElementById('min-odds').textContent   = minOdds.toLocaleString();
+  document.getElementById('entry-count').textContent = count;
+}
+
+// ── Leaderboard ───────────────────────────────────────────────────────────────
+function renderLeaderboard(entriesData, scoresData) {
+  const tbody   = document.getElementById('leaderboard-body');
+  const entries = entriesData?.entries;
+
+  if (!entries || entries.length === 0) {
+    tbody.innerHTML = `
+      <tr><td colspan="7">
+        <div class="empty-state">
+          <div class="icon">⛳</div>
+          <h2>Entries Coming Soon</h2>
+          <p>Pool entries will appear here once they've been submitted. Check back after the deadline!</p>
+        </div>
+      </td></tr>`;
+    return;
+  }
+
+  const golferMap  = buildGolferMap(scoresData);
+  const cutPenalty = computeCutPenalty(scoresData);
+
+  const standings = entries.map(entry => {
+    const gDetails = entry.golfers.map(name => resolveGolfer(name, golferMap, cutPenalty, scoresData));
+    const total    = gDetails.reduce((s, g) => s + g.scoreValue, 0);
+    return { ...entry, gDetails, total };
+  });
+
+  standings.sort((a, b) => a.total - b.total);
+
+  for (let i = 0; i < standings.length; i++) {
+    if (i > 0 && standings[i].total === standings[i - 1].total) {
+      standings[i].pos    = standings[i - 1].pos;
+      standings[i].tied   = true;
+      standings[i - 1].tied = true;
+    } else {
+      standings[i].pos  = i + 1;
+      standings[i].tied = false;
+    }
+  }
+
+  const hasTourneyData = !!(scoresData?.golfers?.length);
+  tbody.innerHTML = standings.map(e => renderRow(e, hasTourneyData)).join('');
+}
+
+function renderRow(entry, showScores) {
+  const totalFmt = showScores ? formatScore(entry.total) : '—';
+  const totalCls = showScores ? scoreClass(entry.total)  : 'even';
+  const rankCls  = entry.pos <= 3 ? ` rank-${entry.pos}` : '';
+  const posTpl   = entry.tied
+    ? `<span class="pos-t">T</span><span class="pos-num">${entry.pos}</span>`
+    : `<span class="pos-num">${entry.pos}</span>`;
+
+  const cells = entry.gDetails.map(g => golferCellHtml(g, showScores)).join('');
+
+  return `
+    <tr class="entry-row${rankCls}">
+      <td>${posTpl}</td>
+      <td class="left"><span class="entrant-name">${esc(entry.entrant)}</span></td>
+      ${cells}
+      <td class="total-cell ${totalCls}">${totalFmt}</td>
+    </tr>`;
+}
+
+function golferCellHtml(g, showScore) {
+  let scoreHtml;
+  if (!showScore) {
+    scoreHtml = `<div class="golfer-score-row"><span class="score-chip empty">—</span></div>`;
+  } else if (g.status === 'cut') {
+    scoreHtml = `
+      <div class="golfer-score-row">
+        <span class="score-chip cut">${formatScore(g.scoreValue)}</span>
+        <span class="cut-badge">CUT</span>
+      </div>`;
+  } else if (g.status === 'wd' || g.status === 'dq') {
+    scoreHtml = `<div class="golfer-score-row"><span class="score-chip wd">${g.status.toUpperCase()}</span></div>`;
+  } else if (g.status === 'unknown') {
+    scoreHtml = `<div class="golfer-score-row"><span class="score-chip empty">?</span></div>`;
+  } else {
+    const cls = scoreClass(g.scoreValue);
+    scoreHtml = `
+      <div class="golfer-score-row">
+        <span class="score-chip ${cls}">${formatScore(g.scoreValue)}</span>
+        ${g.thru !== null && g.thru !== undefined ? `<span class="thru-label">${thruLabel(g.thru)}</span>` : ''}
+      </div>`;
+  }
+  return `
+    <td class="golfer-cell">
+      <div class="golfer-name" title="${esc(g.displayName)}">${esc(g.displayName)}</div>
+      ${scoreHtml}
+    </td>`;
+}
+
+// ── Data helpers ──────────────────────────────────────────────────────────────
+function buildGolferMap(scoresData) {
+  const map = {};
+  if (!scoresData?.golfers) return map;
+  for (const g of scoresData.golfers) {
+    if (g.name) map[g.name.toLowerCase()] = g;
+  }
+  return map;
+}
+
+function resolveGolfer(name, map, cutPenalty, scoresData) {
+  const display = lastName(name);
+  const hasTourneyData = !!(scoresData?.golfers?.length);
+  if (!hasTourneyData) return { displayName: display, scoreValue: 0, status: 'pre', thru: null };
+
+  const key = name.toLowerCase().trim();
+  let golfer = map[key];
+  if (!golfer) {
+    const last = key.split(' ').pop();
+    golfer = Object.values(map).find(g => g.name.toLowerCase().endsWith(last));
+  }
+  if (!golfer) return { displayName: display, scoreValue: 0, status: 'unknown', thru: null };
+
+  if (golfer.status === 'cut' || golfer.status === 'wd' || golfer.status === 'dq') {
+    const pen = cutPenalty ?? golfer.score;
+    return { displayName: display, scoreValue: pen, status: golfer.status, thru: null };
+  }
+
+  return { displayName: display, scoreValue: golfer.score ?? 0, status: golfer.status ?? 'active', thru: golfer.thru };
+}
+
+function computeCutPenalty(scoresData) {
+  if (!scoresData?.golfers) return null;
+  if (typeof scoresData.cutPenalty === 'number') return scoresData.cutPenalty;
+  const active = scoresData.golfers.filter(g => g.status === 'active' || g.status === 'complete');
+  if (!active.length) return null;
+  return Math.max(...active.map(g => g.score)) + 10;
+}
+
+// ── Format helpers ────────────────────────────────────────────────────────────
+function formatScore(n) {
+  if (n === null || n === undefined) return '—';
+  if (n === 0) return 'E';
+  return n > 0 ? `+${n}` : `${n}`;
+}
+
+function scoreClass(n) {
+  if (n < 0) return 'under';
+  if (n > 0) return 'over';
+  return 'even';
+}
+
+function thruLabel(t) {
+  if (t === null || t === undefined) return '';
+  return (t === 18 || t === 'F') ? 'F' : `T${t}`;
+}
+
+function lastName(full) {
+  const parts = full.trim().split(' ');
+  return parts.length < 2 ? full : parts[parts.length - 1];
+}
+
+function esc(s) {
+  return (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+main();
+setInterval(main, CONFIG.autoRefreshMs);
+</script>
+</body>
+</html>

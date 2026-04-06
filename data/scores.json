@@ -1,0 +1,23 @@
+{
+  "lastUpdated": "2026-04-06T15:00:00.000Z",
+  "tournament": "2026 Masters Tournament",
+  "round": 1,
+  "roundDetail": "R1",
+  "tournamentStatus": "in-progress",
+  "worstActiveScore": 6,
+  "cutPenalty": 16,
+  "golfers": [
+    { "name": "Scottie Scheffler",    "score": -7,  "thru": 18, "status": "complete", "position": "1",  "rounds": [-7] },
+    { "name": "Rory McIlroy",         "score": -5,  "thru": 18, "status": "complete", "position": "2",  "rounds": [-5] },
+    { "name": "Tommy Fleetwood",      "score": -4,  "thru": 18, "status": "complete", "position": "T3", "rounds": [-4] },
+    { "name": "Collin Morikawa",      "score": -4,  "thru": 18, "status": "complete", "position": "T3", "rounds": [-4] },
+    { "name": "Xander Schauffele",    "score": -3,  "thru": 18, "status": "complete", "position": "T5", "rounds": [-3] },
+    { "name": "Viktor Hovland",       "score": -3,  "thru": 18, "status": "complete", "position": "T5", "rounds": [-3] },
+    { "name": "Hideki Matsuyama",     "score": -2,  "thru": 18, "status": "complete", "position": "T7", "rounds": [-2] },
+    { "name": "Jon Rahm",             "score": -2,  "thru": 18, "status": "complete", "position": "T7", "rounds": [-2] },
+    { "name": "Wyndham Clark",        "score": -1,  "thru": 18, "status": "complete", "position": "T9", "rounds": [-1] },
+    { "name": "Shane Lowry",          "score": -1,  "thru": 18, "status": "complete", "position": "T9", "rounds": [-1] },
+    { "name": "Bryson DeChambeau",    "score": 0,   "thru": 18, "status": "complete", "position": "T11","rounds": [0]  },
+    { "name": "Sepp Straka",          "score": 2,   "thru": 18, "status": "complete", "position": "T22","rounds": [2]  }
+  ]
+}
