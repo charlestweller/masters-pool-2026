@@ -1,23 +1,1605 @@
 {
-  "lastUpdated": "2026-04-06T15:00:00.000Z",
-  "tournament": "2026 Masters Tournament",
-  "round": 1,
-  "roundDetail": "R1",
-  "tournamentStatus": "in-progress",
-  "worstActiveScore": 6,
-  "cutPenalty": 16,
+  "lastUpdated": "2026-04-06T16:14:05.836Z",
+  "tournament": "Valero Texas Open",
+  "round": 4,
+  "roundDetail": "Complete",
+  "tournamentStatus": "complete",
+  "worstActiveScore": 0,
+  "cutPenalty": 10,
   "golfers": [
-    { "name": "Scottie Scheffler",    "score": -7,  "thru": 18, "status": "complete", "position": "1",  "rounds": [-7] },
-    { "name": "Rory McIlroy",         "score": -5,  "thru": 18, "status": "complete", "position": "2",  "rounds": [-5] },
-    { "name": "Tommy Fleetwood",      "score": -4,  "thru": 18, "status": "complete", "position": "T3", "rounds": [-4] },
-    { "name": "Collin Morikawa",      "score": -4,  "thru": 18, "status": "complete", "position": "T3", "rounds": [-4] },
-    { "name": "Xander Schauffele",    "score": -3,  "thru": 18, "status": "complete", "position": "T5", "rounds": [-3] },
-    { "name": "Viktor Hovland",       "score": -3,  "thru": 18, "status": "complete", "position": "T5", "rounds": [-3] },
-    { "name": "Hideki Matsuyama",     "score": -2,  "thru": 18, "status": "complete", "position": "T7", "rounds": [-2] },
-    { "name": "Jon Rahm",             "score": -2,  "thru": 18, "status": "complete", "position": "T7", "rounds": [-2] },
-    { "name": "Wyndham Clark",        "score": -1,  "thru": 18, "status": "complete", "position": "T9", "rounds": [-1] },
-    { "name": "Shane Lowry",          "score": -1,  "thru": 18, "status": "complete", "position": "T9", "rounds": [-1] },
-    { "name": "Bryson DeChambeau",    "score": 0,   "thru": 18, "status": "complete", "position": "T11","rounds": [0]  },
-    { "name": "Sepp Straka",          "score": 2,   "thru": 18, "status": "complete", "position": "T22","rounds": [2]  }
+    {
+      "name": "Zach Bauchou",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -4,
+        -2,
+        1,
+        -3
+      ]
+    },
+    {
+      "name": "Nick Hardy",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        1,
+        0
+      ]
+    },
+    {
+      "name": "Denny McCarthy",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        1,
+        -2
+      ]
+    },
+    {
+      "name": "Chad Ramey",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        0,
+        -4,
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "J.J. Spaun",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -3,
+        -3,
+        -6,
+        -5
+      ]
+    },
+    {
+      "name": "Jhonattan Vegas",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        1,
+        1
+      ]
+    },
+    {
+      "name": "Adam Schenk",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -4,
+        0,
+        -3,
+        2
+      ]
+    },
+    {
+      "name": "Frankie Capan III",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        2,
+        4
+      ]
+    },
+    {
+      "name": "J.T. Poston",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        0,
+        -2,
+        -3,
+        -4
+      ]
+    },
+    {
+      "name": "Eric Cole",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -5,
+        0,
+        -3,
+        -2
+      ]
+    },
+    {
+      "name": "Matt Wallace",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -1,
+        -3,
+        -8,
+        -4
+      ]
+    },
+    {
+      "name": "Matthieu Pavon",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Taylor Moore",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -3,
+        -1,
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "Kevin Streelman",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -4,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Jimmy Stanger",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "Austin Smotherman",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -4,
+        1,
+        -4,
+        1
+      ]
+    },
+    {
+      "name": "Carson Young",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -1,
+        1
+      ]
+    },
+    {
+      "name": "Andrew Novak",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -4,
+        -2,
+        -1,
+        -3
+      ]
+    },
+    {
+      "name": "Robert MacIntyre",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -6,
+        -8,
+        0,
+        -2
+      ]
+    },
+    {
+      "name": "Max McGreevy",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "Rico Hoey",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -2,
+        0,
+        2,
+        -5
+      ]
+    },
+    {
+      "name": "Hank Lebioda",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        0,
+        -4,
+        -4,
+        5
+      ]
+    },
+    {
+      "name": "Garrick Higgo",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "Christo Lamprecht",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -5,
+        1,
+        2,
+        -2
+      ]
+    },
+    {
+      "name": "Doug Ghim",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -3,
+        -1,
+        -3,
+        0
+      ]
+    },
+    {
+      "name": "Brandt Snedeker",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -1,
+        -2,
+        -1,
+        -1
+      ]
+    },
+    {
+      "name": "Brian Harman",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        0,
+        -3,
+        -1,
+        -1
+      ]
+    },
+    {
+      "name": "Camilo Villegas",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -1,
+        2
+      ]
+    },
+    {
+      "name": "Dan Brown",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -2,
+        2
+      ]
+    },
+    {
+      "name": "Webb Simpson",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "name": "Bronson Burgoon",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        3,
+        -5,
+        1,
+        -2
+      ]
+    },
+    {
+      "name": "Billy Horschel",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -1,
+        -4,
+        1,
+        -2
+      ]
+    },
+    {
+      "name": "Charley Hoffman",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -1,
+        1
+      ]
+    },
+    {
+      "name": "Tony Finau",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -6,
+        -3,
+        -1,
+        6
+      ]
+    },
+    {
+      "name": "Brice Garnett",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        3,
+        4
+      ]
+    },
+    {
+      "name": "Matt Kuchar",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        1,
+        0
+      ]
+    },
+    {
+      "name": "Chris Kirk",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -2,
+        -4,
+        -2,
+        2
+      ]
+    },
+    {
+      "name": "Brendon Todd",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Paul Waring",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        0,
+        -2,
+        -4,
+        -1
+      ]
+    },
+    {
+      "name": "Rafael Campos",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        0,
+        3
+      ]
+    },
+    {
+      "name": "Rickie Fowler",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -2,
+        3
+      ]
+    },
+    {
+      "name": "Nick Taylor",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -2,
+        0,
+        -3,
+        -3
+      ]
+    },
+    {
+      "name": "Alex Noren",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -2,
+        -3,
+        -2,
+        0
+      ]
+    },
+    {
+      "name": "Patton Kizzire",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Kristoffer Reitan",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -2,
+        -4,
+        -3,
+        -2
+      ]
+    },
+    {
+      "name": "Kevin Yu",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -3,
+        -2,
+        -6,
+        -3
+      ]
+    },
+    {
+      "name": "Kris Ventura",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        1,
+        -1
+      ]
+    },
+    {
+      "name": "Alejandro Tosti",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        0,
+        -1
+      ]
+    },
+    {
+      "name": "Patrick Fishburn",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -1,
+        5
+      ]
+    },
+    {
+      "name": "John VanDerLaan",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        2,
+        -3
+      ]
+    },
+    {
+      "name": "Ludvig Åberg",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -5,
+        -5,
+        -3,
+        -2
+      ]
+    },
+    {
+      "name": "Pontus Nyholm",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -4,
+        3
+      ]
+    },
+    {
+      "name": "Lee Hodges",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "Vince Whaley",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -1,
+        -2,
+        1,
+        -1
+      ]
+    },
+    {
+      "name": "Jeffrey Kang",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -5,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "name": "Danny Walker",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -3,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "name": "Kevin Roy",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -5,
+        -4,
+        2,
+        0
+      ]
+    },
+    {
+      "name": "Takumi Kanaya",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -1,
+        -2,
+        4,
+        -2
+      ]
+    },
+    {
+      "name": "Dylan Wu",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -1,
+        1
+      ]
+    },
+    {
+      "name": "Austin Eckroat",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -4,
+        -2,
+        -3,
+        -2
+      ]
+    },
+    {
+      "name": "Michael Thorbjornsen",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -2,
+        2
+      ]
+    },
+    {
+      "name": "Steven Fisk",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -6,
+        -2,
+        1,
+        4
+      ]
+    },
+    {
+      "name": "Jimmy Walker",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -3,
+        5
+      ]
+    },
+    {
+      "name": "Sami Välimäki",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -3,
+        -2,
+        -3,
+        -2
+      ]
+    },
+    {
+      "name": "Marco Penge",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -4,
+        0,
+        -6,
+        1
+      ]
+    },
+    {
+      "name": "Chandler Phillips",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        0,
+        -6,
+        -6,
+        -1
+      ]
+    },
+    {
+      "name": "Davis Thompson",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -6,
+        1,
+        -4,
+        -1
+      ]
+    },
+    {
+      "name": "Tom Kim",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        2,
+        -2
+      ]
+    },
+    {
+      "name": "Chandler Blanchet",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -2,
+        1
+      ]
+    },
+    {
+      "name": "John Parry",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -6,
+        -2,
+        1,
+        -3
+      ]
+    },
+    {
+      "name": "S.H. Kim",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -4,
+        1,
+        -4,
+        -2
+      ]
+    },
+    {
+      "name": "Jesper Svensson",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        1,
+        5
+      ]
+    },
+    {
+      "name": "Mac Meissner",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -1,
+        -2,
+        -4,
+        0
+      ]
+    },
+    {
+      "name": "Nick Dunlap",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        2,
+        0
+      ]
+    },
+    {
+      "name": "Ryo Hisatsune",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -4,
+        -4,
+        -5,
+        0
+      ]
+    },
+    {
+      "name": "Joe Highsmith",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -3,
+        -3,
+        4,
+        4
+      ]
+    },
+    {
+      "name": "Matt McCarty",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        2,
+        -4,
+        -2,
+        -1
+      ]
+    },
+    {
+      "name": "Jackson Suber",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        5,
+        -1
+      ]
+    },
+    {
+      "name": "Kensei Hirata",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -2,
+        1
+      ]
+    },
+    {
+      "name": "A.J. Ewart",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -2,
+        -2,
+        -3,
+        0
+      ]
+    },
+    {
+      "name": "Adrien Dumont de Chassart",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -3,
+        0,
+        -2,
+        1
+      ]
+    },
+    {
+      "name": "William Mouw",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        0,
+        -1
+      ]
+    },
+    {
+      "name": "Davis Chatfield",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        0,
+        -1
+      ]
+    },
+    {
+      "name": "Gordon Sargent",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        0,
+        -5,
+        3,
+        -1
+      ]
+    },
+    {
+      "name": "Thorbjørn Olesen",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -3,
+        -6,
+        3,
+        2
+      ]
+    },
+    {
+      "name": "Sudarshan Yellamaraju",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -3,
+        1,
+        -6,
+        -2
+      ]
+    },
+    {
+      "name": "Karl Vilips",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -4,
+        3
+      ]
+    },
+    {
+      "name": "David Ford",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -4,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "Austin Wylie",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        6,
+        2
+      ]
+    },
+    {
+      "name": "Neal Shipley",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Luke Clanton",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        0,
+        -3,
+        4,
+        2
+      ]
+    },
+    {
+      "name": "Johnny Keefer",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        4,
+        -1
+      ]
+    },
+    {
+      "name": "Charlie Crockett",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        2,
+        -2
+      ]
+    },
+    {
+      "name": "Bud Cauley",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -3,
+        -6,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Russell Henley",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        0,
+        -1
+      ]
+    },
+    {
+      "name": "Jordan Spieth",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -1,
+        -1,
+        0,
+        2
+      ]
+    },
+    {
+      "name": "Andrew Putnam",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -6,
+        -2,
+        -5,
+        -2
+      ]
+    },
+    {
+      "name": "Tommy Fleetwood",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -5,
+        -2,
+        -1,
+        -3
+      ]
+    },
+    {
+      "name": "Peter Malnati",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -3,
+        1,
+        3,
+        -1
+      ]
+    },
+    {
+      "name": "Chan Kim",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        0,
+        5
+      ]
+    },
+    {
+      "name": "Hideki Matsuyama",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -2,
+        -3,
+        -2,
+        -2
+      ]
+    },
+    {
+      "name": "Emiliano Grillo",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -1,
+        2
+      ]
+    },
+    {
+      "name": "Lanto Griffin",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -2,
+        3
+      ]
+    },
+    {
+      "name": "Séamus Power",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -1,
+        1
+      ]
+    },
+    {
+      "name": "Beau Hossler",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -1,
+        -2,
+        -2,
+        1
+      ]
+    },
+    {
+      "name": "Tom Hoge",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -1,
+        0
+      ]
+    },
+    {
+      "name": "Joel Dahmen",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        1,
+        3
+      ]
+    },
+    {
+      "name": "Lucas Glover",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "name": "Patrick Rodgers",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        5,
+        4
+      ]
+    },
+    {
+      "name": "Mackenzie Hughes",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        1,
+        -1
+      ]
+    },
+    {
+      "name": "Stephan Jaeger",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        0,
+        -3,
+        -5,
+        6
+      ]
+    },
+    {
+      "name": "Adrien Saddier",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        3,
+        0
+      ]
+    },
+    {
+      "name": "Sam Ryder",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -5,
+        -3,
+        -3,
+        2
+      ]
+    },
+    {
+      "name": "Si Woo Kim",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -2,
+        -2,
+        -2,
+        -5
+      ]
+    },
+    {
+      "name": "K.H. Lee",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "Marcelo Rozo",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        2,
+        -2
+      ]
+    },
+    {
+      "name": "Zecheng Dou",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Keith Mitchell",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        2,
+        -3
+      ]
+    },
+    {
+      "name": "Sepp Straka",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Max Homa",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        -3,
+        2
+      ]
+    },
+    {
+      "name": "Michael Kim",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        0,
+        -7,
+        -6,
+        -3
+      ]
+    },
+    {
+      "name": "Adam Svensson",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -4,
+        -1,
+        -2,
+        2
+      ]
+    },
+    {
+      "name": "Mark Hubbard",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -7,
+        5,
+        3,
+        0
+      ]
+    },
+    {
+      "name": "Justin Lower",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        2,
+        -2
+      ]
+    },
+    {
+      "name": "Haotong Li",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Christiaan Bezuidenhout",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -1,
+        -2,
+        -3,
+        1
+      ]
+    },
+    {
+      "name": "Erik van Rooyen",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        0,
+        -3,
+        -1,
+        2
+      ]
+    },
+    {
+      "name": "Alex Smalley",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -4,
+        -4,
+        -1,
+        -1
+      ]
+    },
+    {
+      "name": "Jordan Smith",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        4,
+        -4
+      ]
+    },
+    {
+      "name": "Maverick McNealy",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -5,
+        2,
+        -5,
+        -1
+      ]
+    },
+    {
+      "name": "Ryan Palmer",
+      "score": 0,
+      "thru": null,
+      "status": "cut",
+      "position": "",
+      "rounds": [
+        3,
+        0
+      ]
+    },
+    {
+      "name": "Will Zalatoris",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -5,
+        2,
+        5,
+        0
+      ]
+    }
   ]
 }
