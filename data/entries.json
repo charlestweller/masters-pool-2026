@@ -3,21 +3,5 @@
   "minOdds": 22500,
   "entryFee": 50,
   "payouts": [1250, 700, 50],
-  "entries": [
-    {
-      "entrant": "Charlie W.",
-      "golfers": ["Scottie Scheffler", "Rory McIlroy", "Tommy Fleetwood", "Wyndham Clark"],
-      "oddsTotal": 27500
-    },
-    {
-      "entrant": "Mike T.",
-      "golfers": ["Xander Schauffele", "Collin Morikawa", "Jon Rahm", "Hideki Matsuyama"],
-      "oddsTotal": 26800
-    },
-    {
-      "entrant": "Sarah J.",
-      "golfers": ["Bryson DeChambeau", "Viktor Hovland", "Shane Lowry", "Sepp Straka"],
-      "oddsTotal": 31200
-    }
-  ]
+  "entries": []
 }
