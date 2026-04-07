@@ -468,7 +468,7 @@
 // ── CONFIG ────────────────────────────────────────────────────────────────────
 const MIN_ODDS    = 22500;
 const MAX_PICKS   = 4;
-const POOL_EMAIL  = 'YOUR_EMAIL_HERE@example.com';   // ← update this
+const POOL_EMAIL  = 'joudsema@gmail.com';   // ← update this
 const POOL_YEAR   = 2026;
 
 // ── GOLFER DATA ───────────────────────────────────────────────────────────────
@@ -571,7 +571,7 @@ const TIERS = [
   { label: "Favorites",   span: "· +500 to +2,200",  min: 0,     max: 2999   },
   { label: "Contenders",  span: "· +3,000 to +7,000", min: 3000,  max: 7999   },
   { label: "Long Shots",  span: "· +8,000 to +22,500",min: 8000,  max: 22999  },
-  { label: "Big Shots",   span: "· +25,000 and up",   min: 25000, max: Infinity},
+  { label: "Hail Marys",   span: "· +25,000 and up",   min: 25000, max: Infinity},
 ];
 
 // ── STATE ─────────────────────────────────────────────────────────────────────
