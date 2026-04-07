@@ -109,6 +109,23 @@
       margin: 16px auto;
     }
 
+    .enter-btn {
+      display: inline-block;
+      margin-top: 14px;
+      background: var(--yellow);
+      color: var(--green-main);
+      font-family: var(--font-body);
+      font-size: 0.76rem;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      padding: 10px 28px;
+      border-radius: 2px;
+      text-decoration: none;
+      transition: background 0.15s, transform 0.1s;
+    }
+    .enter-btn:hover { background: #ffe84d; transform: translateY(-1px); }
+
     /* ── STATUS BAR ─────────────────────────────────── */
     .status-bar {
       display: flex;
@@ -578,6 +595,8 @@
   <div class="header-tagline">A Tradition Unlike Any Other&hellip;</div>
   <div class="header-sub">Augusta National Golf Club</div>
   <div class="header-rule"></div>
+  <a href="entry.html" class="enter-btn">Submit Your Entry &rarr;</a>
+  <div class="header-rule" style="margin-top:16px"></div>
   <div class="status-bar">
     <div class="status-pill" id="round-pill">
       <span class="dot"></span>
