@@ -447,6 +447,13 @@
     <button class="submit-btn" id="submit-btn" disabled onclick="submitEntry()">Submit Entry &rarr;</button>
     <div class="validation-msg" id="validation-msg">Select 4 golfers with combined odds of at least 22,500.</div>
   </div>
+  <div style="max-width:1100px; margin:10px auto 0; font-family:var(--font-body); font-size:0.82rem; color:rgba(255,255,255,0.65); line-height:1.7; text-align:center;">
+    Clicking Submit will open your email platform with your entry pre-filled. If that doesn't work, email your picks directly to <strong style="color:rgba(255,255,255,0.85);">joudsema@gmail.com</strong>.<br>
+    <strong style="color:rgba(255,255,255,0.85);">Payment ($50):</strong>
+    Venmo <strong style="color:rgba(255,255,255,0.85);">@jeff-oudsema</strong> &nbsp;&middot;&nbsp;
+    PayPal <strong style="color:rgba(255,255,255,0.85);">joudsema@gmail.com</strong> &nbsp;&middot;&nbsp;
+    Zelle <strong style="color:rgba(255,255,255,0.85);">oudsemaj@yahoo.com</strong>
+  </div>
 
   <!-- Golfer tiers -->
   <div id="golfer-tiers"></div>
@@ -462,13 +469,13 @@
 
 </div>
 
-<footer>J. Oudsema's Masters Pool 2026 &nbsp;&middot;&nbsp; Min aggregate odds: 22,500 &nbsp;&middot;&nbsp; Entry fee: $50</footer>
+<footer>Masters Pool 2026 &nbsp;&middot;&nbsp; Min aggregate odds: 22,500 &nbsp;&middot;&nbsp; Entry fee: $50</footer>
 
 <script>
 // ── CONFIG ────────────────────────────────────────────────────────────────────
 const MIN_ODDS    = 22500;
 const MAX_PICKS   = 4;
-const POOL_EMAIL  = 'joudsema@gmail.com';   // ← update this
+const POOL_EMAIL  = 'joudsema@gmail.com';
 const POOL_YEAR   = 2026;
 
 // ── GOLFER DATA ───────────────────────────────────────────────────────────────
@@ -571,7 +578,7 @@ const TIERS = [
   { label: "Favorites",   span: "· +500 to +2,200",  min: 0,     max: 2999   },
   { label: "Contenders",  span: "· +3,000 to +7,000", min: 3000,  max: 7999   },
   { label: "Long Shots",  span: "· +8,000 to +22,500",min: 8000,  max: 22999  },
-  { label: "Hail Marys",   span: "· +25,000 and up",   min: 25000, max: Infinity},
+  { label: "Big Shots",   span: "· +25,000 and up",   min: 25000, max: Infinity},
 ];
 
 // ── STATE ─────────────────────────────────────────────────────────────────────
