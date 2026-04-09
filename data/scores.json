@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T21:55:08.993Z",
+  "lastUpdated": "2026-04-09T22:00:09.200Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -154,7 +154,7 @@
     {
       "name": "Robert MacIntyre",
       "score": 3,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -187,8 +187,8 @@
     {
       "name": "Sergio García",
       "score": 0,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
@@ -363,7 +363,7 @@
     {
       "name": "Ludvig Åberg",
       "score": 2,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -494,12 +494,12 @@
     },
     {
       "name": "Harry Hall",
-      "score": 3,
-      "thru": 16,
+      "score": 5,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        5,
         0
       ]
     },
@@ -571,23 +571,23 @@
     },
     {
       "name": "Michael Brennan",
-      "score": -1,
-      "thru": 16,
-      "status": "active",
-      "position": "",
-      "rounds": [
-        -1,
-        0
-      ]
-    },
-    {
-      "name": "Jacob Bridgeman",
       "score": 0,
       "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
         0,
+        0
+      ]
+    },
+    {
+      "name": "Jacob Bridgeman",
+      "score": -1,
+      "thru": 18,
+      "status": "complete",
+      "position": "",
+      "rounds": [
+        -1,
         0
       ]
     },
@@ -913,7 +913,7 @@
     {
       "name": "Corey Conners",
       "score": 2,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -979,7 +979,7 @@
     {
       "name": "Jon Rahm",
       "score": 6,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
