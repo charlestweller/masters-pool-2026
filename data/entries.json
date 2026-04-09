@@ -4,8 +4,8 @@
   "entryFee": 50,
   "payouts": [
     2000,
-    800,
-    100
+    1000,
+    250
   ],
   "entries": [
     {
@@ -528,6 +528,78 @@
         "J.J. Spaun",
         "Justin Thomas",
         "Adam Scott"
+      ]
+    },
+    {
+      "name": "Jason Novak",
+      "golfers": [
+        "Matt Fitzpatrick",
+        "Patrick Reed",
+        "Brooks Koepka",
+        "Brian Harman"
+      ]
+    },
+    {
+      "name": "Rex Hafer",
+      "golfers": [
+        "Scottie Scheffler",
+        "Rory McIlroy",
+        "Ludvig Åberg",
+        "Sam Stevens"
+      ]
+    },
+    {
+      "name": "Clark Kirkman",
+      "golfers": [
+        "Scottie Scheffler",
+        "Viktor Hovland",
+        "Adam Scott",
+        "Maverick McNealy"
+      ]
+    },
+    {
+      "name": "Chris Chmielewski",
+      "golfers": [
+        "Ludvig Åberg",
+        "Akshay Bhatia",
+        "Adam Scott",
+        "Corey Conners"
+      ]
+    },
+    {
+      "name": "Sam Mandl",
+      "golfers": [
+        "Scottie Scheffler",
+        "Tommy Fleetwood",
+        "Jordan Spieth",
+        "Ryan Fox"
+      ]
+    },
+    {
+      "name": "Megan Filgo",
+      "golfers": [
+        "Scottie Scheffler",
+        "Justin Rose",
+        "Adam Scott",
+        "Max Homa"
+      ]
+    },
+    {
+      "name": "Christopher O'Neil",
+      "golfers": [
+        "Scottie Scheffler",
+        "Jon Rahm",
+        "Nicolai Højgaard",
+        "Rasmus Højgaard"
+      ]
+    },
+    {
+      "name": "Steve Meyer",
+      "golfers": [
+        "Cameron Young",
+        "Min Woo Lee",
+        "Sam Burns",
+        "Aldrich Potgieter"
       ]
     }
   ]
