@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T21:00:15.572Z",
+  "lastUpdated": "2026-04-09T21:05:13.244Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -21,12 +21,12 @@
     },
     {
       "name": "Davis Riley",
-      "score": 8,
-      "thru": 17,
-      "status": "active",
+      "score": 10,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        8,
+        10,
         0
       ]
     },
@@ -319,8 +319,8 @@
     {
       "name": "Danny Willett",
       "score": 4,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         4,
@@ -638,8 +638,8 @@
     {
       "name": "Ethan Fang",
       "score": 2,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         2,
@@ -648,12 +648,12 @@
     },
     {
       "name": "Fifa Laopakdee",
-      "score": 5,
-      "thru": 15,
+      "score": 6,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        5,
+        6,
         0
       ]
     },
@@ -880,7 +880,7 @@
     {
       "name": "Daniel Berger",
       "score": 3,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
