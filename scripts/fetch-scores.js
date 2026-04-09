@@ -52,29 +52,56 @@ async function fetchScores() {
   else if (statusName.includes('COMPLETE') || statusName.includes('FINAL')) tournamentStatus = 'complete';
   else if (statusName.includes('SCHEDULED')) tournamentStatus = 'scheduled';
 
-  // Log one sample competitor so we can see the raw ESPN format in Actions logs
+  // Log the FULL first competitor so we can diagnose score field issues in Actions logs
   if (competition.competitors?.length) {
-    const s = competition.competitors[0];
-    console.log('Sample competitor (raw):', JSON.stringify({
-      name:      s.athlete?.displayName,
-      score:     s.score,
-      scoreType: typeof s.score,
-      thru:      s.status?.thru,
-      statusType: s.status?.type?.name,
-    }));
+    console.log('=== FIRST COMPETITOR RAW (for debugging) ===');
+    console.log(JSON.stringify(competition.competitors[0], null, 2));
+    console.log('=== END SAMPLE ===');
   }
 
   // Parse every competitor
   const golfers = (competition.competitors || []).map(c => {
     const name = c.athlete?.displayName || c.displayName || 'Unknown';
 
-    // ESPN sometimes returns score as an object {displayValue:"-5", value:-5}
-    // and sometimes as a plain string "-5". Handle both.
+    // ── Score to par ──────────────────────────────────────────────────────────
+    // ESPN can return score as:
+    //   - a plain string: "-5", "+2", "E", "--", null
+    //   - an object:      { displayValue: "-5", value: -5 }
+    // For in-progress rounds the primary field is sometimes null/0; try fallbacks.
+
+    // Path 1: c.score
     let rawScore = c.score;
     if (rawScore !== null && rawScore !== undefined && typeof rawScore === 'object') {
       rawScore = rawScore.displayValue ?? rawScore.value ?? null;
     }
-    const scoreValue = parseScore(rawScore);
+    let scoreValue = parseScore(rawScore);
+
+    // Path 2: c.linescores — ESPN sometimes stores the running to-par score here
+    if (scoreValue === 0 && c.linescores?.length) {
+      // Try the last linescore entry's displayValue (current/most-recent round)
+      for (let i = c.linescores.length - 1; i >= 0; i--) {
+        const ls = c.linescores[i];
+        const lsRaw = ls.displayValue ?? ls.value;
+        if (lsRaw !== null && lsRaw !== undefined && String(lsRaw) !== '--') {
+          const lsVal = parseScore(lsRaw);
+          if (lsVal !== 0 || String(lsRaw).toUpperCase() === 'E') {
+            scoreValue = lsVal;
+            break;
+          }
+        }
+      }
+    }
+
+    // Path 3: c.statistics — look for a stat labeled score/total
+    if (scoreValue === 0 && c.statistics?.length) {
+      for (const stat of c.statistics) {
+        const label = (stat.name || stat.abbreviation || '').toLowerCase();
+        if (label === 'score' || label === 'sc' || label === 'tot' || label === 'total') {
+          const sv = parseScore(stat.displayValue ?? stat.value);
+          if (sv !== 0) { scoreValue = sv; break; }
+        }
+      }
+    }
 
     const statusType = c.status?.type?.name || '';
     const detail     = c.status?.type?.detail || '';
