@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T21:45:11.969Z",
+  "lastUpdated": "2026-04-09T21:50:12.352Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -43,12 +43,12 @@
     },
     {
       "name": "J.J. Spaun",
-      "score": 1,
-      "thru": 15,
+      "score": 2,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
@@ -363,7 +363,7 @@
     {
       "name": "Ludvig Åberg",
       "score": 2,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -374,7 +374,7 @@
     {
       "name": "Ben Griffin",
       "score": 0,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -516,12 +516,12 @@
     },
     {
       "name": "Chris Gotterup",
-      "score": 1,
-      "thru": 14,
+      "score": 0,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -737,7 +737,7 @@
     {
       "name": "Tyrrell Hatton",
       "score": 1,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -968,7 +968,7 @@
     {
       "name": "Maverick McNealy",
       "score": 5,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -979,7 +979,7 @@
     {
       "name": "Jon Rahm",
       "score": 6,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
