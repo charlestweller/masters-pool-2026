@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T18:55:09.273Z",
+  "lastUpdated": "2026-04-09T19:00:12.188Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -143,7 +143,7 @@
     {
       "name": "Andrew Novak",
       "score": 3,
-      "thru": 12,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -198,8 +198,8 @@
     {
       "name": "Jason Day",
       "score": -3,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         -3,
@@ -230,23 +230,23 @@
     },
     {
       "name": "Dustin Johnson",
-      "score": 0,
-      "thru": 17,
-      "status": "active",
+      "score": 1,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
     {
       "name": "Rory McIlroy",
-      "score": -4,
-      "thru": 14,
+      "score": -5,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        -4,
+        -5,
         0
       ]
     },
@@ -330,7 +330,7 @@
     {
       "name": "Tom McKibbin",
       "score": 0,
-      "thru": 12,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -363,7 +363,7 @@
     {
       "name": "Ludvig Åberg",
       "score": -3,
-      "thru": 6,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -396,7 +396,7 @@
     {
       "name": "Min Woo Lee",
       "score": 3,
-      "thru": 8,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -417,12 +417,12 @@
     },
     {
       "name": "Cameron Young",
-      "score": 2,
-      "thru": 14,
+      "score": 1,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        1,
         0
       ]
     },
@@ -472,20 +472,20 @@
     },
     {
       "name": "Marco Penge",
-      "score": 3,
-      "thru": 3,
+      "score": 4,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        4,
         0
       ]
     },
     {
       "name": "Shane Lowry",
       "score": -2,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         -2,
@@ -495,7 +495,7 @@
     {
       "name": "Harry Hall",
       "score": 1,
-      "thru": 7,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -516,12 +516,12 @@
     },
     {
       "name": "Chris Gotterup",
-      "score": -1,
-      "thru": 6,
+      "score": 0,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -572,7 +572,7 @@
     {
       "name": "Michael Brennan",
       "score": 0,
-      "thru": 7,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -626,12 +626,12 @@
     },
     {
       "name": "Mason Howell",
-      "score": 7,
-      "thru": 14,
+      "score": 6,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        7,
+        6,
         0
       ]
     },
@@ -825,7 +825,7 @@
     {
       "name": "Si Woo Kim",
       "score": 1,
-      "thru": 3,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -912,12 +912,12 @@
     },
     {
       "name": "Corey Conners",
-      "score": 1,
-      "thru": 7,
+      "score": -1,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        -1,
         0
       ]
     },
@@ -957,7 +957,7 @@
     {
       "name": "Brian Campbell",
       "score": 0,
-      "thru": 12,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -979,7 +979,7 @@
     {
       "name": "Jon Rahm",
       "score": 3,
-      "thru": 6,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
