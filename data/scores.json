@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T21:20:10.397Z",
+  "lastUpdated": "2026-04-09T21:25:13.176Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -77,7 +77,7 @@
     {
       "name": "Aaron Rai",
       "score": -2,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -187,7 +187,7 @@
     {
       "name": "Sergio García",
       "score": 0,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -395,12 +395,12 @@
     },
     {
       "name": "Min Woo Lee",
-      "score": 5,
-      "thru": 16,
+      "score": 6,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        5,
+        6,
         0
       ]
     },
@@ -473,7 +473,7 @@
     {
       "name": "Marco Penge",
       "score": 4,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -495,7 +495,7 @@
     {
       "name": "Harry Hall",
       "score": 3,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -516,12 +516,12 @@
     },
     {
       "name": "Chris Gotterup",
-      "score": 0,
-      "thru": 13,
+      "score": 1,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -571,23 +571,23 @@
     },
     {
       "name": "Michael Brennan",
-      "score": -1,
-      "thru": 14,
+      "score": -2,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        -2,
         0
       ]
     },
     {
       "name": "Jacob Bridgeman",
-      "score": 1,
-      "thru": 15,
+      "score": 0,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -648,12 +648,12 @@
     },
     {
       "name": "Fifa Laopakdee",
-      "score": 6,
-      "thru": 16,
+      "score": 7,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        6,
+        7,
         0
       ]
     },
@@ -681,12 +681,12 @@
     },
     {
       "name": "Harris English",
-      "score": 2,
-      "thru": 11,
+      "score": 1,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        1,
         0
       ]
     },
@@ -824,12 +824,12 @@
     },
     {
       "name": "Si Woo Kim",
-      "score": 2,
-      "thru": 11,
+      "score": 3,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
@@ -901,19 +901,19 @@
     },
     {
       "name": "Fred Couples",
-      "score": 4,
-      "thru": 16,
+      "score": 6,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        6,
         0
       ]
     },
     {
       "name": "Corey Conners",
       "score": 2,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -979,7 +979,7 @@
     {
       "name": "Jon Rahm",
       "score": 6,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
