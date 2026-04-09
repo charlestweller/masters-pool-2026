@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T22:25:12.299Z",
+  "lastUpdated": "2026-04-09T22:30:15.821Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -44,8 +44,8 @@
     {
       "name": "J.J. Spaun",
       "score": 2,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         2,
@@ -153,12 +153,12 @@
     },
     {
       "name": "Robert MacIntyre",
-      "score": 3,
-      "thru": 14,
+      "score": 7,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        7,
         0
       ]
     },
@@ -374,7 +374,7 @@
     {
       "name": "Ben Griffin",
       "score": -1,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -539,7 +539,7 @@
     {
       "name": "Justin Thomas",
       "score": 0,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -704,7 +704,7 @@
     {
       "name": "Jordan Spieth",
       "score": 0,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -758,12 +758,12 @@
     },
     {
       "name": "Justin Rose",
-      "score": -4,
-      "thru": 16,
+      "score": -3,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        -4,
+        -3,
         0
       ]
     },
@@ -802,12 +802,12 @@
     },
     {
       "name": "Brooks Koepka",
-      "score": 0,
-      "thru": 16,
+      "score": -1,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -847,7 +847,7 @@
     {
       "name": "Sepp Straka",
       "score": 1,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -968,8 +968,8 @@
     {
       "name": "Maverick McNealy",
       "score": 5,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         5,
