@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T22:30:15.821Z",
+  "lastUpdated": "2026-04-09T22:35:07.905Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -252,12 +252,12 @@
     },
     {
       "name": "Gary Woodland",
-      "score": -2,
-      "thru": 14,
+      "score": -1,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        -2,
+        -1,
         0
       ]
     },
@@ -517,8 +517,8 @@
     {
       "name": "Chris Gotterup",
       "score": 0,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
@@ -946,7 +946,7 @@
     {
       "name": "Scottie Scheffler",
       "score": -2,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
