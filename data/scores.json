@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T16:10:12.247Z",
+  "lastUpdated": "2026-04-09T16:13:53.550Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -54,12 +54,12 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 36,
-      "thru": 10,
+      "score": 41,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
-        -4,
+        -3,
         0
       ]
     },
@@ -87,8 +87,8 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 48,
-      "thru": 12,
+      "score": 53,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -98,12 +98,12 @@
     },
     {
       "name": "Max Greyserman",
-      "score": 52,
-      "thru": 12,
+      "score": 56,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        5,
+        4,
         0
       ]
     },
@@ -197,8 +197,8 @@
     },
     {
       "name": "Jason Day",
-      "score": 32,
-      "thru": 8,
+      "score": 36,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -406,12 +406,12 @@
     },
     {
       "name": "Akshay Bhatia",
-      "score": 26,
-      "thru": 7,
+      "score": 30,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        -2,
         0
       ]
     },
@@ -483,12 +483,12 @@
     },
     {
       "name": "Shane Lowry",
-      "score": 32,
-      "thru": 8,
+      "score": 35,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -505,12 +505,12 @@
     },
     {
       "name": "Casey Jarvis",
-      "score": 41,
-      "thru": 10,
+      "score": 46,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
@@ -527,12 +527,12 @@
     },
     {
       "name": "Naoyuki Kataoka",
-      "score": 70,
-      "thru": 15,
+      "score": 74,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        9,
+        10,
         0
       ]
     },
@@ -714,8 +714,8 @@
     },
     {
       "name": "Carlos Ortiz",
-      "score": 67,
-      "thru": 15,
+      "score": 70,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -725,8 +725,8 @@
     },
     {
       "name": "Tommy Fleetwood",
-      "score": 24,
-      "thru": 7,
+      "score": 29,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -857,8 +857,8 @@
     },
     {
       "name": "Max Homa",
-      "score": 61,
-      "thru": 15,
+      "score": 64,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -989,12 +989,12 @@
     },
     {
       "name": "Jake Knapp",
-      "score": 35,
-      "thru": 9,
+      "score": 40,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
