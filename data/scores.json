@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T16:30:13.365Z",
+  "lastUpdated": "2026-04-09T16:35:13.115Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 76,
-  "cutPenalty": 86,
-  "projectedCut": 27,
+  "worstActiveScore": 78,
+  "cutPenalty": 88,
+  "projectedCut": 28,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -120,8 +120,8 @@
     },
     {
       "name": "Nicolai Højgaard",
-      "score": 9,
-      "thru": 2,
+      "score": 13,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -131,23 +131,23 @@
     },
     {
       "name": "Rasmus Højgaard",
-      "score": 48,
-      "thru": 12,
+      "score": 56,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        4,
         0
       ]
     },
     {
       "name": "Andrew Novak",
-      "score": 15,
-      "thru": 4,
+      "score": 20,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -164,8 +164,8 @@
     },
     {
       "name": "Sungjae Im",
-      "score": 21,
-      "thru": 5,
+      "score": 24,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -197,8 +197,8 @@
     },
     {
       "name": "Jason Day",
-      "score": 36,
-      "thru": 9,
+      "score": 40,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -208,12 +208,12 @@
     },
     {
       "name": "Brandon Holtz",
-      "score": 50,
-      "thru": 11,
+      "score": 54,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
-        6,
+        7,
         0
       ]
     },
@@ -296,8 +296,8 @@
     },
     {
       "name": "Vijay Singh",
-      "score": 52,
-      "thru": 12,
+      "score": 57,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -329,8 +329,8 @@
     },
     {
       "name": "Tom McKibbin",
-      "score": 16,
-      "thru": 4,
+      "score": 20,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -384,8 +384,8 @@
     },
     {
       "name": "Nico Echavarria",
-      "score": 49,
-      "thru": 11,
+      "score": 52,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -428,8 +428,8 @@
     },
     {
       "name": "Sam Stevens",
-      "score": 18,
-      "thru": 5,
+      "score": 21,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -461,12 +461,12 @@
     },
     {
       "name": "Sami Välimäki",
-      "score": 59,
-      "thru": 14,
+      "score": 65,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        4,
         0
       ]
     },
@@ -483,8 +483,8 @@
     },
     {
       "name": "Shane Lowry",
-      "score": 35,
-      "thru": 9,
+      "score": 39,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -527,8 +527,8 @@
     },
     {
       "name": "Naoyuki Kataoka",
-      "score": 74,
-      "thru": 16,
+      "score": 78,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -560,8 +560,8 @@
     },
     {
       "name": "Matt McCarty",
-      "score": 47,
-      "thru": 12,
+      "score": 52,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -670,8 +670,8 @@
     },
     {
       "name": "Jackson Herrington",
-      "score": 59,
-      "thru": 14,
+      "score": 64,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -714,12 +714,12 @@
     },
     {
       "name": "Carlos Ortiz",
-      "score": 70,
-      "thru": 16,
+      "score": 75,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        6,
+        7,
         0
       ]
     },
@@ -747,8 +747,8 @@
     },
     {
       "name": "Patrick Reed",
-      "score": 27,
-      "thru": 8,
+      "score": 31,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -791,8 +791,8 @@
     },
     {
       "name": "Ángel Cabrera",
-      "score": 62,
-      "thru": 14,
+      "score": 67,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -813,8 +813,8 @@
     },
     {
       "name": "Zach Johnson",
-      "score": 9,
-      "thru": 2,
+      "score": 13,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -835,8 +835,8 @@
     },
     {
       "name": "Bubba Watson",
-      "score": 49,
-      "thru": 11,
+      "score": 52,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -857,8 +857,8 @@
     },
     {
       "name": "Max Homa",
-      "score": 64,
-      "thru": 16,
+      "score": 68,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -868,8 +868,8 @@
     },
     {
       "name": "Michael Kim",
-      "score": 8,
-      "thru": 2,
+      "score": 12,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -923,8 +923,8 @@
     },
     {
       "name": "Cameron Smith",
-      "score": 40,
-      "thru": 10,
+      "score": 44,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -956,8 +956,8 @@
     },
     {
       "name": "Brian Campbell",
-      "score": 14,
-      "thru": 4,
+      "score": 18,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -989,8 +989,8 @@
     },
     {
       "name": "Jake Knapp",
-      "score": 40,
-      "thru": 10,
+      "score": 44,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -1000,8 +1000,8 @@
     },
     {
       "name": "Sam Burns",
-      "score": 38,
-      "thru": 10,
+      "score": 42,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
