@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T22:00:09.200Z",
+  "lastUpdated": "2026-04-09T22:05:11.393Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -77,8 +77,8 @@
     {
       "name": "Aaron Rai",
       "score": -1,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         -1,
@@ -253,7 +253,7 @@
     {
       "name": "Gary Woodland",
       "score": -2,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -472,12 +472,12 @@
     },
     {
       "name": "Marco Penge",
-      "score": 4,
-      "thru": 12,
+      "score": 5,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        5,
         0
       ]
     },
@@ -517,7 +517,7 @@
     {
       "name": "Chris Gotterup",
       "score": 0,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -681,12 +681,12 @@
     },
     {
       "name": "Harris English",
-      "score": 1,
-      "thru": 12,
+      "score": 0,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -703,12 +703,12 @@
     },
     {
       "name": "Jordan Spieth",
-      "score": -1,
-      "thru": 14,
+      "score": 0,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -758,12 +758,12 @@
     },
     {
       "name": "Justin Rose",
-      "score": -3,
-      "thru": 14,
+      "score": -4,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        -3,
+        -4,
         0
       ]
     },
@@ -802,12 +802,12 @@
     },
     {
       "name": "Brooks Koepka",
-      "score": 1,
-      "thru": 14,
+      "score": 0,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -825,7 +825,7 @@
     {
       "name": "Si Woo Kim",
       "score": 3,
-      "thru": 12,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -946,7 +946,7 @@
     {
       "name": "Scottie Scheffler",
       "score": -2,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
