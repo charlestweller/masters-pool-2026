@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T21:33:40.911Z",
+  "lastUpdated": "2026-04-09T21:35:08.137Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -758,12 +758,12 @@
     },
     {
       "name": "Justin Rose",
-      "score": -4,
-      "thru": 13,
+      "score": -3,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        -4,
+        -3,
         0
       ]
     },
