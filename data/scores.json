@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T16:13:53.550Z",
+  "lastUpdated": "2026-04-09T16:15:14.707Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 76,
   "cutPenalty": 86,
-  "projectedCut": 23,
+  "projectedCut": 24,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -120,8 +120,8 @@
     },
     {
       "name": "Nicolai Højgaard",
-      "score": 4,
-      "thru": 1,
+      "score": 9,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -142,8 +142,8 @@
     },
     {
       "name": "Andrew Novak",
-      "score": 12,
-      "thru": 3,
+      "score": 15,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -230,8 +230,8 @@
     },
     {
       "name": "Dustin Johnson",
-      "score": 32,
-      "thru": 8,
+      "score": 36,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -461,8 +461,8 @@
     },
     {
       "name": "Sami Välimäki",
-      "score": 55,
-      "thru": 13,
+      "score": 59,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -670,12 +670,12 @@
     },
     {
       "name": "Jackson Herrington",
-      "score": 54,
-      "thru": 13,
+      "score": 59,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
@@ -692,8 +692,8 @@
     },
     {
       "name": "Russell Henley",
-      "score": 23,
-      "thru": 6,
+      "score": 27,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -791,8 +791,8 @@
     },
     {
       "name": "Ángel Cabrera",
-      "score": 58,
-      "thru": 13,
+      "score": 62,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -813,12 +813,12 @@
     },
     {
       "name": "Zach Johnson",
-      "score": 5,
-      "thru": 1,
+      "score": 9,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -868,12 +868,12 @@
     },
     {
       "name": "Michael Kim",
-      "score": 4,
-      "thru": 1,
+      "score": 8,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
