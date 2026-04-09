@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-04-09T14:45:11.777Z",
+  "lastUpdated": "2026-04-09T14:50:14.200Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 49,
   "cutPenalty": 59,
-  "projectedCut": 0,
+  "projectedCut": 4,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
-      "score": 4,
-      "thru": 1,
+      "score": 10,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -54,12 +54,12 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 22,
-      "thru": 6,
+      "score": 25,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        -2,
         0
       ]
     },
@@ -87,8 +87,8 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 27,
-      "thru": 7,
+      "score": 32,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -98,8 +98,8 @@
     },
     {
       "name": "Max Greyserman",
-      "score": 27,
-      "thru": 7,
+      "score": 32,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -230,8 +230,8 @@
     },
     {
       "name": "Dustin Johnson",
-      "score": 12,
-      "thru": 3,
+      "score": 15,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -241,8 +241,8 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": 0,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -307,8 +307,8 @@
     },
     {
       "name": "Ryan Fox",
-      "score": 32,
-      "thru": 7,
+      "score": 37,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -340,8 +340,8 @@
     },
     {
       "name": "Kristoffer Reitan",
-      "score": 24,
-      "thru": 6,
+      "score": 28,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -384,12 +384,12 @@
     },
     {
       "name": "Nico Echavarria",
-      "score": 27,
+      "score": 26,
       "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        3,
         0
       ]
     },
@@ -406,8 +406,8 @@
     },
     {
       "name": "Akshay Bhatia",
-      "score": 8,
-      "thru": 2,
+      "score": 12,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -417,12 +417,12 @@
     },
     {
       "name": "Cameron Young",
-      "score": 0,
-      "thru": 0,
+      "score": 5,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -483,12 +483,12 @@
     },
     {
       "name": "Shane Lowry",
-      "score": 11,
-      "thru": 3,
+      "score": 16,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
-        -2,
+        0,
         0
       ]
     },
@@ -505,12 +505,12 @@
     },
     {
       "name": "Casey Jarvis",
-      "score": 24,
-      "thru": 6,
+      "score": 29,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
@@ -626,8 +626,8 @@
     },
     {
       "name": "Mason Howell",
-      "score": 0,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -725,12 +725,12 @@
     },
     {
       "name": "Tommy Fleetwood",
-      "score": 8,
-      "thru": 2,
+      "score": 11,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        -2,
         0
       ]
     },
@@ -747,8 +747,8 @@
     },
     {
       "name": "Patrick Reed",
-      "score": 6,
-      "thru": 2,
+      "score": 10,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -890,8 +890,8 @@
     },
     {
       "name": "Matt Fitzpatrick",
-      "score": 4,
-      "thru": 1,
+      "score": 9,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
