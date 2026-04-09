@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T18:35:10.413Z",
+  "lastUpdated": "2026-04-09T18:37:16.714Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -11,7 +11,7 @@
     {
       "name": "Bryson DeChambeau",
       "score": 3,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -110,7 +110,7 @@
     {
       "name": "Wyndham Clark",
       "score": 0,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -275,7 +275,7 @@
     {
       "name": "Alex Noren",
       "score": 4,
-      "thru": 12,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -396,7 +396,7 @@
     {
       "name": "Min Woo Lee",
       "score": 3,
-      "thru": 7,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -451,7 +451,7 @@
     {
       "name": "Mike Weir",
       "score": 6,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -627,7 +627,7 @@
     {
       "name": "Mason Howell",
       "score": 7,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -649,7 +649,7 @@
     {
       "name": "Fifa Laopakdee",
       "score": 4,
-      "thru": 7,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -659,12 +659,12 @@
     },
     {
       "name": "Mateo Pulcini",
-      "score": 3,
-      "thru": 10,
+      "score": 4,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        4,
         0
       ]
     },
@@ -902,7 +902,7 @@
     {
       "name": "Fred Couples",
       "score": -2,
-      "thru": 7,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
