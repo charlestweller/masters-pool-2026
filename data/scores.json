@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-09T14:00:11.131Z",
+  "lastUpdated": "2026-04-09T14:05:09.622Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 38,
-  "cutPenalty": 48,
+  "worstActiveScore": 39,
+  "cutPenalty": 49,
   "projectedCut": 0,
   "golfers": [
     {
@@ -87,19 +87,19 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 21,
-      "thru": 5,
+      "score": 23,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
     {
       "name": "Max Greyserman",
-      "score": 20,
-      "thru": 5,
+      "score": 23,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -131,12 +131,12 @@
     },
     {
       "name": "Rasmus Højgaard",
-      "score": 16,
-      "thru": 4,
+      "score": 21,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -208,8 +208,8 @@
     },
     {
       "name": "Brandon Holtz",
-      "score": 14,
-      "thru": 3,
+      "score": 17,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -307,12 +307,12 @@
     },
     {
       "name": "Ryan Fox",
-      "score": 23,
-      "thru": 5,
+      "score": 27,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        4,
         0
       ]
     },
@@ -384,12 +384,12 @@
     },
     {
       "name": "Nico Echavarria",
-      "score": 14,
-      "thru": 3,
+      "score": 18,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
@@ -527,8 +527,8 @@
     },
     {
       "name": "Naoyuki Kataoka",
-      "score": 30,
-      "thru": 7,
+      "score": 35,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -560,8 +560,8 @@
     },
     {
       "name": "Matt McCarty",
-      "score": 16,
-      "thru": 4,
+      "score": 20,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -714,8 +714,8 @@
     },
     {
       "name": "Carlos Ortiz",
-      "score": 34,
-      "thru": 7,
+      "score": 39,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -835,8 +835,8 @@
     },
     {
       "name": "Bubba Watson",
-      "score": 14,
-      "thru": 3,
+      "score": 17,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -857,12 +857,12 @@
     },
     {
       "name": "Max Homa",
-      "score": 28,
-      "thru": 7,
+      "score": 31,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        -1,
         0
       ]
     },
