@@ -13,6 +13,18 @@ const path = require('path');
 const ESPN_URL = 'https://site.api.espn.com/apis/site/v2/sports/golf/leaderboard';
 const OUT_PATH = path.join(__dirname, '..', 'data', 'scores.json');
 
+// Augusta National par by hole (holes 1–18)
+const AUGUSTA_PAR = [4,5,4,3,4,3,4,5,4, 4,4,3,5,4,5,3,4,4]; // total par 72
+
+// Returns cumulative par for `holesPlayed` holes starting at `startHole` (1-indexed)
+function cumulativePar(holesPlayed, startHole) {
+  let par = 0;
+  for (let i = 0; i < holesPlayed; i++) {
+    par += AUGUSTA_PAR[(startHole - 1 + i) % 18];
+  }
+  return par;
+}
+
 async function fetchScores() {
   console.log(`[${new Date().toISOString()}] Fetching scores from ESPN…`);
 
@@ -89,6 +101,16 @@ async function fetchScores() {
     // Convert string "18" or "F" to appropriate types
     if (thruRaw === 'F' || thruRaw === 'f') thruRaw = 18;
     else if (typeof thruRaw === 'string') thruRaw = parseInt(thruRaw, 10) || null;
+
+    // ── Strokes → to-par conversion ───────────────────────────────────────────
+    // For active/in-progress players ESPN returns c.score.value as total STROKES
+    // for the current round, not score-to-par. Convert by subtracting Augusta par
+    // for the holes played so far. Completed rounds come back as to-par already.
+    const startHole   = c.status?.startHole || 1;
+    const playerState = c.status?.type?.state || 'pre'; // 'pre' | 'in' | 'post'
+    if (playerState === 'in' && typeof thruRaw === 'number' && thruRaw > 0) {
+      scoreValue = scoreValue - cumulativePar(thruRaw, startHole);
+    }
 
     let status = 'active';
     if (statusType.includes('CUT'))                          status = 'cut';
