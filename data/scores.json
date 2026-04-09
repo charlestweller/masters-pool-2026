@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T19:35:08.542Z",
+  "lastUpdated": "2026-04-09T19:40:09.775Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -142,19 +142,19 @@
     },
     {
       "name": "Andrew Novak",
-      "score": 3,
-      "thru": 14,
+      "score": 2,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        2,
         0
       ]
     },
     {
       "name": "Robert MacIntyre",
       "score": 1,
-      "thru": 6,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -253,7 +253,7 @@
     {
       "name": "Gary Woodland",
       "score": -2,
-      "thru": 6,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -396,7 +396,7 @@
     {
       "name": "Min Woo Lee",
       "score": 4,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -495,7 +495,7 @@
     {
       "name": "Harry Hall",
       "score": 1,
-      "thru": 9,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -572,7 +572,7 @@
     {
       "name": "Michael Brennan",
       "score": 0,
-      "thru": 9,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -868,12 +868,12 @@
     },
     {
       "name": "Michael Kim",
-      "score": 2,
-      "thru": 13,
+      "score": 3,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
@@ -902,7 +902,7 @@
     {
       "name": "Fred Couples",
       "score": -1,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -913,7 +913,7 @@
     {
       "name": "Corey Conners",
       "score": 0,
-      "thru": 9,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -946,7 +946,7 @@
     {
       "name": "Scottie Scheffler",
       "score": -3,
-      "thru": 6,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
