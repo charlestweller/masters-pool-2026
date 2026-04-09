@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T20:30:08.950Z",
+  "lastUpdated": "2026-04-09T20:35:08.496Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -121,7 +121,7 @@
     {
       "name": "Nicolai Højgaard",
       "score": 3,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -450,12 +450,12 @@
     },
     {
       "name": "Mike Weir",
-      "score": 8,
-      "thru": 17,
-      "status": "active",
+      "score": 9,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        8,
+        9,
         0
       ]
     },
@@ -473,7 +473,7 @@
     {
       "name": "Marco Penge",
       "score": 5,
-      "thru": 8,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -682,7 +682,7 @@
     {
       "name": "Harris English",
       "score": 2,
-      "thru": 8,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -704,7 +704,7 @@
     {
       "name": "Jordan Spieth",
       "score": -2,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -759,7 +759,7 @@
     {
       "name": "Justin Rose",
       "score": -3,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -803,7 +803,7 @@
     {
       "name": "Brooks Koepka",
       "score": 1,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -813,19 +813,19 @@
     },
     {
       "name": "Zach Johnson",
-      "score": 1,
-      "thru": 16,
+      "score": 2,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
     {
       "name": "Si Woo Kim",
       "score": 1,
-      "thru": 8,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -869,7 +869,7 @@
     {
       "name": "Michael Kim",
       "score": 3,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -880,7 +880,7 @@
     {
       "name": "Daniel Berger",
       "score": 3,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
