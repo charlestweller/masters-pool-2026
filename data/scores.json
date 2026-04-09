@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-09T13:19:39.105Z",
+  "lastUpdated": "2026-04-09T13:25:12.654Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 29,
-  "cutPenalty": 39,
+  "worstActiveScore": 30,
+  "cutPenalty": 40,
   "projectedCut": 0,
   "golfers": [
     {
@@ -54,12 +54,12 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 4,
-      "thru": 1,
+      "score": 8,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -340,8 +340,8 @@
     },
     {
       "name": "Kristoffer Reitan",
-      "score": 4,
-      "thru": 1,
+      "score": 9,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -505,8 +505,8 @@
     },
     {
       "name": "Casey Jarvis",
-      "score": 4,
-      "thru": 1,
+      "score": 9,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -527,8 +527,8 @@
     },
     {
       "name": "Naoyuki Kataoka",
-      "score": 22,
-      "thru": 5,
+      "score": 25,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -714,8 +714,8 @@
     },
     {
       "name": "Carlos Ortiz",
-      "score": 27,
-      "thru": 5,
+      "score": 30,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -857,8 +857,8 @@
     },
     {
       "name": "Max Homa",
-      "score": 20,
-      "thru": 5,
+      "score": 23,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
