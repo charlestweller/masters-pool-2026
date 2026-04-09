@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T19:00:12.188Z",
+  "lastUpdated": "2026-04-09T19:05:09.481Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -22,7 +22,7 @@
     {
       "name": "Davis Riley",
       "score": 7,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -66,7 +66,7 @@
     {
       "name": "Collin Morikawa",
       "score": 2,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -120,12 +120,12 @@
     },
     {
       "name": "Nicolai Højgaard",
-      "score": 2,
-      "thru": 11,
+      "score": 3,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
@@ -153,19 +153,19 @@
     },
     {
       "name": "Robert MacIntyre",
-      "score": -1,
-      "thru": 4,
+      "score": 0,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
     {
       "name": "Sungjae Im",
       "score": 4,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -175,12 +175,12 @@
     },
     {
       "name": "Brian Harman",
-      "score": 3,
-      "thru": 9,
+      "score": 4,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        4,
         0
       ]
     },
@@ -253,7 +253,7 @@
     {
       "name": "Gary Woodland",
       "score": -2,
-      "thru": 4,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -319,7 +319,7 @@
     {
       "name": "Danny Willett",
       "score": 0,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -429,7 +429,7 @@
     {
       "name": "Sam Stevens",
       "score": 1,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -638,7 +638,7 @@
     {
       "name": "Ethan Fang",
       "score": 0,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -681,19 +681,19 @@
     },
     {
       "name": "Harris English",
-      "score": 0,
-      "thru": 3,
+      "score": 1,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
     {
       "name": "Russell Henley",
       "score": -1,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -770,7 +770,7 @@
     {
       "name": "Hideki Matsuyama",
       "score": 0,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -814,7 +814,7 @@
     {
       "name": "Zach Johnson",
       "score": 0,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -868,12 +868,12 @@
     },
     {
       "name": "Michael Kim",
-      "score": 1,
-      "thru": 11,
+      "score": 2,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
@@ -946,7 +946,7 @@
     {
       "name": "Scottie Scheffler",
       "score": -3,
-      "thru": 4,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
