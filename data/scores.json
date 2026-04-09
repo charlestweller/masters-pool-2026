@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T22:45:10.979Z",
+  "lastUpdated": "2026-04-09T22:50:12.270Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -704,8 +704,8 @@
     {
       "name": "Jordan Spieth",
       "score": 0,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
@@ -758,12 +758,12 @@
     },
     {
       "name": "Justin Rose",
-      "score": -3,
-      "thru": 17,
-      "status": "active",
+      "score": -2,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        -3,
+        -2,
         0
       ]
     },
@@ -802,12 +802,12 @@
     },
     {
       "name": "Brooks Koepka",
-      "score": -1,
-      "thru": 17,
-      "status": "active",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
