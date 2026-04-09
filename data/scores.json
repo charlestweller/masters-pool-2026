@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T22:05:11.393Z",
+  "lastUpdated": "2026-04-09T22:10:10.360Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -44,7 +44,7 @@
     {
       "name": "J.J. Spaun",
       "score": 2,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -737,7 +737,7 @@
     {
       "name": "Tyrrell Hatton",
       "score": 1,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -968,7 +968,7 @@
     {
       "name": "Maverick McNealy",
       "score": 5,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
