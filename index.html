@@ -693,9 +693,7 @@
   <div class="header-sub">Augusta National Golf Club</div>
   <div class="header-rule"></div>
   <!-- REMOVE the line below once the tournament starts (entries closed) -->
-  <a href="entry.html" class="enter-btn">Submit Your Entry &rarr;</a>
-  <!-- HIDDEN UNTIL POOL OPENS: remove style="display:none" to show -->
-  <div style="display:none">
+   <!--  <a href="entry.html" class="enter-btn">Submit Your Entry &rarr;</a> -->
   <div class="header-rule" style="margin-top:16px"></div>
   <div class="status-bar">
     <div class="status-pill" id="round-pill">
@@ -712,7 +710,7 @@
 <div class="container">
 
   <!-- HIDDEN UNTIL POOL OPENS: remove the style="display:none" to show -->
-  <div style="display:none">
+ <!-- <div style="display:none"> -->
   <div class="info-strip">
     <div class="info-card"><div class="label">Projected Cut</div><div class="value" id="projected-cut">—</div></div>
     <div class="info-card"><div class="label">1st Place</div><div class="value" id="payout-1">—</div></div>
@@ -837,7 +835,10 @@ function renderStatus(scores) {
     roundEl.textContent = 'Final Results';
   } else if (ts === 'in-progress') {
     pill.classList.add('live');
-    roundEl.textContent = `Live · Round ${round}` + (scores.roundDetail ? ` · ${scores.roundDetail}` : '');
+    // Strip leading "Round N" from detail to avoid "Live · Round 1 · Round 1 - In Progress"
+    const detail = scores.roundDetail || '';
+    const cleanDetail = detail.replace(/^Round\s+\d+\s*[-–]?\s*/i, '').trim();
+    roundEl.textContent = `Live · Round ${round}` + (cleanDetail ? ` · ${cleanDetail}` : '');
   } else {
     roundEl.textContent = round > 0 ? `Round ${round} Complete` : 'Pre-Tournament';
   }
@@ -958,7 +959,10 @@ function buildGolferMap(scoresData) {
   const map = {};
   if (!scoresData?.golfers) return map;
   for (const g of scoresData.golfers) {
-    if (g.name) map[g.name.toLowerCase()] = g;
+    if (g.name) {
+      map[g.name.toLowerCase()] = g;
+      map[normalizeStr(g.name)]  = g; // also index by accent-stripped name
+    }
   }
   return map;
 }
@@ -968,11 +972,13 @@ function resolveGolfer(name, map, cutPenalty, scoresData) {
   const hasTourneyData = !!(scoresData?.golfers?.length);
   if (!hasTourneyData) return { displayName: display, scoreValue: 0, status: 'pre', thru: null };
 
-  const key = name.toLowerCase().trim();
-  let golfer = map[key];
+  const key     = name.toLowerCase().trim();
+  const keyNorm = normalizeStr(name);
+  let golfer = map[key] || map[keyNorm];
   if (!golfer) {
-    const last = key.split(' ').pop();
-    golfer = Object.values(map).find(g => g.name.toLowerCase().endsWith(last));
+    // Fall back to last-name match, also accent-insensitive
+    const lastNorm = keyNorm.split(' ').pop();
+    golfer = Object.values(map).find(g => normalizeStr(g.name).endsWith(lastNorm));
   }
   if (!golfer) return { displayName: display, scoreValue: 0, status: 'unknown', thru: null };
 
@@ -1006,13 +1012,19 @@ function scoreClass(n) {
 }
 
 function thruLabel(t) {
-  if (t === null || t === undefined) return '';
-  return (t === 18 || t === 'F') ? 'F' : `T${t}`;
+  if (t === null || t === undefined || t === 0) return '';
+  if (t === 18 || t === 'F') return 'F';
+  return `Thru ${t}`;
 }
 
 function lastName(full) {
   const parts = full.trim().split(' ');
   return parts.length < 2 ? full : parts[parts.length - 1];
+}
+
+// Strip accents/diacritics for fuzzy name matching (García ↔ Garcia, Åberg ↔ Aberg, etc.)
+function normalizeStr(s) {
+  return (s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
 }
 
 function esc(s) {
