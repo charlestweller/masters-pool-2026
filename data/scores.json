@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T13:45:11.500Z",
+  "lastUpdated": "2026-04-09T13:50:11.390Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -54,8 +54,8 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 12,
-      "thru": 3,
+      "score": 15,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -87,8 +87,8 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 17,
-      "thru": 4,
+      "score": 21,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -98,12 +98,12 @@
     },
     {
       "name": "Max Greyserman",
-      "score": 15,
-      "thru": 4,
+      "score": 20,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -307,12 +307,12 @@
     },
     {
       "name": "Ryan Fox",
-      "score": 18,
-      "thru": 4,
+      "score": 23,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
