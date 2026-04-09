@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T21:15:13.792Z",
+  "lastUpdated": "2026-04-09T21:20:10.397Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -176,8 +176,8 @@
     {
       "name": "Brian Harman",
       "score": 7,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         7,
@@ -285,12 +285,12 @@
     },
     {
       "name": "Adam Scott",
-      "score": -1,
-      "thru": 17,
-      "status": "active",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -362,12 +362,12 @@
     },
     {
       "name": "Ludvig Åberg",
-      "score": 3,
-      "thru": 13,
+      "score": 2,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        2,
         0
       ]
     },
@@ -704,7 +704,7 @@
     {
       "name": "Jordan Spieth",
       "score": -2,
-      "thru": 12,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -758,12 +758,12 @@
     },
     {
       "name": "Justin Rose",
-      "score": -3,
-      "thru": 12,
+      "score": -4,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        -3,
+        -4,
         0
       ]
     },
@@ -803,7 +803,7 @@
     {
       "name": "Brooks Koepka",
       "score": 1,
-      "thru": 12,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -879,12 +879,12 @@
     },
     {
       "name": "Daniel Berger",
-      "score": 3,
-      "thru": 17,
-      "status": "active",
+      "score": 4,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        3,
+        4,
         0
       ]
     },
