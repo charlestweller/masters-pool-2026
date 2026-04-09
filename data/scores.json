@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T15:30:10.133Z",
+  "lastUpdated": "2026-04-09T15:35:09.224Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -10,8 +10,8 @@
   "golfers": [
     {
       "name": "Bryson DeChambeau",
-      "score": 16,
-      "thru": 4,
+      "score": 20,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -296,12 +296,12 @@
     },
     {
       "name": "Vijay Singh",
-      "score": 38,
-      "thru": 9,
+      "score": 43,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
@@ -329,12 +329,12 @@
     },
     {
       "name": "Tom McKibbin",
-      "score": 0,
-      "thru": 0,
+      "score": 5,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -406,8 +406,8 @@
     },
     {
       "name": "Akshay Bhatia",
-      "score": 19,
-      "thru": 5,
+      "score": 22,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -461,12 +461,12 @@
     },
     {
       "name": "Sami Välimäki",
-      "score": 41,
-      "thru": 10,
+      "score": 47,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        3,
         0
       ]
     },
@@ -747,8 +747,8 @@
     },
     {
       "name": "Patrick Reed",
-      "score": 17,
-      "thru": 5,
+      "score": 20,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -791,8 +791,8 @@
     },
     {
       "name": "Ángel Cabrera",
-      "score": 45,
-      "thru": 10,
+      "score": 49,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -989,12 +989,12 @@
     },
     {
       "name": "Jake Knapp",
-      "score": 27,
-      "thru": 7,
+      "score": 31,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
