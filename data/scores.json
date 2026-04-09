@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T20:15:12.312Z",
+  "lastUpdated": "2026-04-09T20:20:08.659Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -76,12 +76,12 @@
     },
     {
       "name": "Aaron Rai",
-      "score": -1,
-      "thru": 12,
+      "score": -2,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        -2,
         0
       ]
     },
@@ -120,12 +120,12 @@
     },
     {
       "name": "Nicolai Højgaard",
-      "score": 1,
-      "thru": 15,
+      "score": 3,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        3,
         0
       ]
     },
@@ -450,12 +450,12 @@
     },
     {
       "name": "Mike Weir",
-      "score": 6,
-      "thru": 16,
+      "score": 8,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        6,
+        8,
         0
       ]
     },
@@ -582,12 +582,12 @@
     },
     {
       "name": "Jacob Bridgeman",
-      "score": 1,
-      "thru": 12,
+      "score": 0,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -638,7 +638,7 @@
     {
       "name": "Ethan Fang",
       "score": 1,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
