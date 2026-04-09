@@ -52,55 +52,30 @@ async function fetchScores() {
   else if (statusName.includes('COMPLETE') || statusName.includes('FINAL')) tournamentStatus = 'complete';
   else if (statusName.includes('SCHEDULED')) tournamentStatus = 'scheduled';
 
-  // Log the FULL first competitor so we can diagnose score field issues in Actions logs
-  if (competition.competitors?.length) {
-    console.log('=== FIRST COMPETITOR RAW (for debugging) ===');
-    console.log(JSON.stringify(competition.competitors[0], null, 2));
-    console.log('=== END SAMPLE ===');
-  }
+  // Log a few players so scores are visible in Actions logs
+  const samplePlayers = competition.competitors?.slice(0, 3) || [];
+  samplePlayers.forEach(p => {
+    const sc = p.score?.value ?? p.score;
+    console.log(`  ${p.athlete?.displayName}: score.value=${sc}, thru=${p.status?.thru}`);
+  });
 
   // Parse every competitor
   const golfers = (competition.competitors || []).map(c => {
     const name = c.athlete?.displayName || c.displayName || 'Unknown';
 
     // ── Score to par ──────────────────────────────────────────────────────────
-    // ESPN can return score as:
-    //   - a plain string: "-5", "+2", "E", "--", null
-    //   - an object:      { displayValue: "-5", value: -5 }
-    // For in-progress rounds the primary field is sometimes null/0; try fallbacks.
-
-    // Path 1: c.score
-    let rawScore = c.score;
-    if (rawScore !== null && rawScore !== undefined && typeof rawScore === 'object') {
-      rawScore = rawScore.displayValue ?? rawScore.value ?? null;
-    }
-    let scoreValue = parseScore(rawScore);
-
-    // Path 2: c.linescores — ESPN sometimes stores the running to-par score here
-    if (scoreValue === 0 && c.linescores?.length) {
-      // Try the last linescore entry's displayValue (current/most-recent round)
-      for (let i = c.linescores.length - 1; i >= 0; i--) {
-        const ls = c.linescores[i];
-        const lsRaw = ls.displayValue ?? ls.value;
-        if (lsRaw !== null && lsRaw !== undefined && String(lsRaw) !== '--') {
-          const lsVal = parseScore(lsRaw);
-          if (lsVal !== 0 || String(lsRaw).toUpperCase() === 'E') {
-            scoreValue = lsVal;
-            break;
-          }
-        }
+    // ESPN returns score as an object: { value: -5, displayValue: "-5" }
+    // displayValue is "-" (a dash) when no score yet — must use .value (the number).
+    let scoreValue;
+    if (c.score !== null && c.score !== undefined) {
+      if (typeof c.score === 'object') {
+        // Use numeric .value directly; it's 0 for even/not-started, -5 for 5 under, etc.
+        scoreValue = typeof c.score.value === 'number' ? c.score.value : parseScore(c.score.displayValue);
+      } else {
+        scoreValue = parseScore(c.score);
       }
-    }
-
-    // Path 3: c.statistics — look for a stat labeled score/total
-    if (scoreValue === 0 && c.statistics?.length) {
-      for (const stat of c.statistics) {
-        const label = (stat.name || stat.abbreviation || '').toLowerCase();
-        if (label === 'score' || label === 'sc' || label === 'tot' || label === 'total') {
-          const sv = parseScore(stat.displayValue ?? stat.value);
-          if (sv !== 0) { scoreValue = sv; break; }
-        }
-      }
+    } else {
+      scoreValue = 0;
     }
 
     const statusType = c.status?.type?.name || '';
