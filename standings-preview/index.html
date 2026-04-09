@@ -258,11 +258,22 @@
     }
 
     /* ── TABLE ──────────────────────────────────────── */
-    table {
+    .thead-scroll {
+      overflow-x: hidden; /* scrolled in sync with .table-scroll via JS */
+    }
+
+    .thead-table,
+    .data-table {
       width: 100%;
       min-width: 840px;
+      table-layout: fixed;
       border-collapse: collapse;
     }
+
+    .col-pos     { width: 60px; }
+    .col-entrant { width: 200px; }
+    .col-golfer  { width: 148px; }
+    .col-total   { width: 82px; }
 
     thead tr {
       background: rgba(0,0,0,0.35);
@@ -416,22 +427,22 @@
 
     /* Sticky Total column on mobile */
     @media (max-width: 860px) {
-      thead th:last-child {
+      .thead-table thead th:last-child {
         position: sticky;
         right: 0;
         z-index: 2;
         background: #122e1e;
         box-shadow: -3px 0 8px rgba(0,0,0,0.45);
       }
-      tbody td:last-child {
+      .data-table tbody td:last-child {
         position: sticky;
         right: 0;
         z-index: 1;
       }
-      tbody tr:nth-child(odd)  td:last-child { background: #1e4932; }
-      tbody tr:nth-child(even) td:last-child { background: #153c27; }
-      tbody tr:hover           td:last-child { background: #254e33; }
-      tbody tr.search-highlight td:last-child { background: #2b5c3a !important; }
+      .data-table tbody tr:nth-child(odd)  td:last-child { background: #1e4932; }
+      .data-table tbody tr:nth-child(even) td:last-child { background: #153c27; }
+      .data-table tbody tr:hover           td:last-child { background: #254e33; }
+      .data-table tbody tr.search-highlight td:last-child { background: #2b5c3a !important; }
     }
 
     /* ── NAME SEARCH ────────────────────────────────── */
@@ -715,20 +726,42 @@
         <input class="search-input" id="name-search" type="text" placeholder="Search entrant name…" oninput="searchEntrant(this.value)" autocomplete="off" spellcheck="false" />
         <button class="search-clear" id="search-clear" onclick="clearSearch()" style="display:none" aria-label="Clear search">✕</button>
       </div>
+      <div class="thead-scroll" id="thead-scroll">
+        <table class="thead-table">
+          <colgroup>
+            <col class="col-pos">
+            <col class="col-entrant">
+            <col class="col-golfer">
+            <col class="col-golfer">
+            <col class="col-golfer">
+            <col class="col-golfer">
+            <col class="col-total">
+          </colgroup>
+          <thead>
+            <tr>
+              <th>Pos</th>
+              <th class="left">Entrant</th>
+              <th>Golfer 1</th>
+              <th>Golfer 2</th>
+              <th>Golfer 3</th>
+              <th>Golfer 4</th>
+              <th>Total</th>
+            </tr>
+          </thead>
+        </table>
+      </div>
     </div>
-    <div class="table-scroll">
-      <table>
-        <thead>
-          <tr>
-            <th>Pos</th>
-            <th class="left">Entrant</th>
-            <th>Golfer 1</th>
-            <th>Golfer 2</th>
-            <th>Golfer 3</th>
-            <th>Golfer 4</th>
-            <th>Total</th>
-          </tr>
-        </thead>
+    <div class="table-scroll" id="table-scroll">
+      <table class="data-table">
+        <colgroup>
+          <col class="col-pos">
+          <col class="col-entrant">
+          <col class="col-golfer">
+          <col class="col-golfer">
+          <col class="col-golfer">
+          <col class="col-golfer">
+          <col class="col-total">
+        </colgroup>
         <tbody id="leaderboard-body"></tbody>
       </table>
     </div>
@@ -981,6 +1014,17 @@ function esc(s) {
   return (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
+// ── Horizontal scroll sync (thead ↔ tbody) ────────────────────────────────────
+function initScrollSync() {
+  const tableScroll = document.getElementById('table-scroll');
+  const theadScroll = document.getElementById('thead-scroll');
+  if (tableScroll && theadScroll) {
+    tableScroll.addEventListener('scroll', () => {
+      theadScroll.scrollLeft = tableScroll.scrollLeft;
+    });
+  }
+}
+
 // ── Sticky header offset ──────────────────────────────────────────────────────
 function updateStickyOffset() {
   const hdr = document.getElementById('board-sticky-header');
@@ -1038,6 +1082,7 @@ main().then(() => updateStickyOffset());
 setInterval(() => main().then(() => updateStickyOffset()), CONFIG.autoRefreshMs);
 window.addEventListener('resize', updateStickyOffset);
 updateStickyOffset();
+initScrollSync();
 </script>
 </body>
 </html>
