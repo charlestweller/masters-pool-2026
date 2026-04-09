@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-09T12:50:07.772Z",
+  "lastUpdated": "2026-04-09T13:05:43.411Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 0,
-  "cutPenalty": 10,
+  "worstActiveScore": 5,
+  "cutPenalty": 15,
   "projectedCut": 0,
   "golfers": [
     {
@@ -55,7 +55,7 @@
     {
       "name": "Kurt Kitayama",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -87,8 +87,8 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 0,
-      "thru": 1,
+      "score": 1,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -99,7 +99,7 @@
     {
       "name": "Max Greyserman",
       "score": 0,
-      "thru": 1,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -132,7 +132,7 @@
     {
       "name": "Rasmus Højgaard",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -219,12 +219,12 @@
     },
     {
       "name": "José María Olazábal",
-      "score": 0,
-      "thru": 2,
+      "score": -2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        -2,
         0
       ]
     },
@@ -297,7 +297,7 @@
     {
       "name": "Vijay Singh",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -307,12 +307,12 @@
     },
     {
       "name": "Ryan Fox",
-      "score": 0,
-      "thru": 1,
+      "score": 2,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
@@ -341,7 +341,7 @@
     {
       "name": "Kristoffer Reitan",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -462,7 +462,7 @@
     {
       "name": "Sami Välimäki",
       "score": 0,
-      "thru": 1,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -506,7 +506,7 @@
     {
       "name": "Casey Jarvis",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -527,8 +527,8 @@
     },
     {
       "name": "Naoyuki Kataoka",
-      "score": 0,
-      "thru": 3,
+      "score": 1,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -549,8 +549,8 @@
     },
     {
       "name": "Rasmus Neergaard-Petersen",
-      "score": 0,
-      "thru": 2,
+      "score": 1,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -561,7 +561,7 @@
     {
       "name": "Matt McCarty",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -604,8 +604,8 @@
     },
     {
       "name": "Aldrich Potgieter",
-      "score": 0,
-      "thru": 2,
+      "score": 2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -615,12 +615,12 @@
     },
     {
       "name": "Johnny Keefer",
-      "score": 0,
-      "thru": 4,
+      "score": 2,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
@@ -671,11 +671,11 @@
     {
       "name": "Jackson Herrington",
       "score": 0,
-      "thru": 1,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -714,12 +714,12 @@
     },
     {
       "name": "Carlos Ortiz",
-      "score": 0,
-      "thru": 3,
+      "score": 5,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        5,
         0
       ]
     },
@@ -791,12 +791,12 @@
     },
     {
       "name": "Ángel Cabrera",
-      "score": 0,
-      "thru": 1,
+      "score": -1,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -858,7 +858,7 @@
     {
       "name": "Max Homa",
       "score": 0,
-      "thru": 3,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -934,12 +934,12 @@
     },
     {
       "name": "Haotong Li",
-      "score": 0,
-      "thru": 4,
+      "score": 1,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
