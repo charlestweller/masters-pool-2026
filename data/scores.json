@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-09T17:33:32.973Z",
+  "lastUpdated": "2026-04-09T17:35:09.815Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 84,
-  "cutPenalty": 94,
+  "worstActiveScore": 12,
+  "cutPenalty": 22,
   "projectedCut": 1,
   "golfers": [
     {
@@ -33,7 +33,7 @@
     {
       "name": "Xander Schauffele",
       "score": -2,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -87,7 +87,7 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 75,
+      "score": 3,
       "thru": 18,
       "status": "complete",
       "position": "",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Max Greyserman",
-      "score": 79,
+      "score": 7,
       "thru": 18,
       "status": "complete",
       "position": "",
@@ -208,18 +208,18 @@
     },
     {
       "name": "Brandon Holtz",
-      "score": 7,
-      "thru": 14,
+      "score": 8,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        7,
+        8,
         0
       ]
     },
     {
       "name": "José María Olazábal",
-      "score": 74,
+      "score": 2,
       "thru": 18,
       "status": "complete",
       "position": "",
@@ -307,7 +307,7 @@
     },
     {
       "name": "Ryan Fox",
-      "score": 77,
+      "score": 5,
       "thru": 18,
       "status": "complete",
       "position": "",
@@ -461,7 +461,7 @@
     },
     {
       "name": "Sami Välimäki",
-      "score": 80,
+      "score": 8,
       "thru": 18,
       "status": "complete",
       "position": "",
@@ -527,7 +527,7 @@
     },
     {
       "name": "Naoyuki Kataoka",
-      "score": 84,
+      "score": 12,
       "thru": 18,
       "status": "complete",
       "position": "",
@@ -549,7 +549,7 @@
     },
     {
       "name": "Rasmus Neergaard-Petersen",
-      "score": 77,
+      "score": 5,
       "thru": 18,
       "status": "complete",
       "position": "",
@@ -604,7 +604,7 @@
     },
     {
       "name": "Aldrich Potgieter",
-      "score": 84,
+      "score": 12,
       "thru": 18,
       "status": "complete",
       "position": "",
@@ -615,7 +615,7 @@
     },
     {
       "name": "Johnny Keefer",
-      "score": 76,
+      "score": 4,
       "thru": 18,
       "status": "complete",
       "position": "",
@@ -670,7 +670,7 @@
     },
     {
       "name": "Jackson Herrington",
-      "score": 76,
+      "score": 4,
       "thru": 18,
       "status": "complete",
       "position": "",
@@ -714,7 +714,7 @@
     },
     {
       "name": "Carlos Ortiz",
-      "score": 80,
+      "score": 8,
       "thru": 18,
       "status": "complete",
       "position": "",
@@ -791,7 +791,7 @@
     },
     {
       "name": "Ángel Cabrera",
-      "score": 79,
+      "score": 7,
       "thru": 18,
       "status": "complete",
       "position": "",
@@ -836,7 +836,7 @@
     {
       "name": "Bubba Watson",
       "score": 4,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -857,7 +857,7 @@
     },
     {
       "name": "Max Homa",
-      "score": 72,
+      "score": 0,
       "thru": 18,
       "status": "complete",
       "position": "",
@@ -913,7 +913,7 @@
     {
       "name": "Corey Conners",
       "score": 1,
-      "thru": 2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -934,7 +934,7 @@
     },
     {
       "name": "Haotong Li",
-      "score": 71,
+      "score": -1,
       "thru": 18,
       "status": "complete",
       "position": "",
