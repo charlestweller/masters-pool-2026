@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T15:45:10.198Z",
+  "lastUpdated": "2026-04-09T15:50:09.251Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -10,8 +10,8 @@
   "golfers": [
     {
       "name": "Bryson DeChambeau",
-      "score": 20,
-      "thru": 5,
+      "score": 23,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -54,12 +54,12 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 33,
-      "thru": 9,
+      "score": 36,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        -3,
+        -4,
         0
       ]
     },
@@ -142,8 +142,8 @@
     },
     {
       "name": "Andrew Novak",
-      "score": 4,
-      "thru": 1,
+      "score": 9,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -329,19 +329,19 @@
     },
     {
       "name": "Tom McKibbin",
-      "score": 5,
-      "thru": 1,
+      "score": 9,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
     {
       "name": "Kristoffer Reitan",
-      "score": 36,
-      "thru": 9,
+      "score": 40,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -505,12 +505,12 @@
     },
     {
       "name": "Casey Jarvis",
-      "score": 38,
-      "thru": 9,
+      "score": 41,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        1,
         0
       ]
     },
@@ -890,8 +890,8 @@
     },
     {
       "name": "Matt Fitzpatrick",
-      "score": 21,
-      "thru": 5,
+      "score": 24,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -923,8 +923,8 @@
     },
     {
       "name": "Cameron Smith",
-      "score": 32,
-      "thru": 8,
+      "score": 36,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -956,12 +956,12 @@
     },
     {
       "name": "Brian Campbell",
-      "score": 3,
-      "thru": 1,
+      "score": 7,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        -2,
         0
       ]
     },
@@ -989,8 +989,8 @@
     },
     {
       "name": "Jake Knapp",
-      "score": 31,
-      "thru": 8,
+      "score": 35,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -1000,8 +1000,8 @@
     },
     {
       "name": "Sam Burns",
-      "score": 30,
-      "thru": 8,
+      "score": 34,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
