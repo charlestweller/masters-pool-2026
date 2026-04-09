@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T20:05:08.306Z",
+  "lastUpdated": "2026-04-09T20:10:11.017Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -165,8 +165,8 @@
     {
       "name": "Sungjae Im",
       "score": 4,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         4,
@@ -176,7 +176,7 @@
     {
       "name": "Brian Harman",
       "score": 5,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -395,12 +395,12 @@
     },
     {
       "name": "Min Woo Lee",
-      "score": 3,
-      "thru": 12,
+      "score": 5,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        5,
         0
       ]
     },
@@ -648,12 +648,12 @@
     },
     {
       "name": "Fifa Laopakdee",
-      "score": 6,
-      "thru": 12,
+      "score": 5,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        6,
+        5,
         0
       ]
     },
@@ -901,12 +901,12 @@
     },
     {
       "name": "Fred Couples",
-      "score": -1,
-      "thru": 12,
+      "score": -2,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        -2,
         0
       ]
     },
