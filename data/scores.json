@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T23:30:10.101Z",
+  "lastUpdated": "2026-04-09T23:35:12.982Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -682,8 +682,8 @@
     {
       "name": "Harris English",
       "score": 1,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         1,
@@ -825,8 +825,8 @@
     {
       "name": "Si Woo Kim",
       "score": 3,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         3,
