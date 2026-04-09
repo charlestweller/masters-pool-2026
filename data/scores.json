@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T15:50:09.251Z",
+  "lastUpdated": "2026-04-09T15:55:14.088Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 67,
-  "cutPenalty": 77,
-  "projectedCut": 18,
+  "worstActiveScore": 72,
+  "cutPenalty": 82,
+  "projectedCut": 20,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -87,23 +87,23 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 46,
-      "thru": 11,
+      "score": 48,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        1,
         0
       ]
     },
     {
       "name": "Max Greyserman",
-      "score": 48,
-      "thru": 11,
+      "score": 52,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        5,
         0
       ]
     },
@@ -164,8 +164,8 @@
     },
     {
       "name": "Sungjae Im",
-      "score": 9,
-      "thru": 2,
+      "score": 13,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -197,8 +197,8 @@
     },
     {
       "name": "Jason Day",
-      "score": 24,
-      "thru": 6,
+      "score": 28,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -230,12 +230,12 @@
     },
     {
       "name": "Dustin Johnson",
-      "score": 22,
-      "thru": 6,
+      "score": 27,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -274,8 +274,8 @@
     },
     {
       "name": "Alex Noren",
-      "score": 14,
-      "thru": 3,
+      "score": 17,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -307,8 +307,8 @@
     },
     {
       "name": "Ryan Fox",
-      "score": 50,
-      "thru": 11,
+      "score": 53,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -351,12 +351,12 @@
     },
     {
       "name": "Viktor Hovland",
-      "score": 15,
-      "thru": 3,
+      "score": 19,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
@@ -406,8 +406,8 @@
     },
     {
       "name": "Akshay Bhatia",
-      "score": 22,
-      "thru": 6,
+      "score": 26,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -417,19 +417,19 @@
     },
     {
       "name": "Cameron Young",
-      "score": 17,
-      "thru": 4,
+      "score": 22,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
     {
       "name": "Sam Stevens",
-      "score": 8,
-      "thru": 2,
+      "score": 12,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -483,8 +483,8 @@
     },
     {
       "name": "Shane Lowry",
-      "score": 24,
-      "thru": 6,
+      "score": 28,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -615,19 +615,19 @@
     },
     {
       "name": "Johnny Keefer",
-      "score": 67,
-      "thru": 16,
+      "score": 72,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        4,
         0
       ]
     },
     {
       "name": "Mason Howell",
-      "score": 18,
-      "thru": 4,
+      "score": 22,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -725,8 +725,8 @@
     },
     {
       "name": "Tommy Fleetwood",
-      "score": 20,
-      "thru": 6,
+      "score": 24,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -747,8 +747,8 @@
     },
     {
       "name": "Patrick Reed",
-      "score": 20,
-      "thru": 6,
+      "score": 24,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -769,8 +769,8 @@
     },
     {
       "name": "Hideki Matsuyama",
-      "score": 21,
-      "thru": 5,
+      "score": 24,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -780,8 +780,8 @@
     },
     {
       "name": "Patrick Cantlay",
-      "score": 14,
-      "thru": 3,
+      "score": 17,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -813,12 +813,12 @@
     },
     {
       "name": "Zach Johnson",
-      "score": 0,
-      "thru": 0,
+      "score": 5,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -934,8 +934,8 @@
     },
     {
       "name": "Haotong Li",
-      "score": 63,
-      "thru": 16,
+      "score": 67,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
