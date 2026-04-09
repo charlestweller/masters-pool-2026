@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T18:15:09.225Z",
+  "lastUpdated": "2026-04-09T18:20:13.769Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -32,23 +32,23 @@
     },
     {
       "name": "Xander Schauffele",
-      "score": -3,
-      "thru": 13,
+      "score": -2,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        -3,
+        -2,
         0
       ]
     },
     {
       "name": "J.J. Spaun",
-      "score": 1,
-      "thru": 4,
+      "score": 2,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
@@ -110,7 +110,7 @@
     {
       "name": "Wyndham Clark",
       "score": 0,
-      "thru": 9,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -197,12 +197,12 @@
     },
     {
       "name": "Jason Day",
-      "score": -2,
-      "thru": 15,
+      "score": -3,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        -2,
+        -3,
         0
       ]
     },
@@ -231,7 +231,7 @@
     {
       "name": "Dustin Johnson",
       "score": 0,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -374,7 +374,7 @@
     {
       "name": "Ben Griffin",
       "score": 1,
-      "thru": 2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -406,12 +406,12 @@
     },
     {
       "name": "Akshay Bhatia",
-      "score": -1,
-      "thru": 14,
+      "score": 0,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -450,12 +450,12 @@
     },
     {
       "name": "Mike Weir",
-      "score": 5,
-      "thru": 9,
+      "score": 6,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        5,
+        6,
         0
       ]
     },
@@ -484,7 +484,7 @@
     {
       "name": "Shane Lowry",
       "score": -3,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -494,12 +494,12 @@
     },
     {
       "name": "Harry Hall",
-      "score": -1,
-      "thru": 5,
+      "score": 0,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -539,7 +539,7 @@
     {
       "name": "Justin Thomas",
       "score": -1,
-      "thru": 2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -571,12 +571,12 @@
     },
     {
       "name": "Michael Brennan",
-      "score": 1,
-      "thru": 5,
+      "score": 0,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -660,7 +660,7 @@
     {
       "name": "Mateo Pulcini",
       "score": 3,
-      "thru": 9,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -704,7 +704,7 @@
     {
       "name": "Jordan Spieth",
       "score": -1,
-      "thru": 3,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -737,7 +737,7 @@
     {
       "name": "Tyrrell Hatton",
       "score": 1,
-      "thru": 4,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -913,7 +913,7 @@
     {
       "name": "Corey Conners",
       "score": 1,
-      "thru": 5,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -967,12 +967,12 @@
     },
     {
       "name": "Maverick McNealy",
-      "score": 2,
-      "thru": 4,
+      "score": 3,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
