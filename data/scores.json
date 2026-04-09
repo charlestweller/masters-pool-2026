@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T22:40:10.313Z",
+  "lastUpdated": "2026-04-09T22:45:10.979Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -154,7 +154,7 @@
     {
       "name": "Robert MacIntyre",
       "score": 7,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -253,7 +253,7 @@
     {
       "name": "Gary Woodland",
       "score": -1,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -374,7 +374,7 @@
     {
       "name": "Ben Griffin",
       "score": -1,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -473,7 +473,7 @@
     {
       "name": "Marco Penge",
       "score": 5,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -539,7 +539,7 @@
     {
       "name": "Justin Thomas",
       "score": 0,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -682,7 +682,7 @@
     {
       "name": "Harris English",
       "score": -1,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -824,12 +824,12 @@
     },
     {
       "name": "Si Woo Kim",
-      "score": 3,
-      "thru": 14,
+      "score": 2,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        2,
         0
       ]
     },
@@ -847,7 +847,7 @@
     {
       "name": "Sepp Straka",
       "score": 1,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -946,7 +946,7 @@
     {
       "name": "Scottie Scheffler",
       "score": -2,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
