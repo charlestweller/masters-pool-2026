@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T13:55:23.108Z",
+  "lastUpdated": "2026-04-09T14:00:11.131Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -219,8 +219,8 @@
     },
     {
       "name": "José María Olazábal",
-      "score": 21,
-      "thru": 6,
+      "score": 25,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -230,8 +230,8 @@
     },
     {
       "name": "Dustin Johnson",
-      "score": 0,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -296,12 +296,12 @@
     },
     {
       "name": "Vijay Singh",
-      "score": 16,
-      "thru": 4,
+      "score": 21,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -483,12 +483,12 @@
     },
     {
       "name": "Shane Lowry",
-      "score": 0,
-      "thru": 0,
+      "score": 3,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -549,8 +549,8 @@
     },
     {
       "name": "Rasmus Neergaard-Petersen",
-      "score": 24,
-      "thru": 6,
+      "score": 28,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -604,12 +604,12 @@
     },
     {
       "name": "Aldrich Potgieter",
-      "score": 27,
-      "thru": 6,
+      "score": 33,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        6,
         0
       ]
     },
@@ -923,12 +923,12 @@
     },
     {
       "name": "Cameron Smith",
-      "score": 5,
-      "thru": 1,
+      "score": 9,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -989,23 +989,23 @@
     },
     {
       "name": "Jake Knapp",
-      "score": 4,
-      "thru": 1,
+      "score": 8,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
     {
       "name": "Sam Burns",
-      "score": 4,
-      "thru": 1,
+      "score": 7,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -2,
         0
       ]
     }
