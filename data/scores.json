@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T18:37:16.714Z",
+  "lastUpdated": "2026-04-09T18:40:18.316Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -33,7 +33,7 @@
     {
       "name": "Xander Schauffele",
       "score": -2,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -231,7 +231,7 @@
     {
       "name": "Dustin Johnson",
       "score": 0,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -241,12 +241,12 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": -3,
-      "thru": 13,
+      "score": -4,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        -3,
+        -4,
         0
       ]
     },
@@ -418,7 +418,7 @@
     {
       "name": "Cameron Young",
       "score": 2,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -517,7 +517,7 @@
     {
       "name": "Chris Gotterup",
       "score": -1,
-      "thru": 5,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -704,7 +704,7 @@
     {
       "name": "Jordan Spieth",
       "score": -1,
-      "thru": 4,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -802,12 +802,12 @@
     },
     {
       "name": "Brooks Koepka",
-      "score": -1,
-      "thru": 4,
+      "score": 0,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -891,7 +891,7 @@
     {
       "name": "Matt Fitzpatrick",
       "score": 0,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
