@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T16:20:10.269Z",
+  "lastUpdated": "2026-04-09T16:25:15.078Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -54,12 +54,12 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 41,
-      "thru": 11,
+      "score": 46,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
-        -3,
+        -1,
         0
       ]
     },
@@ -208,8 +208,8 @@
     },
     {
       "name": "Brandon Holtz",
-      "score": 46,
-      "thru": 10,
+      "score": 50,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -274,8 +274,8 @@
     },
     {
       "name": "Alex Noren",
-      "score": 21,
-      "thru": 5,
+      "score": 24,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -285,12 +285,12 @@
     },
     {
       "name": "Adam Scott",
-      "score": 0,
-      "thru": 0,
+      "score": 5,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -351,8 +351,8 @@
     },
     {
       "name": "Viktor Hovland",
-      "score": 23,
-      "thru": 5,
+      "score": 26,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -384,12 +384,12 @@
     },
     {
       "name": "Nico Echavarria",
-      "score": 43,
-      "thru": 10,
+      "score": 49,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        5,
         0
       ]
     },
@@ -450,8 +450,8 @@
     },
     {
       "name": "Mike Weir",
-      "score": 16,
-      "thru": 3,
+      "score": 19,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -835,8 +835,8 @@
     },
     {
       "name": "Bubba Watson",
-      "score": 45,
-      "thru": 10,
+      "score": 49,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -879,12 +879,12 @@
     },
     {
       "name": "Daniel Berger",
-      "score": 0,
-      "thru": 0,
+      "score": 5,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
