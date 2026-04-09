@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T22:35:07.905Z",
+  "lastUpdated": "2026-04-09T22:40:10.313Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -363,8 +363,8 @@
     {
       "name": "Ludvig Åberg",
       "score": 2,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         2,
@@ -979,8 +979,8 @@
     {
       "name": "Jon Rahm",
       "score": 6,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         6,
