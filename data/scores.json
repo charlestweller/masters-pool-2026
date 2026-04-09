@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T13:25:12.654Z",
+  "lastUpdated": "2026-04-09T13:30:15.676Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -87,8 +87,8 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 14,
-      "thru": 3,
+      "score": 17,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -98,8 +98,8 @@
     },
     {
       "name": "Max Greyserman",
-      "score": 12,
-      "thru": 3,
+      "score": 15,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -219,8 +219,8 @@
     },
     {
       "name": "José María Olazábal",
-      "score": 14,
-      "thru": 4,
+      "score": 18,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -307,8 +307,8 @@
     },
     {
       "name": "Ryan Fox",
-      "score": 15,
-      "thru": 3,
+      "score": 18,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -549,8 +549,8 @@
     },
     {
       "name": "Rasmus Neergaard-Petersen",
-      "score": 17,
-      "thru": 4,
+      "score": 21,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -560,8 +560,8 @@
     },
     {
       "name": "Matt McCarty",
-      "score": 9,
-      "thru": 2,
+      "score": 13,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -604,12 +604,12 @@
     },
     {
       "name": "Aldrich Potgieter",
-      "score": 18,
-      "thru": 4,
+      "score": 23,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
