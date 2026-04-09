@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T20:25:08.560Z",
+  "lastUpdated": "2026-04-09T20:30:08.950Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -22,7 +22,7 @@
     {
       "name": "Davis Riley",
       "score": 8,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -319,7 +319,7 @@
     {
       "name": "Danny Willett",
       "score": 3,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -396,7 +396,7 @@
     {
       "name": "Min Woo Lee",
       "score": 5,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -637,23 +637,23 @@
     },
     {
       "name": "Ethan Fang",
-      "score": 1,
-      "thru": 15,
+      "score": 2,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
     {
       "name": "Fifa Laopakdee",
-      "score": 5,
-      "thru": 13,
+      "score": 4,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        5,
+        4,
         0
       ]
     },
@@ -902,7 +902,7 @@
     {
       "name": "Fred Couples",
       "score": -2,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
