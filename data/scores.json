@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T23:00:09.101Z",
+  "lastUpdated": "2026-04-09T23:05:07.975Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -253,7 +253,7 @@
     {
       "name": "Gary Woodland",
       "score": -1,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -373,12 +373,12 @@
     },
     {
       "name": "Ben Griffin",
-      "score": -1,
-      "thru": 17,
-      "status": "active",
+      "score": 0,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -847,8 +847,8 @@
     {
       "name": "Sepp Straka",
       "score": 1,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         1,
@@ -946,7 +946,7 @@
     {
       "name": "Scottie Scheffler",
       "score": -2,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
