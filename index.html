@@ -32,6 +32,8 @@
       --font-display:  "Tiempos Headline", "Tiempos", "Times New Roman", serif;
       --font-body:     "Benton Sans", BentonSans, Arial, Helvetica, sans-serif;
       --font-hoefler:  "Hoefler Text", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+
+      --board-header-h: 82px; /* fallback; updated dynamically by JS */
     }
 
     html, body {
@@ -209,16 +211,27 @@
     /* ── BOARD ──────────────────────────────────────── */
     .board-wrap {
       margin-top: 24px;
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
       background: var(--green-main);
       border: 1px solid rgba(252,227,0,0.2);
       border-top: 3px solid var(--yellow);
       box-shadow: 0 8px 48px rgba(0,0,0,0.55);
+      position: relative;
+    }
+
+    .board-sticky-header {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: var(--green-main);
+    }
+
+    .table-scroll {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
     }
 
     @media (max-width: 860px) {
-      .board-wrap::after {
+      .table-scroll::after {
         content: '← swipe to scroll →';
         display: block;
         text-align: center;
@@ -266,6 +279,10 @@
       color: var(--yellow);
       text-align: center;
       white-space: nowrap;
+      position: sticky;
+      top: var(--board-header-h, 82px);
+      z-index: 10;
+      background: #122e1e;
     }
 
     thead th.left { text-align: left; padding-left: 22px; }
@@ -690,7 +707,7 @@
   <!-- HIDDEN UNTIL POOL OPENS: remove the style="display:none" to show -->
   <div style="display:none">
   <div class="info-strip">
-    <div class="info-card"><div class="label">Entry Fee</div><div class="value">$50</div></div>
+    <div class="info-card"><div class="label">Projected Cut</div><div class="value" id="projected-cut">—</div></div>
     <div class="info-card"><div class="label">1st Place</div><div class="value" id="payout-1">—</div></div>
     <div class="info-card"><div class="label">2nd Place</div><div class="value" id="payout-2">—</div></div>
     <div class="info-card"><div class="label">3rd Place</div><div class="value" id="payout-3">—</div></div>
@@ -699,26 +716,30 @@
   </div>
 
   <div class="board-wrap">
-    <div class="section-label">Pool Leaderboard &nbsp;&middot;&nbsp; Sorted by Aggregate Score</div>
-    <div class="search-bar">
-      <span class="search-icon">🔍</span>
-      <input class="search-input" id="name-search" type="text" placeholder="Search entrant name…" oninput="searchEntrant(this.value)" autocomplete="off" spellcheck="false" />
-      <button class="search-clear" id="search-clear" onclick="clearSearch()" style="display:none" aria-label="Clear search">✕</button>
+    <div class="board-sticky-header" id="board-sticky-header">
+      <div class="section-label">Pool Leaderboard &nbsp;&middot;&nbsp; Sorted by Aggregate Score</div>
+      <div class="search-bar">
+        <span class="search-icon">🔍</span>
+        <input class="search-input" id="name-search" type="text" placeholder="Search entrant name…" oninput="searchEntrant(this.value)" autocomplete="off" spellcheck="false" />
+        <button class="search-clear" id="search-clear" onclick="clearSearch()" style="display:none" aria-label="Clear search">✕</button>
+      </div>
     </div>
-    <table>
-      <thead>
-        <tr>
-          <th>Pos</th>
-          <th class="left">Entrant</th>
-          <th>Golfer 1</th>
-          <th>Golfer 2</th>
-          <th>Golfer 3</th>
-          <th>Golfer 4</th>
-          <th>Total</th>
-        </tr>
-      </thead>
-      <tbody id="leaderboard-body"></tbody>
-    </table>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>Pos</th>
+            <th class="left">Entrant</th>
+            <th>Golfer 1</th>
+            <th>Golfer 2</th>
+            <th>Golfer 3</th>
+            <th>Golfer 4</th>
+            <th>Total</th>
+          </tr>
+        </thead>
+        <tbody id="leaderboard-body"></tbody>
+      </table>
+    </div>
   </div>
   </div><!-- end hidden section -->
 
@@ -754,7 +775,7 @@ async function main() {
     loadJson('data/entries.json'),
     loadJson('data/scores.json'),
   ]);
-  renderInfoStrip(entries);
+  renderInfoStrip(entries, scores);
   renderLeaderboard(entries, scores);
   renderStatus(scores);
 }
@@ -797,14 +818,19 @@ function renderStatus(scores) {
 }
 
 // ── Info strip ────────────────────────────────────────────────────────────────
-function renderInfoStrip(entries) {
-  const payouts  = entries?.payouts  || [1250, 700, 50];
-  const minOdds  = entries?.minOdds  || 22500;
-  const count    = entries?.entries?.length ?? '—';
-  document.getElementById('payout-1').textContent   = '$' + payouts[0].toLocaleString();
-  document.getElementById('payout-2').textContent   = '$' + payouts[1].toLocaleString();
-  document.getElementById('payout-3').textContent   = '$' + payouts[2].toLocaleString();
+function renderInfoStrip(entries, scores) {
+  const payouts = entries?.payouts || [1250, 700, 50];
+  const count   = entries?.entries?.length ?? '—';
+  document.getElementById('payout-1').textContent    = '$' + payouts[0].toLocaleString();
+  document.getElementById('payout-2').textContent    = '$' + payouts[1].toLocaleString();
+  document.getElementById('payout-3').textContent    = '$' + payouts[2].toLocaleString();
   document.getElementById('entry-count').textContent = count;
+
+  const cutEl = document.getElementById('projected-cut');
+  if (cutEl) {
+    const cut = scores?.projectedCut ?? null;
+    cutEl.textContent = (cut !== null && cut !== undefined) ? formatScore(cut) : '—';
+  }
 }
 
 // ── Leaderboard ───────────────────────────────────────────────────────────────
@@ -964,6 +990,14 @@ function esc(s) {
   return (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
+// ── Sticky header offset ──────────────────────────────────────────────────────
+function updateStickyOffset() {
+  const hdr = document.getElementById('board-sticky-header');
+  if (hdr) {
+    document.documentElement.style.setProperty('--board-header-h', hdr.offsetHeight + 'px');
+  }
+}
+
 // ── Name search ───────────────────────────────────────────────────────────────
 function searchEntrant(val) {
   const clearBtn = document.getElementById('search-clear');
@@ -1009,8 +1043,10 @@ function dismissPopup() {
   } catch(e) {}
 })();
 
-main();
-setInterval(main, CONFIG.autoRefreshMs);
+main().then(() => updateStickyOffset());
+setInterval(() => main().then(() => updateStickyOffset()), CONFIG.autoRefreshMs);
+window.addEventListener('resize', updateStickyOffset);
+updateStickyOffset();
 </script>
 </body>
 </html>
