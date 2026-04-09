@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T16:50:12.876Z",
+  "lastUpdated": "2026-04-09T16:55:13.475Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 79,
-  "cutPenalty": 89,
-  "projectedCut": 31,
+  "worstActiveScore": 84,
+  "cutPenalty": 94,
+  "projectedCut": 33,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -87,8 +87,8 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 58,
-      "thru": 14,
+      "score": 63,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -164,12 +164,12 @@
     },
     {
       "name": "Sungjae Im",
-      "score": 24,
-      "thru": 6,
+      "score": 29,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
@@ -197,8 +197,8 @@
     },
     {
       "name": "Jason Day",
-      "score": 40,
-      "thru": 10,
+      "score": 44,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -208,8 +208,8 @@
     },
     {
       "name": "Brandon Holtz",
-      "score": 54,
-      "thru": 12,
+      "score": 59,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -230,8 +230,8 @@
     },
     {
       "name": "Dustin Johnson",
-      "score": 40,
-      "thru": 10,
+      "score": 44,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -241,12 +241,12 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": 27,
-      "thru": 7,
+      "score": 31,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -263,8 +263,8 @@
     },
     {
       "name": "Nick Taylor",
-      "score": 42,
-      "thru": 11,
+      "score": 45,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -384,8 +384,8 @@
     },
     {
       "name": "Nico Echavarria",
-      "score": 52,
-      "thru": 12,
+      "score": 57,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -395,8 +395,8 @@
     },
     {
       "name": "Min Woo Lee",
-      "score": 5,
-      "thru": 1,
+      "score": 10,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -406,8 +406,8 @@
     },
     {
       "name": "Akshay Bhatia",
-      "score": 34,
-      "thru": 9,
+      "score": 38,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -417,8 +417,8 @@
     },
     {
       "name": "Cameron Young",
-      "score": 31,
-      "thru": 7,
+      "score": 36,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -428,19 +428,19 @@
     },
     {
       "name": "Sam Stevens",
-      "score": 21,
-      "thru": 6,
+      "score": 27,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
-        -2,
+        0,
         0
       ]
     },
     {
       "name": "Keegan Bradley",
-      "score": 48,
-      "thru": 11,
+      "score": 51,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -483,8 +483,8 @@
     },
     {
       "name": "Shane Lowry",
-      "score": 39,
-      "thru": 10,
+      "score": 43,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -527,12 +527,12 @@
     },
     {
       "name": "Naoyuki Kataoka",
-      "score": 78,
-      "thru": 17,
-      "status": "active",
+      "score": 84,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        10,
+        12,
         0
       ]
     },
@@ -593,8 +593,8 @@
     },
     {
       "name": "Ryan Gerard",
-      "score": 46,
-      "thru": 11,
+      "score": 49,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -626,12 +626,12 @@
     },
     {
       "name": "Mason Howell",
-      "score": 31,
-      "thru": 7,
+      "score": 35,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        3,
         0
       ]
     },
@@ -648,12 +648,12 @@
     },
     {
       "name": "Fifa Laopakdee",
-      "score": 4,
-      "thru": 1,
+      "score": 8,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -714,23 +714,23 @@
     },
     {
       "name": "Carlos Ortiz",
-      "score": 75,
-      "thru": 17,
-      "status": "active",
+      "score": 80,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        7,
+        8,
         0
       ]
     },
     {
       "name": "Tommy Fleetwood",
-      "score": 32,
-      "thru": 9,
+      "score": 37,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        -4,
+        -3,
         0
       ]
     },
@@ -747,12 +747,12 @@
     },
     {
       "name": "Patrick Reed",
-      "score": 31,
-      "thru": 9,
+      "score": 36,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        -5,
+        -4,
         0
       ]
     },
@@ -835,12 +835,12 @@
     },
     {
       "name": "Bubba Watson",
-      "score": 52,
-      "thru": 12,
+      "score": 56,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        5,
+        4,
         0
       ]
     },
@@ -857,9 +857,9 @@
     },
     {
       "name": "Max Homa",
-      "score": 68,
-      "thru": 17,
-      "status": "active",
+      "score": 72,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
@@ -879,8 +879,8 @@
     },
     {
       "name": "Daniel Berger",
-      "score": 9,
-      "thru": 2,
+      "score": 13,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -901,12 +901,12 @@
     },
     {
       "name": "Fred Couples",
-      "score": 3,
-      "thru": 1,
+      "score": 7,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        -2,
         0
       ]
     },
