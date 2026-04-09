@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T17:30:12.220Z",
+  "lastUpdated": "2026-04-09T17:33:32.973Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -44,7 +44,7 @@
     {
       "name": "J.J. Spaun",
       "score": 1,
-      "thru": 1,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -87,9 +87,9 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 3,
-      "thru": 17,
-      "status": "active",
+      "score": 75,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         3,
@@ -98,9 +98,9 @@
     },
     {
       "name": "Max Greyserman",
-      "score": 7,
-      "thru": 17,
-      "status": "active",
+      "score": 79,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         7,
@@ -132,7 +132,7 @@
     {
       "name": "Rasmus Højgaard",
       "score": 6,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -165,7 +165,7 @@
     {
       "name": "Sungjae Im",
       "score": 2,
-      "thru": 8,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -187,7 +187,7 @@
     {
       "name": "Sergio García",
       "score": -1,
-      "thru": 3,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -264,7 +264,7 @@
     {
       "name": "Nick Taylor",
       "score": -2,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -297,7 +297,7 @@
     {
       "name": "Vijay Singh",
       "score": 6,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -307,9 +307,9 @@
     },
     {
       "name": "Ryan Fox",
-      "score": 5,
-      "thru": 17,
-      "status": "active",
+      "score": 77,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         5,
@@ -340,12 +340,12 @@
     },
     {
       "name": "Kristoffer Reitan",
-      "score": -2,
-      "thru": 15,
+      "score": 0,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        -2,
+        0,
         0
       ]
     },
@@ -429,7 +429,7 @@
     {
       "name": "Sam Stevens",
       "score": 0,
-      "thru": 8,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -506,7 +506,7 @@
     {
       "name": "Casey Jarvis",
       "score": 5,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -561,7 +561,7 @@
     {
       "name": "Matt McCarty",
       "score": 0,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -572,7 +572,7 @@
     {
       "name": "Michael Brennan",
       "score": 0,
-      "thru": 2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -583,7 +583,7 @@
     {
       "name": "Jacob Bridgeman",
       "score": 0,
-      "thru": 3,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -594,7 +594,7 @@
     {
       "name": "Ryan Gerard",
       "score": 1,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -737,7 +737,7 @@
     {
       "name": "Tyrrell Hatton",
       "score": 0,
-      "thru": 1,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -868,23 +868,23 @@
     },
     {
       "name": "Michael Kim",
-      "score": 0,
-      "thru": 6,
+      "score": 1,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
     {
       "name": "Daniel Berger",
-      "score": 0,
-      "thru": 4,
+      "score": 1,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -968,7 +968,7 @@
     {
       "name": "Maverick McNealy",
       "score": 1,
-      "thru": 1,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
