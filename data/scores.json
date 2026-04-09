@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T21:35:08.137Z",
+  "lastUpdated": "2026-04-09T21:40:09.400Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -44,7 +44,7 @@
     {
       "name": "J.J. Spaun",
       "score": 1,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -495,7 +495,7 @@
     {
       "name": "Harry Hall",
       "score": 3,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -571,19 +571,19 @@
     },
     {
       "name": "Michael Brennan",
-      "score": -2,
-      "thru": 15,
+      "score": -1,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        -2,
+        -1,
         0
       ]
     },
     {
       "name": "Jacob Bridgeman",
       "score": 0,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -703,12 +703,12 @@
     },
     {
       "name": "Jordan Spieth",
-      "score": -2,
-      "thru": 13,
+      "score": -1,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        -2,
+        -1,
         0
       ]
     },
@@ -737,7 +737,7 @@
     {
       "name": "Tyrrell Hatton",
       "score": 1,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -803,7 +803,7 @@
     {
       "name": "Brooks Koepka",
       "score": 1,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -902,8 +902,8 @@
     {
       "name": "Fred Couples",
       "score": 6,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         6,
@@ -913,7 +913,7 @@
     {
       "name": "Corey Conners",
       "score": 2,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -967,12 +967,12 @@
     },
     {
       "name": "Maverick McNealy",
-      "score": 4,
-      "thru": 14,
+      "score": 5,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        5,
         0
       ]
     },
