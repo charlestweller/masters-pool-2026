@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T11:44:53.853Z",
+  "lastUpdated": "2026-04-09T12:50:07.772Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -88,18 +88,18 @@
     {
       "name": "Charl Schwartzel",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
     {
       "name": "Max Greyserman",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -220,11 +220,11 @@
     {
       "name": "José María Olazábal",
       "score": 0,
-      "thru": 0,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -308,11 +308,11 @@
     {
       "name": "Ryan Fox",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -462,7 +462,7 @@
     {
       "name": "Sami Välimäki",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -528,11 +528,11 @@
     {
       "name": "Naoyuki Kataoka",
       "score": 0,
-      "thru": 0,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -550,11 +550,11 @@
     {
       "name": "Rasmus Neergaard-Petersen",
       "score": 0,
-      "thru": 0,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -605,22 +605,22 @@
     {
       "name": "Aldrich Potgieter",
       "score": 0,
-      "thru": 0,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        2,
         0
       ]
     },
     {
       "name": "Johnny Keefer",
       "score": 0,
-      "thru": 0,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -671,11 +671,11 @@
     {
       "name": "Jackson Herrington",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -715,11 +715,11 @@
     {
       "name": "Carlos Ortiz",
       "score": 0,
-      "thru": 0,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        4,
         0
       ]
     },
@@ -792,7 +792,7 @@
     {
       "name": "Ángel Cabrera",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -858,7 +858,7 @@
     {
       "name": "Max Homa",
       "score": 0,
-      "thru": 0,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -935,7 +935,7 @@
     {
       "name": "Haotong Li",
       "score": 0,
-      "thru": 0,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
