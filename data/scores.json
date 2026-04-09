@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T20:55:13.854Z",
+  "lastUpdated": "2026-04-09T21:00:15.572Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -154,7 +154,7 @@
     {
       "name": "Robert MacIntyre",
       "score": 3,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -175,12 +175,12 @@
     },
     {
       "name": "Brian Harman",
-      "score": 6,
-      "thru": 16,
+      "score": 7,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        6,
+        7,
         0
       ]
     },
@@ -253,7 +253,7 @@
     {
       "name": "Gary Woodland",
       "score": -2,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -286,7 +286,7 @@
     {
       "name": "Adam Scott",
       "score": -1,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -374,7 +374,7 @@
     {
       "name": "Ben Griffin",
       "score": 1,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -495,7 +495,7 @@
     {
       "name": "Harry Hall",
       "score": 3,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -539,7 +539,7 @@
     {
       "name": "Justin Thomas",
       "score": -1,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -847,7 +847,7 @@
     {
       "name": "Sepp Straka",
       "score": 0,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -945,12 +945,12 @@
     },
     {
       "name": "Scottie Scheffler",
-      "score": -3,
-      "thru": 10,
+      "score": -2,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
-        -3,
+        -2,
         0
       ]
     },
