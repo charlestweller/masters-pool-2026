@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T14:25:10.826Z",
+  "lastUpdated": "2026-04-09T14:30:16.966Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -54,12 +54,12 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 20,
-      "thru": 5,
+      "score": 22,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -615,8 +615,8 @@
     },
     {
       "name": "Johnny Keefer",
-      "score": 42,
-      "thru": 10,
+      "score": 46,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -769,8 +769,8 @@
     },
     {
       "name": "Hideki Matsuyama",
-      "score": 0,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -989,19 +989,19 @@
     },
     {
       "name": "Jake Knapp",
-      "score": 12,
-      "thru": 3,
+      "score": 16,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
     {
       "name": "Sam Burns",
-      "score": 11,
-      "thru": 3,
+      "score": 14,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
