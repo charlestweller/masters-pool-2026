@@ -91,6 +91,12 @@ async function fetchScores() {
     : null;
   const cutPenalty = worstActiveScore !== null ? worstActiveScore + 10 : null;
 
+  // Projected cut: score at approximately 50th position among active/complete players
+  // (Masters cuts to top 50 + ties after round 2)
+  const sortedActive = [...activePlayers].sort((a, b) => a.score - b.score);
+  const cutIndex = Math.min(49, sortedActive.length - 1);
+  const projectedCut = sortedActive.length >= 10 ? sortedActive[cutIndex].score : null;
+
   const output = {
     lastUpdated:      new Date().toISOString(),
     tournament:       event.name,
@@ -99,6 +105,7 @@ async function fetchScores() {
     tournamentStatus,
     worstActiveScore,
     cutPenalty,
+    projectedCut,
     golfers,
   };
 
