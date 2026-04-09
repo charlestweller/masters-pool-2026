@@ -368,13 +368,17 @@
 
     .cut-badge {
       font-family: var(--font-body);
-      font-size: 0.56rem;
+      font-size: 0.52rem;
       font-weight: 700;
-      letter-spacing: 0.08em;
+      letter-spacing: 0.05em;
       color: var(--red);
       background: rgba(204,0,0,0.12);
-      padding: 2px 4px;
+      padding: 3px 2px;
       border-radius: 2px;
+      writing-mode: vertical-lr;
+      transform: rotate(180deg);
+      line-height: 1.1;
+      flex-shrink: 0;
     }
 
     .thru-label {
@@ -396,6 +400,75 @@
     .total-cell.under { color: var(--yellow); text-shadow: 0 0 18px rgba(252,227,0,0.35); }
     .total-cell.even  { color: var(--off-white); }
     .total-cell.over  { color: #ff7a7a; }
+
+    /* Sticky Total column on mobile */
+    @media (max-width: 860px) {
+      thead th:last-child {
+        position: sticky;
+        right: 0;
+        z-index: 2;
+        background: #122e1e;
+        box-shadow: -3px 0 8px rgba(0,0,0,0.45);
+      }
+      tbody td:last-child {
+        position: sticky;
+        right: 0;
+        z-index: 1;
+      }
+      tbody tr:nth-child(odd)  td:last-child { background: #1e4932; }
+      tbody tr:nth-child(even) td:last-child { background: #153c27; }
+      tbody tr:hover           td:last-child { background: #254e33; }
+      tbody tr.search-highlight td:last-child { background: #2b5c3a !important; }
+    }
+
+    /* ── NAME SEARCH ────────────────────────────────── */
+    .search-bar {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 14px;
+      background: rgba(0,0,0,0.22);
+      border-bottom: 1px solid rgba(252,227,0,0.1);
+    }
+
+    .search-icon {
+      color: var(--muted);
+      font-size: 0.85rem;
+      flex-shrink: 0;
+    }
+
+    .search-input {
+      flex: 1;
+      background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(255,255,255,0.12);
+      color: var(--white);
+      font-family: var(--font-body);
+      font-size: 0.78rem;
+      letter-spacing: 0.04em;
+      padding: 6px 12px;
+      border-radius: 2px;
+      outline: none;
+      min-width: 0;
+    }
+    .search-input::placeholder { color: var(--muted); }
+    .search-input:focus { border-color: rgba(252,227,0,0.4); background: rgba(255,255,255,0.1); }
+
+    .search-clear {
+      background: none;
+      border: none;
+      color: var(--muted);
+      cursor: pointer;
+      font-size: 1rem;
+      padding: 2px 6px;
+      line-height: 1;
+      flex-shrink: 0;
+    }
+    .search-clear:hover { color: var(--white); }
+
+    tbody tr.search-highlight {
+      background: rgba(252,227,0,0.11) !important;
+      outline: 1px solid rgba(252,227,0,0.35);
+    }
 
     /* ── EMPTY STATE ────────────────────────────────── */
     .empty-state {
@@ -595,6 +668,7 @@
   <div class="header-tagline">A Tradition Unlike Any Other&hellip;</div>
   <div class="header-sub">Augusta National Golf Club</div>
   <div class="header-rule"></div>
+  <!-- REMOVE the line below once the tournament starts (entries closed) -->
   <a href="entry.html" class="enter-btn">Submit Your Entry &rarr;</a>
   <!-- HIDDEN UNTIL POOL OPENS: remove style="display:none" to show -->
   <div style="display:none">
@@ -626,6 +700,11 @@
 
   <div class="board-wrap">
     <div class="section-label">Pool Leaderboard &nbsp;&middot;&nbsp; Sorted by Aggregate Score</div>
+    <div class="search-bar">
+      <span class="search-icon">🔍</span>
+      <input class="search-input" id="name-search" type="text" placeholder="Search entrant name…" oninput="searchEntrant(this.value)" autocomplete="off" spellcheck="false" />
+      <button class="search-clear" id="search-clear" onclick="clearSearch()" style="display:none" aria-label="Clear search">✕</button>
+    </div>
     <table>
       <thead>
         <tr>
@@ -784,7 +863,7 @@ function renderRow(entry, showScores) {
   return `
     <tr class="entry-row${rankCls}">
       <td>${posTpl}</td>
-      <td class="left"><span class="entrant-name">${esc(entry.entrant)}</span></td>
+      <td class="left"><span class="entrant-name">${esc(entry.name)}</span></td>
       ${cells}
       <td class="total-cell ${totalCls}">${totalFmt}</td>
     </tr>`;
@@ -883,6 +962,34 @@ function lastName(full) {
 
 function esc(s) {
   return (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ── Name search ───────────────────────────────────────────────────────────────
+function searchEntrant(val) {
+  const clearBtn = document.getElementById('search-clear');
+  clearBtn.style.display = val ? 'inline' : 'none';
+
+  const rows = document.querySelectorAll('#leaderboard-body tr.entry-row');
+  rows.forEach(r => r.classList.remove('search-highlight'));
+
+  if (!val.trim()) return;
+
+  const q = val.toLowerCase();
+  let firstMatch = null;
+  rows.forEach(row => {
+    const nameEl = row.querySelector('.entrant-name');
+    if (nameEl && nameEl.textContent.toLowerCase().includes(q)) {
+      row.classList.add('search-highlight');
+      if (!firstMatch) firstMatch = row;
+    }
+  });
+  if (firstMatch) firstMatch.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+function clearSearch() {
+  const input = document.getElementById('name-search');
+  if (input) input.value = '';
+  searchEntrant('');
 }
 
 // ── Welcome popup ─────────────────────────────────────────────────────────────
