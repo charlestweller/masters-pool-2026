@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T16:55:13.475Z",
+  "lastUpdated": "2026-04-09T17:00:11.143Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -21,12 +21,12 @@
     },
     {
       "name": "Davis Riley",
-      "score": 13,
-      "thru": 3,
+      "score": 17,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -54,12 +54,12 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 50,
-      "thru": 13,
+      "score": 55,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        -2,
+        -1,
         0
       ]
     },
@@ -98,12 +98,12 @@
     },
     {
       "name": "Max Greyserman",
-      "score": 61,
-      "thru": 14,
+      "score": 67,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        5,
+        6,
         0
       ]
     },
@@ -307,8 +307,8 @@
     },
     {
       "name": "Ryan Fox",
-      "score": 62,
-      "thru": 14,
+      "score": 67,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -318,8 +318,8 @@
     },
     {
       "name": "Danny Willett",
-      "score": 13,
-      "thru": 3,
+      "score": 16,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -340,8 +340,8 @@
     },
     {
       "name": "Kristoffer Reitan",
-      "score": 49,
-      "thru": 13,
+      "score": 53,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -494,8 +494,8 @@
     },
     {
       "name": "Harry Hall",
-      "score": 0,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -505,8 +505,8 @@
     },
     {
       "name": "Casey Jarvis",
-      "score": 57,
-      "thru": 13,
+      "score": 61,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -571,8 +571,8 @@
     },
     {
       "name": "Michael Brennan",
-      "score": 0,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -637,8 +637,8 @@
     },
     {
       "name": "Ethan Fang",
-      "score": 12,
-      "thru": 3,
+      "score": 15,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -769,8 +769,8 @@
     },
     {
       "name": "Hideki Matsuyama",
-      "score": 33,
-      "thru": 8,
+      "score": 37,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -912,8 +912,8 @@
     },
     {
       "name": "Corey Conners",
-      "score": 0,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
