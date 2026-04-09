@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T17:35:09.815Z",
+  "lastUpdated": "2026-04-09T17:40:10.651Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -11,7 +11,7 @@
     {
       "name": "Bryson DeChambeau",
       "score": 3,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -65,12 +65,12 @@
     },
     {
       "name": "Collin Morikawa",
-      "score": 1,
-      "thru": 10,
+      "score": 2,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
@@ -109,12 +109,12 @@
     },
     {
       "name": "Wyndham Clark",
-      "score": 1,
-      "thru": 7,
+      "score": 0,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -450,12 +450,12 @@
     },
     {
       "name": "Mike Weir",
-      "score": 4,
-      "thru": 7,
+      "score": 5,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        5,
         0
       ]
     },
@@ -495,7 +495,7 @@
     {
       "name": "Harry Hall",
       "score": 0,
-      "thru": 2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -660,7 +660,7 @@
     {
       "name": "Mateo Pulcini",
       "score": 2,
-      "thru": 7,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -693,7 +693,7 @@
     {
       "name": "Russell Henley",
       "score": 0,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -704,7 +704,7 @@
     {
       "name": "Jordan Spieth",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -759,7 +759,7 @@
     {
       "name": "Justin Rose",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -770,7 +770,7 @@
     {
       "name": "Hideki Matsuyama",
       "score": 0,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -780,12 +780,12 @@
     },
     {
       "name": "Patrick Cantlay",
-      "score": 2,
-      "thru": 9,
+      "score": 3,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
@@ -802,12 +802,12 @@
     },
     {
       "name": "Brooks Koepka",
-      "score": 0,
-      "thru": 0,
+      "score": 1,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -890,12 +890,12 @@
     },
     {
       "name": "Matt Fitzpatrick",
-      "score": 2,
-      "thru": 11,
+      "score": 1,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        1,
         0
       ]
     },
