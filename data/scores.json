@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T18:45:14.596Z",
+  "lastUpdated": "2026-04-09T18:50:12.386Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -66,7 +66,7 @@
     {
       "name": "Collin Morikawa",
       "score": 2,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -77,7 +77,7 @@
     {
       "name": "Aaron Rai",
       "score": -3,
-      "thru": 7,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -120,12 +120,12 @@
     },
     {
       "name": "Nicolai Højgaard",
-      "score": 1,
-      "thru": 10,
+      "score": 2,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
@@ -143,7 +143,7 @@
     {
       "name": "Andrew Novak",
       "score": 3,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -165,7 +165,7 @@
     {
       "name": "Sungjae Im",
       "score": 4,
-      "thru": 12,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -186,12 +186,12 @@
     },
     {
       "name": "Sergio García",
-      "score": -1,
-      "thru": 7,
+      "score": -2,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        -2,
         0
       ]
     },
@@ -274,12 +274,12 @@
     },
     {
       "name": "Alex Noren",
-      "score": 4,
-      "thru": 13,
+      "score": 5,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        5,
         0
       ]
     },
@@ -330,7 +330,7 @@
     {
       "name": "Tom McKibbin",
       "score": 0,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -429,7 +429,7 @@
     {
       "name": "Sam Stevens",
       "score": 1,
-      "thru": 12,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -473,7 +473,7 @@
     {
       "name": "Marco Penge",
       "score": 3,
-      "thru": 2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -494,12 +494,12 @@
     },
     {
       "name": "Harry Hall",
-      "score": 0,
-      "thru": 6,
+      "score": 1,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -572,7 +572,7 @@
     {
       "name": "Michael Brennan",
       "score": 0,
-      "thru": 6,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -682,7 +682,7 @@
     {
       "name": "Harris English",
       "score": 0,
-      "thru": 2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -692,12 +692,12 @@
     },
     {
       "name": "Russell Henley",
-      "score": 0,
-      "thru": 14,
+      "score": -1,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -769,12 +769,12 @@
     },
     {
       "name": "Hideki Matsuyama",
-      "score": 1,
-      "thru": 14,
+      "score": 0,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -814,7 +814,7 @@
     {
       "name": "Zach Johnson",
       "score": 0,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -825,7 +825,7 @@
     {
       "name": "Si Woo Kim",
       "score": 1,
-      "thru": 2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -869,7 +869,7 @@
     {
       "name": "Michael Kim",
       "score": 1,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -891,7 +891,7 @@
     {
       "name": "Matt Fitzpatrick",
       "score": 0,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -913,7 +913,7 @@
     {
       "name": "Corey Conners",
       "score": 1,
-      "thru": 6,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -957,7 +957,7 @@
     {
       "name": "Brian Campbell",
       "score": 0,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
