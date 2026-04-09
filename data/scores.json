@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T17:15:13.061Z",
+  "lastUpdated": "2026-04-09T17:20:10.558Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 84,
   "cutPenalty": 94,
-  "projectedCut": 37,
+  "projectedCut": 39,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -65,19 +65,19 @@
     },
     {
       "name": "Collin Morikawa",
-      "score": 38,
-      "thru": 9,
+      "score": 41,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        1,
         0
       ]
     },
     {
       "name": "Aaron Rai",
-      "score": 7,
-      "thru": 2,
+      "score": 11,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -87,19 +87,19 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 66,
-      "thru": 16,
+      "score": 71,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
     {
       "name": "Max Greyserman",
-      "score": 71,
-      "thru": 16,
+      "score": 75,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -131,8 +131,8 @@
     },
     {
       "name": "Rasmus Højgaard",
-      "score": 67,
-      "thru": 15,
+      "score": 70,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -164,8 +164,8 @@
     },
     {
       "name": "Sungjae Im",
-      "score": 29,
-      "thru": 7,
+      "score": 34,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -186,8 +186,8 @@
     },
     {
       "name": "Sergio García",
-      "score": 8,
-      "thru": 2,
+      "score": 12,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -263,8 +263,8 @@
     },
     {
       "name": "Nick Taylor",
-      "score": 45,
-      "thru": 12,
+      "score": 50,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -296,23 +296,23 @@
     },
     {
       "name": "Vijay Singh",
-      "score": 66,
-      "thru": 15,
-      "status": "active",
-      "position": "",
-      "rounds": [
-        5,
-        0
-      ]
-    },
-    {
-      "name": "Ryan Fox",
       "score": 70,
       "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
         6,
+        0
+      ]
+    },
+    {
+      "name": "Ryan Fox",
+      "score": 73,
+      "thru": 17,
+      "status": "active",
+      "position": "",
+      "rounds": [
+        5,
         0
       ]
     },
@@ -340,19 +340,19 @@
     },
     {
       "name": "Kristoffer Reitan",
-      "score": 53,
-      "thru": 14,
+      "score": 59,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        -3,
+        -2,
         0
       ]
     },
     {
       "name": "Viktor Hovland",
-      "score": 35,
-      "thru": 8,
+      "score": 39,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -439,12 +439,12 @@
     },
     {
       "name": "Keegan Bradley",
-      "score": 51,
-      "thru": 12,
+      "score": 55,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        3,
         0
       ]
     },
@@ -461,12 +461,12 @@
     },
     {
       "name": "Sami Välimäki",
-      "score": 75,
-      "thru": 17,
-      "status": "active",
+      "score": 80,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        7,
+        8,
         0
       ]
     },
@@ -505,8 +505,8 @@
     },
     {
       "name": "Casey Jarvis",
-      "score": 61,
-      "thru": 14,
+      "score": 66,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -560,8 +560,8 @@
     },
     {
       "name": "Matt McCarty",
-      "score": 61,
-      "thru": 15,
+      "score": 64,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -582,8 +582,8 @@
     },
     {
       "name": "Jacob Bridgeman",
-      "score": 9,
-      "thru": 2,
+      "score": 13,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -593,12 +593,12 @@
     },
     {
       "name": "Ryan Gerard",
-      "score": 49,
-      "thru": 12,
+      "score": 53,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        1,
         0
       ]
     },
@@ -670,9 +670,9 @@
     },
     {
       "name": "Jackson Herrington",
-      "score": 72,
-      "thru": 17,
-      "status": "active",
+      "score": 76,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         4,
@@ -692,8 +692,8 @@
     },
     {
       "name": "Russell Henley",
-      "score": 36,
-      "thru": 9,
+      "score": 40,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -769,12 +769,12 @@
     },
     {
       "name": "Hideki Matsuyama",
-      "score": 37,
-      "thru": 9,
+      "score": 40,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -791,12 +791,12 @@
     },
     {
       "name": "Ángel Cabrera",
-      "score": 74,
-      "thru": 17,
-      "status": "active",
+      "score": 79,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        6,
+        7,
         0
       ]
     },
@@ -1000,8 +1000,8 @@
     },
     {
       "name": "Sam Burns",
-      "score": 48,
-      "thru": 13,
+      "score": 52,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
