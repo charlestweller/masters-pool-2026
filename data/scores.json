@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T16:35:13.115Z",
+  "lastUpdated": "2026-04-09T16:40:11.874Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 78,
   "cutPenalty": 88,
-  "projectedCut": 28,
+  "projectedCut": 29,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Davis Riley",
-      "score": 9,
-      "thru": 2,
+      "score": 13,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -274,8 +274,8 @@
     },
     {
       "name": "Alex Noren",
-      "score": 24,
-      "thru": 6,
+      "score": 28,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -351,8 +351,8 @@
     },
     {
       "name": "Viktor Hovland",
-      "score": 26,
-      "thru": 6,
+      "score": 30,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -593,12 +593,12 @@
     },
     {
       "name": "Ryan Gerard",
-      "score": 43,
-      "thru": 10,
+      "score": 46,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        2,
         0
       ]
     },
@@ -780,8 +780,8 @@
     },
     {
       "name": "Patrick Cantlay",
-      "score": 25,
-      "thru": 6,
+      "score": 29,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
