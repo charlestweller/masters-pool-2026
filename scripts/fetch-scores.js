@@ -103,13 +103,17 @@ async function fetchScores() {
     else if (typeof thruRaw === 'string') thruRaw = parseInt(thruRaw, 10) || null;
 
     // ── Strokes → to-par conversion ───────────────────────────────────────────
-    // For active/in-progress players ESPN returns c.score.value as total STROKES
-    // for the current round, not score-to-par. Convert by subtracting Augusta par
-    // for the holes played so far. Completed rounds come back as to-par already.
+    // ESPN always returns c.score.value as total STROKES for the current round,
+    // never as to-par — this applies to both in-progress ('in') AND just-finished
+    // ('post') players. Subtract Augusta cumulative par to get the to-par score.
     const startHole   = c.status?.startHole || 1;
     const playerState = c.status?.type?.state || 'pre'; // 'pre' | 'in' | 'post'
     if (playerState === 'in' && typeof thruRaw === 'number' && thruRaw > 0) {
+      // In-progress: subtract par for only the holes completed so far
       scoreValue = scoreValue - cumulativePar(thruRaw, startHole);
+    } else if (playerState === 'post' || thruRaw === 18) {
+      // Round complete: subtract full 18-hole par (72)
+      scoreValue = scoreValue - cumulativePar(18, startHole);
     }
 
     let status = 'active';
