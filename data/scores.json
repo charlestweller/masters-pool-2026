@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T19:55:09.332Z",
+  "lastUpdated": "2026-04-09T20:00:14.032Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -110,7 +110,7 @@
     {
       "name": "Wyndham Clark",
       "score": -1,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -175,19 +175,19 @@
     },
     {
       "name": "Brian Harman",
-      "score": 4,
-      "thru": 12,
+      "score": 7,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        7,
         0
       ]
     },
     {
       "name": "Sergio García",
       "score": 0,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -252,12 +252,12 @@
     },
     {
       "name": "Gary Woodland",
-      "score": -2,
-      "thru": 7,
+      "score": -3,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
-        -2,
+        -3,
         0
       ]
     },
@@ -285,12 +285,12 @@
     },
     {
       "name": "Adam Scott",
-      "score": 1,
-      "thru": 12,
+      "score": -1,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        -1,
         0
       ]
     },
@@ -451,7 +451,7 @@
     {
       "name": "Mike Weir",
       "score": 6,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -659,12 +659,12 @@
     },
     {
       "name": "Mateo Pulcini",
-      "score": 6,
-      "thru": 15,
+      "score": 7,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        6,
+        7,
         0
       ]
     },
@@ -880,7 +880,7 @@
     {
       "name": "Daniel Berger",
       "score": 3,
-      "thru": 12,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
