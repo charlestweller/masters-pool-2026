@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T19:25:14.467Z",
+  "lastUpdated": "2026-04-09T19:30:17.809Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 12,
   "cutPenalty": 22,
-  "projectedCut": 1,
+  "projectedCut": 2,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -33,8 +33,8 @@
     {
       "name": "Xander Schauffele",
       "score": -2,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         -2,
@@ -44,7 +44,7 @@
     {
       "name": "J.J. Spaun",
       "score": 1,
-      "thru": 8,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -77,7 +77,7 @@
     {
       "name": "Aaron Rai",
       "score": -3,
-      "thru": 9,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -187,7 +187,7 @@
     {
       "name": "Sergio García",
       "score": -1,
-      "thru": 9,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -242,7 +242,7 @@
     {
       "name": "Rory McIlroy",
       "score": -5,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -275,7 +275,7 @@
     {
       "name": "Alex Noren",
       "score": 5,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -418,7 +418,7 @@
     {
       "name": "Cameron Young",
       "score": 1,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -583,7 +583,7 @@
     {
       "name": "Jacob Bridgeman",
       "score": 1,
-      "thru": 9,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -627,7 +627,7 @@
     {
       "name": "Mason Howell",
       "score": 5,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -682,7 +682,7 @@
     {
       "name": "Harris English",
       "score": 1,
-      "thru": 5,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -736,12 +736,12 @@
     },
     {
       "name": "Tyrrell Hatton",
-      "score": 1,
-      "thru": 8,
+      "score": 2,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
@@ -890,12 +890,12 @@
     },
     {
       "name": "Matt Fitzpatrick",
-      "score": 0,
-      "thru": 17,
-      "status": "active",
+      "score": 2,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        0,
+        2,
         0
       ]
     },
