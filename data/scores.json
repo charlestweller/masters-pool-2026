@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T23:15:08.383Z",
+  "lastUpdated": "2026-04-09T23:20:08.484Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -154,8 +154,8 @@
     {
       "name": "Robert MacIntyre",
       "score": 8,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         8,
@@ -253,8 +253,8 @@
     {
       "name": "Gary Woodland",
       "score": -1,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         -1,
@@ -946,8 +946,8 @@
     {
       "name": "Scottie Scheffler",
       "score": -2,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         -2,
