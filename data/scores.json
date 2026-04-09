@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T15:55:14.088Z",
+  "lastUpdated": "2026-04-09T16:00:14.097Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 72,
   "cutPenalty": 82,
-  "projectedCut": 20,
+  "projectedCut": 22,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -65,8 +65,8 @@
     },
     {
       "name": "Collin Morikawa",
-      "score": 20,
-      "thru": 5,
+      "score": 23,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -120,8 +120,8 @@
     },
     {
       "name": "Nicolai Højgaard",
-      "score": 0,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -131,8 +131,8 @@
     },
     {
       "name": "Rasmus Højgaard",
-      "score": 40,
-      "thru": 10,
+      "score": 44,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -197,12 +197,12 @@
     },
     {
       "name": "Jason Day",
-      "score": 28,
-      "thru": 7,
+      "score": 32,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -230,8 +230,8 @@
     },
     {
       "name": "Dustin Johnson",
-      "score": 27,
-      "thru": 7,
+      "score": 32,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -241,8 +241,8 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": 16,
-      "thru": 4,
+      "score": 20,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -296,12 +296,12 @@
     },
     {
       "name": "Vijay Singh",
-      "score": 43,
-      "thru": 10,
+      "score": 48,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        4,
         0
       ]
     },
@@ -439,8 +439,8 @@
     },
     {
       "name": "Keegan Bradley",
-      "score": 36,
-      "thru": 8,
+      "score": 40,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -461,8 +461,8 @@
     },
     {
       "name": "Sami Välimäki",
-      "score": 50,
-      "thru": 12,
+      "score": 55,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -483,12 +483,12 @@
     },
     {
       "name": "Shane Lowry",
-      "score": 28,
-      "thru": 7,
+      "score": 32,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -560,8 +560,8 @@
     },
     {
       "name": "Matt McCarty",
-      "score": 40,
-      "thru": 10,
+      "score": 44,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -670,12 +670,12 @@
     },
     {
       "name": "Jackson Herrington",
-      "score": 50,
-      "thru": 12,
+      "score": 54,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        2,
         0
       ]
     },
@@ -692,8 +692,8 @@
     },
     {
       "name": "Russell Henley",
-      "score": 20,
-      "thru": 5,
+      "score": 23,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -791,12 +791,12 @@
     },
     {
       "name": "Ángel Cabrera",
-      "score": 52,
-      "thru": 12,
+      "score": 58,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        5,
+        6,
         0
       ]
     },
@@ -857,19 +857,19 @@
     },
     {
       "name": "Max Homa",
-      "score": 57,
-      "thru": 14,
+      "score": 61,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
     {
       "name": "Michael Kim",
-      "score": 0,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
