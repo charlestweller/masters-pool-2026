@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T13:40:12.872Z",
+  "lastUpdated": "2026-04-09T13:45:11.500Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -263,8 +263,8 @@
     },
     {
       "name": "Nick Taylor",
-      "score": 0,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -296,8 +296,8 @@
     },
     {
       "name": "Vijay Singh",
-      "score": 13,
-      "thru": 3,
+      "score": 16,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -439,12 +439,12 @@
     },
     {
       "name": "Keegan Bradley",
-      "score": 0,
-      "thru": 0,
+      "score": 5,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -527,12 +527,12 @@
     },
     {
       "name": "Naoyuki Kataoka",
-      "score": 25,
-      "thru": 6,
+      "score": 30,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
@@ -549,8 +549,8 @@
     },
     {
       "name": "Rasmus Neergaard-Petersen",
-      "score": 21,
-      "thru": 5,
+      "score": 24,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -560,8 +560,8 @@
     },
     {
       "name": "Matt McCarty",
-      "score": 13,
-      "thru": 3,
+      "score": 16,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -593,12 +593,12 @@
     },
     {
       "name": "Ryan Gerard",
-      "score": 0,
-      "thru": 0,
+      "score": 5,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -714,8 +714,8 @@
     },
     {
       "name": "Carlos Ortiz",
-      "score": 30,
-      "thru": 6,
+      "score": 34,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -857,12 +857,12 @@
     },
     {
       "name": "Max Homa",
-      "score": 23,
-      "thru": 6,
+      "score": 28,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
