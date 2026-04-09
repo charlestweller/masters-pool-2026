@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T20:40:11.203Z",
+  "lastUpdated": "2026-04-09T20:45:15.839Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -22,7 +22,7 @@
     {
       "name": "Davis Riley",
       "score": 8,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -252,12 +252,12 @@
     },
     {
       "name": "Gary Woodland",
-      "score": -3,
-      "thru": 9,
+      "score": -2,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        -3,
+        -2,
         0
       ]
     },
@@ -285,12 +285,12 @@
     },
     {
       "name": "Adam Scott",
-      "score": 0,
-      "thru": 15,
+      "score": -1,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -318,12 +318,12 @@
     },
     {
       "name": "Danny Willett",
-      "score": 3,
-      "thru": 16,
+      "score": 4,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        4,
         0
       ]
     },
@@ -374,7 +374,7 @@
     {
       "name": "Ben Griffin",
       "score": 1,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -572,7 +572,7 @@
     {
       "name": "Michael Brennan",
       "score": -1,
-      "thru": 12,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -638,7 +638,7 @@
     {
       "name": "Ethan Fang",
       "score": 2,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -704,7 +704,7 @@
     {
       "name": "Jordan Spieth",
       "score": -2,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -803,7 +803,7 @@
     {
       "name": "Brooks Koepka",
       "score": 1,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
