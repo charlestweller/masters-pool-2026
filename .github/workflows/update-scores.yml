@@ -1,12 +1,12 @@
 name: Update Scores
 
-# Runs every 30 minutes (all day, every day).
+# Runs every 5 minutes (all day, every day).
 # You can disable this workflow in GitHub after the tournament ends:
 #   Actions tab → "Update Scores" → ⋯ → Disable workflow
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # every 30 minutes, 24/7 during tournament week
+    - cron: '*/5 * * * *'    # every 5 minutes, 24/7 during tournament week
   workflow_dispatch:            # also allows you to trigger it manually from GitHub
 
 jobs:
