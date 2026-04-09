@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-09T14:50:14.200Z",
+  "lastUpdated": "2026-04-09T14:55:09.439Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 49,
-  "cutPenalty": 59,
+  "worstActiveScore": 53,
+  "cutPenalty": 63,
   "projectedCut": 4,
   "golfers": [
     {
@@ -263,8 +263,8 @@
     },
     {
       "name": "Nick Taylor",
-      "score": 15,
-      "thru": 4,
+      "score": 19,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -439,12 +439,12 @@
     },
     {
       "name": "Keegan Bradley",
-      "score": 18,
-      "thru": 4,
+      "score": 23,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
@@ -461,8 +461,8 @@
     },
     {
       "name": "Sami Välimäki",
-      "score": 33,
-      "thru": 8,
+      "score": 37,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -549,8 +549,8 @@
     },
     {
       "name": "Rasmus Neergaard-Petersen",
-      "score": 38,
-      "thru": 9,
+      "score": 42,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -593,8 +593,8 @@
     },
     {
       "name": "Ryan Gerard",
-      "score": 15,
-      "thru": 4,
+      "score": 19,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -670,12 +670,12 @@
     },
     {
       "name": "Jackson Herrington",
-      "score": 34,
-      "thru": 8,
+      "score": 39,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
@@ -923,8 +923,8 @@
     },
     {
       "name": "Cameron Smith",
-      "score": 21,
-      "thru": 5,
+      "score": 24,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -934,12 +934,12 @@
     },
     {
       "name": "Haotong Li",
-      "score": 49,
-      "thru": 12,
+      "score": 53,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        1,
         0
       ]
     },
@@ -989,8 +989,8 @@
     },
     {
       "name": "Jake Knapp",
-      "score": 20,
-      "thru": 5,
+      "score": 23,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -1000,12 +1000,12 @@
     },
     {
       "name": "Sam Burns",
-      "score": 18,
-      "thru": 5,
+      "score": 22,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
-        -2,
+        -1,
         0
       ]
     }
