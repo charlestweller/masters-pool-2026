@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T19:50:07.823Z",
+  "lastUpdated": "2026-04-09T19:55:09.332Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -22,7 +22,7 @@
     {
       "name": "Davis Riley",
       "score": 6,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -165,7 +165,7 @@
     {
       "name": "Sungjae Im",
       "score": 4,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -242,8 +242,8 @@
     {
       "name": "Rory McIlroy",
       "score": -5,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         -5,
@@ -395,12 +395,12 @@
     },
     {
       "name": "Min Woo Lee",
-      "score": 4,
-      "thru": 11,
+      "score": 3,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        3,
         0
       ]
     },
@@ -428,12 +428,12 @@
     },
     {
       "name": "Sam Stevens",
-      "score": 0,
-      "thru": 16,
+      "score": 1,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -473,7 +473,7 @@
     {
       "name": "Marco Penge",
       "score": 4,
-      "thru": 6,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -649,7 +649,7 @@
     {
       "name": "Fifa Laopakdee",
       "score": 6,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -703,12 +703,12 @@
     },
     {
       "name": "Jordan Spieth",
-      "score": -1,
-      "thru": 8,
+      "score": -2,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        -2,
         0
       ]
     },
@@ -759,7 +759,7 @@
     {
       "name": "Justin Rose",
       "score": -3,
-      "thru": 8,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -802,12 +802,12 @@
     },
     {
       "name": "Brooks Koepka",
-      "score": -1,
-      "thru": 8,
+      "score": 0,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -825,7 +825,7 @@
     {
       "name": "Si Woo Kim",
       "score": 1,
-      "thru": 6,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -902,7 +902,7 @@
     {
       "name": "Fred Couples",
       "score": -1,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
