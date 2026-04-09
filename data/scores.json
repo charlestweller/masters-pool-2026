@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-04-09T16:25:15.078Z",
+  "lastUpdated": "2026-04-09T16:30:13.365Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 76,
   "cutPenalty": 86,
-  "projectedCut": 26,
+  "projectedCut": 27,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
-      "score": 27,
-      "thru": 7,
+      "score": 32,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -21,8 +21,8 @@
     },
     {
       "name": "Davis Riley",
-      "score": 4,
-      "thru": 1,
+      "score": 9,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -32,8 +32,8 @@
     },
     {
       "name": "Xander Schauffele",
-      "score": 26,
-      "thru": 7,
+      "score": 31,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -87,30 +87,30 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 53,
-      "thru": 13,
+      "score": 58,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
     {
       "name": "Max Greyserman",
-      "score": 56,
-      "thru": 13,
+      "score": 61,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        5,
         0
       ]
     },
     {
       "name": "Wyndham Clark",
-      "score": 13,
-      "thru": 3,
+      "score": 16,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -219,19 +219,19 @@
     },
     {
       "name": "José María Olazábal",
-      "score": 62,
-      "thru": 15,
+      "score": 66,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
     {
       "name": "Dustin Johnson",
-      "score": 36,
-      "thru": 9,
+      "score": 40,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -241,8 +241,8 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": 23,
-      "thru": 6,
+      "score": 27,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -307,8 +307,8 @@
     },
     {
       "name": "Ryan Fox",
-      "score": 58,
-      "thru": 13,
+      "score": 62,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -318,8 +318,8 @@
     },
     {
       "name": "Danny Willett",
-      "score": 5,
-      "thru": 1,
+      "score": 10,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -395,19 +395,19 @@
     },
     {
       "name": "Min Woo Lee",
-      "score": 0,
-      "thru": 0,
+      "score": 5,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
     {
       "name": "Akshay Bhatia",
-      "score": 30,
-      "thru": 8,
+      "score": 34,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -417,12 +417,12 @@
     },
     {
       "name": "Cameron Young",
-      "score": 26,
-      "thru": 6,
+      "score": 31,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        4,
         0
       ]
     },
@@ -549,8 +549,8 @@
     },
     {
       "name": "Rasmus Neergaard-Petersen",
-      "score": 65,
-      "thru": 15,
+      "score": 68,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -604,8 +604,8 @@
     },
     {
       "name": "Aldrich Potgieter",
-      "score": 71,
-      "thru": 15,
+      "score": 74,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -626,17 +626,28 @@
     },
     {
       "name": "Mason Howell",
-      "score": 26,
-      "thru": 6,
+      "score": 31,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        4,
         0
       ]
     },
     {
       "name": "Ethan Fang",
+      "score": 9,
+      "thru": 2,
+      "status": "active",
+      "position": "",
+      "rounds": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Fifa Laopakdee",
       "score": 4,
       "thru": 1,
       "status": "active",
@@ -647,20 +658,9 @@
       ]
     },
     {
-      "name": "Fifa Laopakdee",
-      "score": 0,
-      "thru": 0,
-      "status": "active",
-      "position": "",
-      "rounds": [
-        0,
-        0
-      ]
-    },
-    {
       "name": "Mateo Pulcini",
-      "score": 13,
-      "thru": 3,
+      "score": 16,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -725,12 +725,12 @@
     },
     {
       "name": "Tommy Fleetwood",
-      "score": 29,
-      "thru": 8,
+      "score": 32,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
-        -3,
+        -4,
         0
       ]
     },
@@ -890,8 +890,8 @@
     },
     {
       "name": "Matt Fitzpatrick",
-      "score": 28,
-      "thru": 7,
+      "score": 33,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -901,12 +901,12 @@
     },
     {
       "name": "Fred Couples",
-      "score": 0,
-      "thru": 0,
+      "score": 3,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
