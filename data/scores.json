@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T23:25:11.044Z",
+  "lastUpdated": "2026-04-09T23:30:10.101Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -473,8 +473,8 @@
     {
       "name": "Marco Penge",
       "score": 4,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         4,
