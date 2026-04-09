@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T14:40:10.913Z",
+  "lastUpdated": "2026-04-09T14:45:11.777Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -32,12 +32,12 @@
     },
     {
       "name": "Xander Schauffele",
-      "score": 4,
-      "thru": 1,
+      "score": 8,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -197,8 +197,8 @@
     },
     {
       "name": "Jason Day",
-      "score": 14,
-      "thru": 3,
+      "score": 17,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -923,12 +923,12 @@
     },
     {
       "name": "Cameron Smith",
-      "score": 16,
-      "thru": 4,
+      "score": 21,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -989,8 +989,8 @@
     },
     {
       "name": "Jake Knapp",
-      "score": 16,
-      "thru": 4,
+      "score": 20,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -1000,8 +1000,8 @@
     },
     {
       "name": "Sam Burns",
-      "score": 14,
-      "thru": 4,
+      "score": 18,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
