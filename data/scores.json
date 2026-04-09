@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T22:10:10.360Z",
+  "lastUpdated": "2026-04-09T22:15:09.732Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -373,12 +373,12 @@
     },
     {
       "name": "Ben Griffin",
-      "score": 0,
-      "thru": 14,
+      "score": -1,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -495,8 +495,8 @@
     {
       "name": "Harry Hall",
       "score": 5,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         5,
@@ -704,7 +704,7 @@
     {
       "name": "Jordan Spieth",
       "score": 0,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -759,7 +759,7 @@
     {
       "name": "Justin Rose",
       "score": -4,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -803,7 +803,7 @@
     {
       "name": "Brooks Koepka",
       "score": 0,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -847,7 +847,7 @@
     {
       "name": "Sepp Straka",
       "score": 1,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -912,12 +912,12 @@
     },
     {
       "name": "Corey Conners",
-      "score": 2,
-      "thru": 17,
-      "status": "active",
+      "score": 3,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
