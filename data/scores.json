@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T22:15:09.732Z",
+  "lastUpdated": "2026-04-09T22:20:10.697Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -363,7 +363,7 @@
     {
       "name": "Ludvig Åberg",
       "score": 2,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -473,7 +473,7 @@
     {
       "name": "Marco Penge",
       "score": 5,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -517,7 +517,7 @@
     {
       "name": "Chris Gotterup",
       "score": 0,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -539,7 +539,7 @@
     {
       "name": "Justin Thomas",
       "score": 0,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -572,8 +572,8 @@
     {
       "name": "Michael Brennan",
       "score": 0,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
@@ -681,12 +681,12 @@
     },
     {
       "name": "Harris English",
-      "score": 0,
-      "thru": 13,
+      "score": -1,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -825,7 +825,7 @@
     {
       "name": "Si Woo Kim",
       "score": 3,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -979,7 +979,7 @@
     {
       "name": "Jon Rahm",
       "score": 6,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
