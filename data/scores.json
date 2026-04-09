@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T21:05:13.244Z",
+  "lastUpdated": "2026-04-09T21:10:11.717Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 12,
   "cutPenalty": 22,
-  "projectedCut": 2,
+  "projectedCut": 3,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -44,7 +44,7 @@
     {
       "name": "J.J. Spaun",
       "score": 1,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -186,12 +186,12 @@
     },
     {
       "name": "Sergio García",
-      "score": -1,
-      "thru": 14,
+      "score": 0,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -362,12 +362,12 @@
     },
     {
       "name": "Ludvig Åberg",
-      "score": 1,
-      "thru": 12,
+      "score": 3,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        3,
         0
       ]
     },
@@ -396,7 +396,7 @@
     {
       "name": "Min Woo Lee",
       "score": 5,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -516,12 +516,12 @@
     },
     {
       "name": "Chris Gotterup",
-      "score": 1,
-      "thru": 12,
+      "score": 0,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -737,7 +737,7 @@
     {
       "name": "Tyrrell Hatton",
       "score": 1,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -901,12 +901,12 @@
     },
     {
       "name": "Fred Couples",
-      "score": 2,
-      "thru": 15,
+      "score": 4,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        4,
         0
       ]
     },
@@ -968,7 +968,7 @@
     {
       "name": "Maverick McNealy",
       "score": 4,
-      "thru": 13,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -978,12 +978,12 @@
     },
     {
       "name": "Jon Rahm",
-      "score": 4,
-      "thru": 12,
+      "score": 6,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        6,
         0
       ]
     },
