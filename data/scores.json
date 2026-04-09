@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T22:55:09.470Z",
+  "lastUpdated": "2026-04-09T23:00:09.101Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -153,12 +153,12 @@
     },
     {
       "name": "Robert MacIntyre",
-      "score": 7,
-      "thru": 16,
+      "score": 8,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        7,
+        8,
         0
       ]
     },
@@ -539,8 +539,8 @@
     {
       "name": "Justin Thomas",
       "score": 0,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
