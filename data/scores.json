@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T21:25:13.176Z",
+  "lastUpdated": "2026-04-09T21:30:09.310Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -373,12 +373,12 @@
     },
     {
       "name": "Ben Griffin",
-      "score": 1,
-      "thru": 12,
+      "score": 0,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -538,12 +538,12 @@
     },
     {
       "name": "Justin Thomas",
-      "score": -1,
-      "thru": 12,
+      "score": 0,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -846,12 +846,12 @@
     },
     {
       "name": "Sepp Straka",
-      "score": 0,
-      "thru": 12,
+      "score": 1,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
