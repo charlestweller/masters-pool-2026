@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T18:30:11.558Z",
+  "lastUpdated": "2026-04-09T18:35:10.413Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -153,12 +153,12 @@
     },
     {
       "name": "Robert MacIntyre",
-      "score": 0,
-      "thru": 2,
+      "score": -1,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -252,12 +252,12 @@
     },
     {
       "name": "Gary Woodland",
-      "score": -1,
-      "thru": 2,
+      "score": -2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        -2,
         0
       ]
     },
@@ -351,12 +351,12 @@
     },
     {
       "name": "Viktor Hovland",
-      "score": 4,
-      "thru": 12,
+      "score": 3,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        3,
         0
       ]
     },
@@ -374,7 +374,7 @@
     {
       "name": "Ben Griffin",
       "score": 1,
-      "thru": 3,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -407,7 +407,7 @@
     {
       "name": "Akshay Bhatia",
       "score": 0,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -472,12 +472,12 @@
     },
     {
       "name": "Marco Penge",
-      "score": 0,
-      "thru": 1,
+      "score": 3,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        3,
         0
       ]
     },
@@ -538,12 +538,12 @@
     },
     {
       "name": "Justin Thomas",
-      "score": -1,
-      "thru": 3,
+      "score": -2,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        -2,
         0
       ]
     },
@@ -682,7 +682,7 @@
     {
       "name": "Harris English",
       "score": 0,
-      "thru": 1,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -725,30 +725,30 @@
     },
     {
       "name": "Tommy Fleetwood",
-      "score": -3,
-      "thru": 15,
+      "score": -2,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        -3,
+        -2,
         0
       ]
     },
     {
       "name": "Tyrrell Hatton",
-      "score": 1,
-      "thru": 5,
+      "score": 0,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
     {
       "name": "Patrick Reed",
       "score": -3,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
@@ -781,7 +781,7 @@
     {
       "name": "Patrick Cantlay",
       "score": 4,
-      "thru": 12,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -824,12 +824,12 @@
     },
     {
       "name": "Si Woo Kim",
-      "score": 2,
-      "thru": 1,
+      "score": 1,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        1,
         0
       ]
     },
@@ -847,7 +847,7 @@
     {
       "name": "Sepp Straka",
       "score": -1,
-      "thru": 3,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -923,12 +923,12 @@
     },
     {
       "name": "Cameron Smith",
-      "score": 1,
-      "thru": 17,
-      "status": "active",
+      "score": 2,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
@@ -945,12 +945,12 @@
     },
     {
       "name": "Scottie Scheffler",
-      "score": -2,
-      "thru": 2,
+      "score": -3,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
-        -2,
+        -3,
         0
       ]
     },
@@ -968,7 +968,7 @@
     {
       "name": "Maverick McNealy",
       "score": 3,
-      "thru": 5,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -990,8 +990,8 @@
     {
       "name": "Jake Knapp",
       "score": 1,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         1,
@@ -1001,8 +1001,8 @@
     {
       "name": "Sam Burns",
       "score": -5,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         -5,
