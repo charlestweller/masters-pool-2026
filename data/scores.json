@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T15:05:11.235Z",
+  "lastUpdated": "2026-04-09T15:10:11.144Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 55,
-  "cutPenalty": 65,
-  "projectedCut": 5,
+  "worstActiveScore": 59,
+  "cutPenalty": 69,
+  "projectedCut": 9,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -54,8 +54,8 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 25,
-      "thru": 7,
+      "score": 30,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -87,23 +87,23 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 32,
-      "thru": 8,
+      "score": 37,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
     {
       "name": "Max Greyserman",
-      "score": 32,
-      "thru": 8,
+      "score": 38,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        2,
         0
       ]
     },
@@ -197,8 +197,8 @@
     },
     {
       "name": "Jason Day",
-      "score": 17,
-      "thru": 4,
+      "score": 21,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -230,8 +230,8 @@
     },
     {
       "name": "Dustin Johnson",
-      "score": 15,
-      "thru": 4,
+      "score": 19,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -241,12 +241,12 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": 4,
-      "thru": 1,
+      "score": 8,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -263,8 +263,8 @@
     },
     {
       "name": "Nick Taylor",
-      "score": 19,
-      "thru": 5,
+      "score": 22,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -307,8 +307,8 @@
     },
     {
       "name": "Ryan Fox",
-      "score": 37,
-      "thru": 8,
+      "score": 41,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -340,12 +340,12 @@
     },
     {
       "name": "Kristoffer Reitan",
-      "score": 28,
-      "thru": 7,
+      "score": 32,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -417,8 +417,8 @@
     },
     {
       "name": "Cameron Young",
-      "score": 5,
-      "thru": 1,
+      "score": 10,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -461,8 +461,8 @@
     },
     {
       "name": "Sami Välimäki",
-      "score": 37,
-      "thru": 9,
+      "score": 41,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -505,8 +505,8 @@
     },
     {
       "name": "Casey Jarvis",
-      "score": 29,
-      "thru": 7,
+      "score": 34,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -527,12 +527,12 @@
     },
     {
       "name": "Naoyuki Kataoka",
-      "score": 48,
-      "thru": 11,
+      "score": 52,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        5,
         0
       ]
     },
@@ -615,8 +615,8 @@
     },
     {
       "name": "Johnny Keefer",
-      "score": 55,
-      "thru": 13,
+      "score": 59,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -626,8 +626,8 @@
     },
     {
       "name": "Mason Howell",
-      "score": 4,
-      "thru": 1,
+      "score": 9,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -714,8 +714,8 @@
     },
     {
       "name": "Carlos Ortiz",
-      "score": 52,
-      "thru": 11,
+      "score": 55,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -857,12 +857,12 @@
     },
     {
       "name": "Max Homa",
-      "score": 43,
-      "thru": 11,
+      "score": 48,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        1,
         0
       ]
     },
@@ -923,8 +923,8 @@
     },
     {
       "name": "Cameron Smith",
-      "score": 24,
-      "thru": 6,
+      "score": 28,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -934,8 +934,8 @@
     },
     {
       "name": "Haotong Li",
-      "score": 53,
-      "thru": 13,
+      "score": 57,
+      "thru": 14,
       "status": "active",
       "position": "",
       "rounds": [
@@ -989,8 +989,8 @@
     },
     {
       "name": "Jake Knapp",
-      "score": 23,
-      "thru": 6,
+      "score": 27,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
