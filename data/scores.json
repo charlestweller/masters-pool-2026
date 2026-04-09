@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T20:20:08.659Z",
+  "lastUpdated": "2026-04-09T20:25:08.560Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -44,7 +44,7 @@
     {
       "name": "J.J. Spaun",
       "score": 2,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -142,23 +142,23 @@
     },
     {
       "name": "Andrew Novak",
-      "score": 2,
-      "thru": 17,
-      "status": "active",
+      "score": 3,
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
-        2,
+        3,
         0
       ]
     },
     {
       "name": "Robert MacIntyre",
-      "score": 1,
-      "thru": 8,
+      "score": 3,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        3,
         0
       ]
     },
@@ -186,12 +186,12 @@
     },
     {
       "name": "Sergio García",
-      "score": 0,
-      "thru": 12,
+      "score": -1,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -253,7 +253,7 @@
     {
       "name": "Gary Woodland",
       "score": -3,
-      "thru": 8,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -330,8 +330,8 @@
     {
       "name": "Tom McKibbin",
       "score": 3,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         3,
@@ -362,19 +362,19 @@
     },
     {
       "name": "Ludvig Åberg",
-      "score": 0,
-      "thru": 10,
+      "score": 1,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
     {
       "name": "Ben Griffin",
       "score": 1,
-      "thru": 9,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -517,7 +517,7 @@
     {
       "name": "Chris Gotterup",
       "score": 0,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -539,7 +539,7 @@
     {
       "name": "Justin Thomas",
       "score": -2,
-      "thru": 9,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -737,7 +737,7 @@
     {
       "name": "Tyrrell Hatton",
       "score": 1,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -846,12 +846,12 @@
     },
     {
       "name": "Sepp Straka",
-      "score": -1,
-      "thru": 9,
+      "score": 0,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -946,7 +946,7 @@
     {
       "name": "Scottie Scheffler",
       "score": -3,
-      "thru": 8,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -957,8 +957,8 @@
     {
       "name": "Brian Campbell",
       "score": -1,
-      "thru": 17,
-      "status": "active",
+      "thru": 18,
+      "status": "complete",
       "position": "",
       "rounds": [
         -1,
@@ -968,7 +968,7 @@
     {
       "name": "Maverick McNealy",
       "score": 4,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -979,7 +979,7 @@
     {
       "name": "Jon Rahm",
       "score": 4,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
