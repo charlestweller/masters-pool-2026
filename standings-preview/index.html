@@ -832,7 +832,9 @@ function renderStatus(scores) {
     roundEl.textContent = 'Final Results';
   } else if (ts === 'in-progress') {
     pill.classList.add('live');
-    roundEl.textContent = `Live · Round ${round}` + (scores.roundDetail ? ` · ${scores.roundDetail}` : '');
+    const detail = scores.roundDetail || '';
+    const cleanDetail = detail.replace(/^Round\s+\d+\s*[-–]?\s*/i, '').trim();
+    roundEl.textContent = `Live · Round ${round}` + (cleanDetail ? ` · ${cleanDetail}` : '');
   } else {
     roundEl.textContent = round > 0 ? `Round ${round} Complete` : 'Pre-Tournament';
   }
@@ -953,7 +955,10 @@ function buildGolferMap(scoresData) {
   const map = {};
   if (!scoresData?.golfers) return map;
   for (const g of scoresData.golfers) {
-    if (g.name) map[g.name.toLowerCase()] = g;
+    if (g.name) {
+      map[g.name.toLowerCase()] = g;
+      map[normalizeStr(g.name)]  = g;
+    }
   }
   return map;
 }
@@ -963,11 +968,12 @@ function resolveGolfer(name, map, cutPenalty, scoresData) {
   const hasTourneyData = !!(scoresData?.golfers?.length);
   if (!hasTourneyData) return { displayName: display, scoreValue: 0, status: 'pre', thru: null };
 
-  const key = name.toLowerCase().trim();
-  let golfer = map[key];
+  const key     = name.toLowerCase().trim();
+  const keyNorm = normalizeStr(name);
+  let golfer = map[key] || map[keyNorm];
   if (!golfer) {
-    const last = key.split(' ').pop();
-    golfer = Object.values(map).find(g => g.name.toLowerCase().endsWith(last));
+    const lastNorm = keyNorm.split(' ').pop();
+    golfer = Object.values(map).find(g => normalizeStr(g.name).endsWith(lastNorm));
   }
   if (!golfer) return { displayName: display, scoreValue: 0, status: 'unknown', thru: null };
 
@@ -1001,13 +1007,18 @@ function scoreClass(n) {
 }
 
 function thruLabel(t) {
-  if (t === null || t === undefined) return '';
-  return (t === 18 || t === 'F') ? 'F' : `T${t}`;
+  if (t === null || t === undefined || t === 0) return '';
+  if (t === 18 || t === 'F') return 'F';
+  return `Thru ${t}`;
 }
 
 function lastName(full) {
   const parts = full.trim().split(' ');
   return parts.length < 2 ? full : parts[parts.length - 1];
+}
+
+function normalizeStr(s) {
+  return (s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
 }
 
 function esc(s) {
