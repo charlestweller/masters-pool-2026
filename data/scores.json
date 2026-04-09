@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T15:00:11.150Z",
+  "lastUpdated": "2026-04-09T15:05:11.235Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -10,12 +10,12 @@
   "golfers": [
     {
       "name": "Bryson DeChambeau",
-      "score": 10,
-      "thru": 2,
+      "score": 13,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -32,8 +32,8 @@
     },
     {
       "name": "Xander Schauffele",
-      "score": 8,
-      "thru": 2,
+      "score": 12,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -439,8 +439,8 @@
     },
     {
       "name": "Keegan Bradley",
-      "score": 23,
-      "thru": 5,
+      "score": 26,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -483,8 +483,8 @@
     },
     {
       "name": "Shane Lowry",
-      "score": 16,
-      "thru": 4,
+      "score": 20,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -593,12 +593,12 @@
     },
     {
       "name": "Ryan Gerard",
-      "score": 19,
-      "thru": 5,
+      "score": 23,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
