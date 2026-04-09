@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T20:45:15.839Z",
+  "lastUpdated": "2026-04-09T20:50:11.011Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -175,12 +175,12 @@
     },
     {
       "name": "Brian Harman",
-      "score": 5,
-      "thru": 15,
+      "score": 6,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
-        5,
+        6,
         0
       ]
     },
@@ -472,12 +472,12 @@
     },
     {
       "name": "Marco Penge",
-      "score": 5,
-      "thru": 9,
+      "score": 4,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        5,
+        4,
         0
       ]
     },
@@ -538,12 +538,12 @@
     },
     {
       "name": "Justin Thomas",
-      "score": -2,
-      "thru": 10,
+      "score": -1,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
-        -2,
+        -1,
         0
       ]
     },
@@ -681,12 +681,12 @@
     },
     {
       "name": "Harris English",
-      "score": 2,
-      "thru": 9,
+      "score": 1,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        2,
+        1,
         0
       ]
     },
@@ -737,7 +737,7 @@
     {
       "name": "Tyrrell Hatton",
       "score": 1,
-      "thru": 12,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
@@ -759,7 +759,7 @@
     {
       "name": "Justin Rose",
       "score": -3,
-      "thru": 11,
+      "thru": 12,
       "status": "active",
       "position": "",
       "rounds": [
@@ -825,7 +825,7 @@
     {
       "name": "Si Woo Kim",
       "score": 1,
-      "thru": 9,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -847,7 +847,7 @@
     {
       "name": "Sepp Straka",
       "score": 0,
-      "thru": 10,
+      "thru": 11,
       "status": "active",
       "position": "",
       "rounds": [
@@ -880,7 +880,7 @@
     {
       "name": "Daniel Berger",
       "score": 3,
-      "thru": 15,
+      "thru": 16,
       "status": "active",
       "position": "",
       "rounds": [
