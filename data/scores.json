@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T19:15:10.577Z",
+  "lastUpdated": "2026-04-09T19:20:14.187Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
@@ -66,7 +66,7 @@
     {
       "name": "Collin Morikawa",
       "score": 2,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -120,12 +120,12 @@
     },
     {
       "name": "Nicolai Højgaard",
-      "score": 3,
-      "thru": 12,
+      "score": 1,
+      "thru": 13,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        1,
         0
       ]
     },
@@ -153,12 +153,12 @@
     },
     {
       "name": "Robert MacIntyre",
-      "score": 0,
-      "thru": 5,
+      "score": 1,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        1,
         0
       ]
     },
@@ -253,7 +253,7 @@
     {
       "name": "Gary Woodland",
       "score": -2,
-      "thru": 5,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -275,7 +275,7 @@
     {
       "name": "Alex Noren",
       "score": 5,
-      "thru": 14,
+      "thru": 15,
       "status": "active",
       "position": "",
       "rounds": [
@@ -363,7 +363,7 @@
     {
       "name": "Ludvig Åberg",
       "score": -3,
-      "thru": 7,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
@@ -395,12 +395,12 @@
     },
     {
       "name": "Min Woo Lee",
-      "score": 3,
-      "thru": 9,
+      "score": 4,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        3,
+        4,
         0
       ]
     },
@@ -473,7 +473,7 @@
     {
       "name": "Marco Penge",
       "score": 4,
-      "thru": 4,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -495,7 +495,7 @@
     {
       "name": "Harry Hall",
       "score": 1,
-      "thru": 8,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -572,7 +572,7 @@
     {
       "name": "Michael Brennan",
       "score": 0,
-      "thru": 8,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
@@ -648,12 +648,12 @@
     },
     {
       "name": "Fifa Laopakdee",
-      "score": 4,
-      "thru": 9,
+      "score": 5,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        4,
+        5,
         0
       ]
     },
@@ -682,7 +682,7 @@
     {
       "name": "Harris English",
       "score": 1,
-      "thru": 4,
+      "thru": 5,
       "status": "active",
       "position": "",
       "rounds": [
@@ -692,12 +692,12 @@
     },
     {
       "name": "Russell Henley",
-      "score": -1,
-      "thru": 16,
+      "score": 0,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -770,7 +770,7 @@
     {
       "name": "Hideki Matsuyama",
       "score": 0,
-      "thru": 16,
+      "thru": 17,
       "status": "active",
       "position": "",
       "rounds": [
@@ -847,7 +847,7 @@
     {
       "name": "Sepp Straka",
       "score": -1,
-      "thru": 6,
+      "thru": 7,
       "status": "active",
       "position": "",
       "rounds": [
@@ -901,23 +901,23 @@
     },
     {
       "name": "Fred Couples",
-      "score": -2,
-      "thru": 9,
+      "score": -1,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        -2,
+        -1,
         0
       ]
     },
     {
       "name": "Corey Conners",
-      "score": -1,
-      "thru": 8,
+      "score": 0,
+      "thru": 9,
       "status": "active",
       "position": "",
       "rounds": [
-        -1,
+        0,
         0
       ]
     },
@@ -946,7 +946,7 @@
     {
       "name": "Scottie Scheffler",
       "score": -3,
-      "thru": 5,
+      "thru": 6,
       "status": "active",
       "position": "",
       "rounds": [
@@ -979,7 +979,7 @@
     {
       "name": "Jon Rahm",
       "score": 3,
-      "thru": 7,
+      "thru": 8,
       "status": "active",
       "position": "",
       "rounds": [
