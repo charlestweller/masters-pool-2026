@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-09T14:05:09.622Z",
+  "lastUpdated": "2026-04-09T14:10:12.682Z",
   "tournament": "Masters Tournament",
   "round": 1,
   "roundDetail": "Round 1 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 39,
-  "cutPenalty": 49,
+  "worstActiveScore": 42,
+  "cutPenalty": 52,
   "projectedCut": 0,
   "golfers": [
     {
@@ -263,12 +263,12 @@
     },
     {
       "name": "Nick Taylor",
-      "score": 4,
-      "thru": 1,
+      "score": 8,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -406,8 +406,8 @@
     },
     {
       "name": "Akshay Bhatia",
-      "score": 0,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -439,8 +439,8 @@
     },
     {
       "name": "Keegan Bradley",
-      "score": 5,
-      "thru": 1,
+      "score": 10,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -593,12 +593,12 @@
     },
     {
       "name": "Ryan Gerard",
-      "score": 5,
-      "thru": 1,
+      "score": 9,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        0,
         0
       ]
     },
@@ -615,8 +615,8 @@
     },
     {
       "name": "Johnny Keefer",
-      "score": 38,
-      "thru": 9,
+      "score": 42,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
@@ -725,8 +725,8 @@
     },
     {
       "name": "Tommy Fleetwood",
-      "score": 0,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -747,12 +747,12 @@
     },
     {
       "name": "Patrick Reed",
-      "score": 0,
-      "thru": 0,
+      "score": 3,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
-        0,
+        -1,
         0
       ]
     },
@@ -934,12 +934,12 @@
     },
     {
       "name": "Haotong Li",
-      "score": 37,
-      "thru": 9,
+      "score": 42,
+      "thru": 10,
       "status": "active",
       "position": "",
       "rounds": [
-        1,
+        2,
         0
       ]
     },
