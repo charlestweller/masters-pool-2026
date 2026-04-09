@@ -52,16 +52,41 @@ async function fetchScores() {
   else if (statusName.includes('COMPLETE') || statusName.includes('FINAL')) tournamentStatus = 'complete';
   else if (statusName.includes('SCHEDULED')) tournamentStatus = 'scheduled';
 
+  // Log one sample competitor so we can see the raw ESPN format in Actions logs
+  if (competition.competitors?.length) {
+    const s = competition.competitors[0];
+    console.log('Sample competitor (raw):', JSON.stringify({
+      name:      s.athlete?.displayName,
+      score:     s.score,
+      scoreType: typeof s.score,
+      thru:      s.status?.thru,
+      statusType: s.status?.type?.name,
+    }));
+  }
+
   // Parse every competitor
   const golfers = (competition.competitors || []).map(c => {
-    const name   = c.athlete?.displayName || c.displayName || 'Unknown';
-    const rawScore = c.score;
-    // ESPN score can be "-8", "+2", "E", or a number string
+    const name = c.athlete?.displayName || c.displayName || 'Unknown';
+
+    // ESPN sometimes returns score as an object {displayValue:"-5", value:-5}
+    // and sometimes as a plain string "-5". Handle both.
+    let rawScore = c.score;
+    if (rawScore !== null && rawScore !== undefined && typeof rawScore === 'object') {
+      rawScore = rawScore.displayValue ?? rawScore.value ?? null;
+    }
     const scoreValue = parseScore(rawScore);
 
     const statusType = c.status?.type?.name || '';
     const detail     = c.status?.type?.detail || '';
-    const thruRaw    = c.status?.thru;
+
+    // thru can also come back as an object in some API versions
+    let thruRaw = c.status?.thru;
+    if (thruRaw !== null && thruRaw !== undefined && typeof thruRaw === 'object') {
+      thruRaw = thruRaw.displayValue ?? thruRaw.value ?? null;
+    }
+    // Convert string "18" or "F" to appropriate types
+    if (thruRaw === 'F' || thruRaw === 'f') thruRaw = 18;
+    else if (typeof thruRaw === 'string') thruRaw = parseInt(thruRaw, 10) || null;
 
     let status = 'active';
     if (statusType.includes('CUT'))                          status = 'cut';
