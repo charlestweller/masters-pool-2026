@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T12:40:12.677Z",
+  "lastUpdated": "2026-04-10T12:45:08.728Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -21,13 +21,13 @@
     },
     {
       "name": "Davis Riley",
-      "score": 10,
-      "thru": 0,
+      "score": 11,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
         10,
-        0
+        1
       ]
     },
     {
@@ -109,13 +109,13 @@
     },
     {
       "name": "Wyndham Clark",
-      "score": 0,
-      "thru": 1,
+      "score": -1,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        0
+        -1
       ]
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "Andrew Novak",
       "score": 5,
-      "thru": 2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -319,7 +319,7 @@
     {
       "name": "Danny Willett",
       "score": 4,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -330,7 +330,7 @@
     {
       "name": "Tom McKibbin",
       "score": 6,
-      "thru": 2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -637,13 +637,13 @@
     },
     {
       "name": "Ethan Fang",
-      "score": 2,
-      "thru": 0,
+      "score": 3,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
         2,
-        0
+        1
       ]
     },
     {
@@ -659,13 +659,13 @@
     },
     {
       "name": "Mateo Pulcini",
-      "score": 9,
-      "thru": 1,
+      "score": 8,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
         9,
-        0
+        -1
       ]
     },
     {
@@ -957,7 +957,7 @@
     {
       "name": "Brian Campbell",
       "score": 0,
-      "thru": 2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
