@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T13:35:08.613Z",
+  "lastUpdated": "2026-04-10T13:40:08.645Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -22,14 +22,14 @@
     },
     {
       "name": "Davis Riley",
-      "score": 11,
-      "thru": 3,
+      "score": 12,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         10,
-        1
+        2
       ]
     },
     {
@@ -119,7 +119,7 @@
     {
       "name": "Wyndham Clark",
       "score": -3,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -154,14 +154,14 @@
     },
     {
       "name": "Andrew Novak",
-      "score": 6,
-      "thru": 6,
+      "score": 7,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        3
+        4
       ]
     },
     {
@@ -346,20 +346,20 @@
     },
     {
       "name": "Danny Willett",
-      "score": 4,
-      "thru": 3,
+      "score": 6,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        0
+        2
       ]
     },
     {
       "name": "Tom McKibbin",
       "score": 8,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -491,7 +491,7 @@
     {
       "name": "Mike Weir",
       "score": 11,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -538,14 +538,14 @@
     },
     {
       "name": "Harry Hall",
-      "score": 5,
-      "thru": 0,
-      "teeTime": "9:19 AM",
+      "score": 6,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        0
+        1
       ]
     },
     {
@@ -622,14 +622,14 @@
     },
     {
       "name": "Michael Brennan",
-      "score": 0,
-      "thru": 0,
-      "teeTime": "9:19 AM",
+      "score": 1,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        0
+        1
       ]
     },
     {
@@ -695,7 +695,7 @@
     {
       "name": "Ethan Fang",
       "score": 5,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -719,7 +719,7 @@
     {
       "name": "Mateo Pulcini",
       "score": 9,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
