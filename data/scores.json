@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T12:30:13.198Z",
+  "lastUpdated": "2026-04-10T12:35:12.629Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -121,7 +121,7 @@
     {
       "name": "Nicolai Højgaard",
       "score": 4,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -142,13 +142,13 @@
     },
     {
       "name": "Andrew Novak",
-      "score": 4,
-      "thru": 1,
+      "score": 5,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        1
+        2
       ]
     },
     {
@@ -164,13 +164,13 @@
     },
     {
       "name": "Sungjae Im",
-      "score": 4,
-      "thru": 3,
+      "score": 5,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        0
+        1
       ]
     },
     {
@@ -429,7 +429,7 @@
     {
       "name": "Sam Stevens",
       "score": 0,
-      "thru": 3,
+      "thru": 4,
       "status": "active",
       "position": "",
       "rounds": [
@@ -814,7 +814,7 @@
     {
       "name": "Zach Johnson",
       "score": 3,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -868,13 +868,13 @@
     },
     {
       "name": "Michael Kim",
-      "score": 3,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        0
+        1
       ]
     },
     {
