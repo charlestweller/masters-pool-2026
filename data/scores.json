@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T21:20:07.891Z",
+  "lastUpdated": "2026-04-10T21:25:11.602Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -227,9 +227,9 @@
     {
       "name": "Brandon Holtz",
       "score": 15,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         9,
@@ -251,7 +251,7 @@
     {
       "name": "Dustin Johnson",
       "score": 1,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -382,14 +382,14 @@
     },
     {
       "name": "Viktor Hovland",
-      "score": 3,
-      "thru": 11,
+      "score": 2,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        0
+        -1
       ]
     },
     {
@@ -419,9 +419,9 @@
     {
       "name": "Nico Echavarria",
       "score": 13,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         7,
@@ -443,7 +443,7 @@
     {
       "name": "Akshay Bhatia",
       "score": 4,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -526,14 +526,14 @@
     },
     {
       "name": "Shane Lowry",
-      "score": -3,
-      "thru": 15,
+      "score": -4,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -2,
-        -1
+        -2
       ]
     },
     {
@@ -790,14 +790,14 @@
     },
     {
       "name": "Tommy Fleetwood",
-      "score": -4,
-      "thru": 14,
+      "score": -6,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
-        -3
+        -5
       ]
     },
     {
@@ -815,7 +815,7 @@
     {
       "name": "Patrick Reed",
       "score": -6,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -910,14 +910,14 @@
     },
     {
       "name": "Bubba Watson",
-      "score": 4,
-      "thru": 17,
+      "score": 5,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         4,
-        0
+        1
       ]
     },
     {
