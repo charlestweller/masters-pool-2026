@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T20:30:14.131Z",
+  "lastUpdated": "2026-04-10T20:35:09.187Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -215,7 +215,7 @@
     {
       "name": "Jason Day",
       "score": -4,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -251,7 +251,7 @@
     {
       "name": "Dustin Johnson",
       "score": -1,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -287,7 +287,7 @@
     {
       "name": "Nick Taylor",
       "score": -1,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -527,7 +527,7 @@
     {
       "name": "Shane Lowry",
       "score": -3,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -850,14 +850,14 @@
     },
     {
       "name": "Patrick Cantlay",
-      "score": 4,
-      "thru": 8,
+      "score": 3,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        -1
+        -2
       ]
     },
     {
