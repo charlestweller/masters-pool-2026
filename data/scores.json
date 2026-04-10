@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T13:45:13.929Z",
+  "lastUpdated": "2026-04-10T13:50:08.184Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -47,8 +47,8 @@
     {
       "name": "J.J. Spaun",
       "score": 2,
-      "thru": 0,
-      "teeTime": "9:31 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -179,7 +179,7 @@
     {
       "name": "Sungjae Im",
       "score": 3,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -190,14 +190,14 @@
     },
     {
       "name": "Brian Harman",
-      "score": 8,
-      "thru": 3,
+      "score": 10,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         7,
-        1
+        3
       ]
     },
     {
@@ -311,7 +311,7 @@
     {
       "name": "Adam Scott",
       "score": 1,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -466,14 +466,14 @@
     },
     {
       "name": "Sam Stevens",
-      "score": 1,
-      "thru": 8,
+      "score": 2,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        1
+        2
       ]
     },
     {
@@ -706,14 +706,14 @@
     },
     {
       "name": "Fifa Laopakdee",
-      "score": 9,
-      "thru": 2,
+      "score": 10,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         8,
-        1
+        2
       ]
     },
     {
@@ -803,8 +803,8 @@
     {
       "name": "Tyrrell Hatton",
       "score": 2,
-      "thru": 0,
-      "teeTime": "9:31 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -958,14 +958,14 @@
     },
     {
       "name": "Daniel Berger",
-      "score": 5,
-      "thru": 3,
+      "score": 6,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        1
+        2
       ]
     },
     {
@@ -983,7 +983,7 @@
     {
       "name": "Fred Couples",
       "score": 5,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1055,8 +1055,8 @@
     {
       "name": "Maverick McNealy",
       "score": 5,
-      "thru": 0,
-      "teeTime": "9:31 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
