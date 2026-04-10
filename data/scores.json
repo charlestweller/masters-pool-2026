@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-10T14:00:12.602Z",
+  "lastUpdated": "2026-04-10T14:05:09.232Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 14,
-  "cutPenalty": 24,
+  "worstActiveScore": 15,
+  "cutPenalty": 25,
   "projectedCut": 3,
   "golfers": [
     {
@@ -22,14 +22,14 @@
     },
     {
       "name": "Davis Riley",
-      "score": 14,
-      "thru": 5,
+      "score": 15,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         10,
-        4
+        5
       ]
     },
     {
@@ -190,14 +190,14 @@
     },
     {
       "name": "Brian Harman",
-      "score": 10,
-      "thru": 4,
+      "score": 9,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         7,
-        3
+        2
       ]
     },
     {
@@ -311,7 +311,7 @@
     {
       "name": "Adam Scott",
       "score": 1,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -431,7 +431,7 @@
     {
       "name": "Min Woo Lee",
       "score": 7,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -466,14 +466,14 @@
     },
     {
       "name": "Sam Stevens",
-      "score": 2,
-      "thru": 9,
+      "score": 3,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        2
+        3
       ]
     },
     {
@@ -623,7 +623,7 @@
     {
       "name": "Michael Brennan",
       "score": 1,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -706,14 +706,14 @@
     },
     {
       "name": "Fifa Laopakdee",
-      "score": 10,
-      "thru": 3,
+      "score": 11,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         8,
-        2
+        3
       ]
     },
     {
@@ -958,14 +958,14 @@
     },
     {
       "name": "Daniel Berger",
-      "score": 6,
-      "thru": 4,
+      "score": 7,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        2
+        3
       ]
     },
     {
@@ -983,7 +983,7 @@
     {
       "name": "Fred Couples",
       "score": 5,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
