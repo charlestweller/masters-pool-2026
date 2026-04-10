@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-10T15:31:50.449Z",
+  "lastUpdated": "2026-04-10T15:35:12.436Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 17,
-  "cutPenalty": 27,
+  "worstActiveScore": 18,
+  "cutPenalty": 28,
   "projectedCut": 3,
   "golfers": [
     {
@@ -22,14 +22,14 @@
     },
     {
       "name": "Davis Riley",
-      "score": 17,
-      "thru": 10,
+      "score": 18,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         10,
-        7
+        8
       ]
     },
     {
@@ -347,7 +347,7 @@
     {
       "name": "Danny Willett",
       "score": 8,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -587,7 +587,7 @@
     {
       "name": "Justin Thomas",
       "score": 1,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -695,7 +695,7 @@
     {
       "name": "Ethan Fang",
       "score": 5,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -827,7 +827,7 @@
     {
       "name": "Justin Rose",
       "score": -1,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -886,14 +886,14 @@
     },
     {
       "name": "Zach Johnson",
-      "score": 4,
-      "thru": 11,
+      "score": 6,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        1
+        3
       ]
     },
     {
@@ -923,7 +923,7 @@
     {
       "name": "Sepp Straka",
       "score": 1,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -946,14 +946,14 @@
     },
     {
       "name": "Michael Kim",
-      "score": 7,
-      "thru": 11,
+      "score": 8,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        4
+        5
       ]
     },
     {
@@ -1043,7 +1043,7 @@
     {
       "name": "Brian Campbell",
       "score": 0,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
