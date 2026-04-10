@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T20:54:48.239Z",
+  "lastUpdated": "2026-04-10T20:55:09.640Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -263,7 +263,7 @@
     {
       "name": "Rory McIlroy",
       "score": -6,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
