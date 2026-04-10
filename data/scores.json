@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T15:00:13.396Z",
+  "lastUpdated": "2026-04-10T15:05:08.117Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -83,7 +83,7 @@
     {
       "name": "Aaron Rai",
       "score": -1,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -131,7 +131,7 @@
     {
       "name": "Nicolai Højgaard",
       "score": 6,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -167,7 +167,7 @@
     {
       "name": "Robert MacIntyre",
       "score": 10,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -274,14 +274,14 @@
     },
     {
       "name": "Gary Woodland",
-      "score": -1,
-      "thru": 1,
+      "score": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
-        0
+        2
       ]
     },
     {
@@ -586,14 +586,14 @@
     },
     {
       "name": "Justin Thomas",
-      "score": -1,
-      "thru": 2,
+      "score": 0,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        -1
+        0
       ]
     },
     {
@@ -670,14 +670,14 @@
     },
     {
       "name": "Johnny Keefer",
-      "score": 4,
-      "thru": 0,
-      "teeTime": "10:51 AM",
+      "score": 5,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        0
+        1
       ]
     },
     {
@@ -767,7 +767,7 @@
     {
       "name": "Jordan Spieth",
       "score": -1,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -827,7 +827,7 @@
     {
       "name": "Justin Rose",
       "score": -1,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -923,7 +923,7 @@
     {
       "name": "Sepp Straka",
       "score": 1,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -947,7 +947,7 @@
     {
       "name": "Michael Kim",
       "score": 6,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1031,7 +1031,7 @@
     {
       "name": "Scottie Scheffler",
       "score": -2,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
