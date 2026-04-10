@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T20:20:08.059Z",
+  "lastUpdated": "2026-04-10T20:25:13.183Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -71,7 +71,7 @@
     {
       "name": "Collin Morikawa",
       "score": 0,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -94,14 +94,14 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 3,
-      "thru": 16,
+      "score": 4,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        0
+        1
       ]
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "name": "Rasmus Højgaard",
-      "score": 4,
+      "score": 5,
       "thru": 15,
       "teeTime": null,
       "status": "active",
@@ -323,7 +323,7 @@
     {
       "name": "Vijay Singh",
       "score": 9,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -442,14 +442,14 @@
     },
     {
       "name": "Akshay Bhatia",
-      "score": 1,
-      "thru": 11,
+      "score": 2,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
-        0
+        1
       ]
     },
     {
@@ -683,7 +683,7 @@
     {
       "name": "Mason Howell",
       "score": 9,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -754,14 +754,14 @@
     },
     {
       "name": "Russell Henley",
-      "score": -1,
-      "thru": 9,
+      "score": 0,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
-        -2
+        -1
       ]
     },
     {
@@ -839,7 +839,7 @@
     {
       "name": "Hideki Matsuyama",
       "score": -2,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1006,14 +1006,14 @@
     },
     {
       "name": "Cameron Smith",
-      "score": 4,
-      "thru": 13,
+      "score": 5,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         2,
-        2
+        3
       ]
     },
     {
@@ -1078,20 +1078,20 @@
     },
     {
       "name": "Jake Knapp",
-      "score": 0,
-      "thru": 13,
+      "score": -1,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
-        -1
+        -2
       ]
     },
     {
       "name": "Sam Burns",
       "score": -3,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
