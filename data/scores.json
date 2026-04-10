@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T16:20:16.732Z",
+  "lastUpdated": "2026-04-10T16:25:08.514Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -47,7 +47,7 @@
     {
       "name": "J.J. Spaun",
       "score": 5,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -83,7 +83,7 @@
     {
       "name": "Aaron Rai",
       "score": 1,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -335,7 +335,7 @@
     {
       "name": "Ryan Fox",
       "score": 5,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -406,14 +406,14 @@
     },
     {
       "name": "Ben Griffin",
-      "score": -1,
-      "thru": 7,
+      "score": -2,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        -1
+        -2
       ]
     },
     {
@@ -635,7 +635,7 @@
     {
       "name": "Jacob Bridgeman",
       "score": 0,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -778,14 +778,14 @@
     },
     {
       "name": "Carlos Ortiz",
-      "score": 8,
-      "thru": 4,
+      "score": 9,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         8,
-        0
+        1
       ]
     },
     {
@@ -803,7 +803,7 @@
     {
       "name": "Tyrrell Hatton",
       "score": -2,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1054,14 +1054,14 @@
     },
     {
       "name": "Maverick McNealy",
-      "score": 6,
-      "thru": 9,
+      "score": 5,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        1
+        0
       ]
     },
     {
