@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T12:20:11.644Z",
+  "lastUpdated": "2026-04-10T12:25:07.897Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -165,7 +165,7 @@
     {
       "name": "Sungjae Im",
       "score": 4,
-      "thru": 2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
@@ -429,7 +429,7 @@
     {
       "name": "Sam Stevens",
       "score": 0,
-      "thru": 2,
+      "thru": 3,
       "status": "active",
       "position": "",
       "rounds": [
