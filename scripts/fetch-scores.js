@@ -71,8 +71,8 @@ async function fetchScores() {
     const sc   = p.score && typeof p.score === 'object' ? p.score : {value: p.score, displayValue: String(p.score)};
     const ls   = (p.linescores || []).map(l => `${l.displayValue ?? l.value}`).join(', ');
     const sts  = (p.statistics || []).map(s => `${s.name}=${s.displayValue ?? s.value}`).join(' | ');
-    console.log(`  ${p.athlete?.displayName}: score.value=${sc.value} score.display="${sc.displayValue}" state=${p.status?.type?.state} thru=${p.status?.thru} startHole=${p.status?.startHole} detail="${p.status?.type?.detail}" shortDetail="${p.status?.type?.shortDetail}"`);
-    if (p.status?.type?.state === 'pre') console.log(`    FULL STATUS: ${JSON.stringify(p.status)}`);
+    console.log(`  ${p.athlete?.displayName}: score.value=${sc.value} score.display="${sc.displayValue}" state=${p.status?.type?.state} thru=${p.status?.thru} teeTime="${p.status?.detail}"`);
+
     console.log(`    linescores=[${ls}]  stats=[${sts || 'none'}]`);
   });
 
@@ -130,10 +130,11 @@ async function fetchScores() {
     else if (statusType.includes('DQ'))                                                status = 'dq';
     else if (statusType.includes('COMPLETE') || detail === 'F' || thruRaw === 18)     status = 'complete';
 
-    // Tee time: shown in detail for players who haven't started their round
-    // e.g. "10:05 AM ET" → strip timezone for display
-    const teeTime = (playerState === 'pre' && (!thruRaw || thruRaw === 0) && detail && detail !== 'F')
-      ? detail.replace(/\s*[A-Z]{2,3}T\s*$/i, '').trim()  // strip trailing timezone (ET, CT, MT, PT, EST, etc.)
+    // Tee time: c.status.detail (top-level, not c.status.type.detail) holds the
+    // human-readable time e.g. "1:20 PM ET". Strip trailing timezone abbreviation.
+    const statusDetail = c.status?.detail || '';
+    const teeTime = (playerState === 'pre' && (!thruRaw || thruRaw === 0) && statusDetail && statusDetail !== 'Scheduled')
+      ? statusDetail.replace(/\s+[A-Z]{2,3}\s*$/i, '').trim()  // strip "ET", "CT", "EDT", etc.
       : null;
 
     return {
