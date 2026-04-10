@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T23:50:09.807Z",
+  "lastUpdated": "2026-04-10T23:55:08.557Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - Play Complete",
@@ -38,7 +38,7 @@
       "name": "Xander Schauffele",
       "score": -2,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "1:11 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -64,7 +64,7 @@
       "name": "Kurt Kitayama",
       "score": 4,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "9:31 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -77,7 +77,7 @@
       "name": "Collin Morikawa",
       "score": -1,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "12:38 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -90,7 +90,7 @@
       "name": "Aaron Rai",
       "score": 1,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "11:32 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -103,7 +103,7 @@
       "name": "Charl Schwartzel",
       "score": 4,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "9:42 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -129,7 +129,7 @@
       "name": "Wyndham Clark",
       "score": -4,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "2:17 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -155,7 +155,7 @@
       "name": "Rasmus Højgaard",
       "score": 4,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "9:42 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -194,7 +194,7 @@
       "name": "Sungjae Im",
       "score": 1,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "11:43 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -207,7 +207,7 @@
       "name": "Brian Harman",
       "score": 4,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "10:04 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -220,7 +220,7 @@
       "name": "Sergio García",
       "score": 3,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "10:15 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -233,7 +233,7 @@
       "name": "Jason Day",
       "score": -4,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "1:55 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -272,7 +272,7 @@
       "name": "Dustin Johnson",
       "score": 0,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "11:54 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -285,7 +285,7 @@
       "name": "Rory McIlroy",
       "score": -12,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "2:50 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -298,7 +298,7 @@
       "name": "Gary Woodland",
       "score": 2,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "10:37 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -311,7 +311,7 @@
       "name": "Nick Taylor",
       "score": -1,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "12:49 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -324,7 +324,7 @@
       "name": "Alex Noren",
       "score": 4,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "9:31 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -337,7 +337,7 @@
       "name": "Adam Scott",
       "score": 2,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "10:48 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -402,7 +402,7 @@
       "name": "Kristoffer Reitan",
       "score": -4,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "2:06 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -415,7 +415,7 @@
       "name": "Viktor Hovland",
       "score": 2,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "10:26 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -428,7 +428,7 @@
       "name": "Ludvig Åberg",
       "score": 0,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "12:16 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -441,7 +441,7 @@
       "name": "Ben Griffin",
       "score": -3,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "1:22 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -493,7 +493,7 @@
       "name": "Cameron Young",
       "score": -4,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "1:55 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -506,7 +506,7 @@
       "name": "Sam Stevens",
       "score": 2,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "10:48 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -519,7 +519,7 @@
       "name": "Keegan Bradley",
       "score": 2,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "10:26 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -558,7 +558,7 @@
       "name": "Marco Penge",
       "score": 1,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "11:10 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -571,7 +571,7 @@
       "name": "Shane Lowry",
       "score": -5,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "2:28 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -610,7 +610,7 @@
       "name": "Chris Gotterup",
       "score": -3,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "1:33 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -636,7 +636,7 @@
       "name": "Justin Thomas",
       "score": 2,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "10:37 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -662,7 +662,7 @@
       "name": "Matt McCarty",
       "score": 1,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "11:10 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -675,7 +675,7 @@
       "name": "Michael Brennan",
       "score": -1,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "1:00 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -688,7 +688,7 @@
       "name": "Jacob Bridgeman",
       "score": 1,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "11:32 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -701,7 +701,7 @@
       "name": "Ryan Gerard",
       "score": 0,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "12:05 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -805,7 +805,7 @@
       "name": "Harris English",
       "score": 0,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "12:05 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -818,7 +818,7 @@
       "name": "Russell Henley",
       "score": 0,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "11:54 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -831,7 +831,7 @@
       "name": "Jordan Spieth",
       "score": 1,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "11:21 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -857,7 +857,7 @@
       "name": "Tommy Fleetwood",
       "score": -5,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "2:28 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -870,7 +870,7 @@
       "name": "Tyrrell Hatton",
       "score": -4,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "2:17 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -883,7 +883,7 @@
       "name": "Patrick Reed",
       "score": -6,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "2:39 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -896,7 +896,7 @@
       "name": "Justin Rose",
       "score": -5,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "2:39 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -909,7 +909,7 @@
       "name": "Hideki Matsuyama",
       "score": -2,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "1:00 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -922,7 +922,7 @@
       "name": "Patrick Cantlay",
       "score": 0,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "11:43 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -948,7 +948,7 @@
       "name": "Brooks Koepka",
       "score": -3,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "1:33 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -974,7 +974,7 @@
       "name": "Si Woo Kim",
       "score": 4,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "9:53 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -1000,7 +1000,7 @@
       "name": "Sepp Straka",
       "score": 1,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "11:21 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -1013,7 +1013,7 @@
       "name": "Max Homa",
       "score": -2,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "1:22 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -1052,7 +1052,7 @@
       "name": "Matt Fitzpatrick",
       "score": -1,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "12:49 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -1078,7 +1078,7 @@
       "name": "Corey Conners",
       "score": 4,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "10:04 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -1104,7 +1104,7 @@
       "name": "Haotong Li",
       "score": -4,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "2:06 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -1117,7 +1117,7 @@
       "name": "Scottie Scheffler",
       "score": 0,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "12:16 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -1130,7 +1130,7 @@
       "name": "Brian Campbell",
       "score": 0,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "12:38 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -1143,7 +1143,7 @@
       "name": "Maverick McNealy",
       "score": 3,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "10:15 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -1156,7 +1156,7 @@
       "name": "Jon Rahm",
       "score": 4,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "9:53 AM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -1169,7 +1169,7 @@
       "name": "Jake Knapp",
       "score": -2,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "1:11 PM",
       "status": "active",
       "position": "",
       "rounds": [
@@ -1182,7 +1182,7 @@
       "name": "Sam Burns",
       "score": -6,
       "thru": 0,
-      "teeTime": null,
+      "teeTime": "2:50 PM",
       "status": "active",
       "position": "",
       "rounds": [
