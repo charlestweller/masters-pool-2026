@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T14:45:10.153Z",
+  "lastUpdated": "2026-04-10T14:50:08.979Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -83,7 +83,7 @@
     {
       "name": "Aaron Rai",
       "score": -1,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -155,7 +155,7 @@
     {
       "name": "Andrew Novak",
       "score": 7,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -359,7 +359,7 @@
     {
       "name": "Tom McKibbin",
       "score": 7,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -395,7 +395,7 @@
     {
       "name": "Ludvig Åberg",
       "score": 1,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -431,7 +431,7 @@
     {
       "name": "Min Woo Lee",
       "score": 6,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -515,8 +515,8 @@
     {
       "name": "Marco Penge",
       "score": 4,
-      "thru": 0,
-      "teeTime": "10:31 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -538,14 +538,14 @@
     },
     {
       "name": "Harry Hall",
-      "score": 5,
-      "thru": 4,
+      "score": 6,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        0
+        1
       ]
     },
     {
@@ -586,14 +586,14 @@
     },
     {
       "name": "Justin Thomas",
-      "score": 0,
-      "thru": 1,
+      "score": -1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        0
+        -1
       ]
     },
     {
@@ -635,7 +635,7 @@
     {
       "name": "Jacob Bridgeman",
       "score": -1,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -743,8 +743,8 @@
     {
       "name": "Harris English",
       "score": 1,
-      "thru": 0,
-      "teeTime": "10:31 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -767,7 +767,7 @@
     {
       "name": "Jordan Spieth",
       "score": -1,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -827,7 +827,7 @@
     {
       "name": "Justin Rose",
       "score": -1,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -874,14 +874,14 @@
     },
     {
       "name": "Brooks Koepka",
-      "score": 0,
-      "thru": 2,
+      "score": -1,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        0
+        -1
       ]
     },
     {
@@ -982,14 +982,14 @@
     },
     {
       "name": "Fred Couples",
-      "score": 5,
-      "thru": 6,
+      "score": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         6,
-        -1
+        0
       ]
     },
     {
@@ -1043,7 +1043,7 @@
     {
       "name": "Brian Campbell",
       "score": 1,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
