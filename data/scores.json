@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T12:15:11.175Z",
+  "lastUpdated": "2026-04-10T12:20:11.644Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -110,7 +110,7 @@
     {
       "name": "Wyndham Clark",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -451,7 +451,7 @@
     {
       "name": "Mike Weir",
       "score": 9,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -660,7 +660,7 @@
     {
       "name": "Mateo Pulcini",
       "score": 9,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
