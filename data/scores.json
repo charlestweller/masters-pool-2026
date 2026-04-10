@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T22:30:11.899Z",
+  "lastUpdated": "2026-04-10T22:35:10.653Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -262,14 +262,14 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": -10,
-      "thru": 16,
+      "score": -11,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -5,
-        -5
+        -6
       ]
     },
     {
@@ -298,14 +298,14 @@
     },
     {
       "name": "Alex Noren",
-      "score": 4,
-      "thru": 15,
+      "score": 3,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        -1
+        -2
       ]
     },
     {
@@ -382,14 +382,14 @@
     },
     {
       "name": "Viktor Hovland",
-      "score": 2,
-      "thru": 15,
+      "score": 1,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        -1
+        -2
       ]
     },
     {
@@ -455,7 +455,7 @@
     {
       "name": "Cameron Young",
       "score": -4,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -683,7 +683,7 @@
     {
       "name": "Mason Howell",
       "score": 9,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -850,14 +850,14 @@
     },
     {
       "name": "Patrick Cantlay",
-      "score": 1,
-      "thru": 15,
+      "score": 0,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        -4
+        -5
       ]
     },
     {
