@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T12:50:09.660Z",
+  "lastUpdated": "2026-04-10T12:55:10.914Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -118,26 +118,26 @@
     },
     {
       "name": "Wyndham Clark",
-      "score": -1,
-      "thru": 2,
+      "score": -2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        -1
+        -2
       ]
     },
     {
       "name": "Nicolai Højgaard",
-      "score": 4,
-      "thru": 1,
+      "score": 5,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        0
+        1
       ]
     },
     {
@@ -310,14 +310,14 @@
     },
     {
       "name": "Adam Scott",
-      "score": 0,
-      "thru": 0,
-      "teeTime": "Scheduled",
+      "score": 1,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        0
+        1
       ]
     },
     {
@@ -718,14 +718,14 @@
     },
     {
       "name": "Mateo Pulcini",
-      "score": 8,
-      "thru": 2,
+      "score": 9,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         9,
-        -1
+        0
       ]
     },
     {
@@ -887,7 +887,7 @@
     {
       "name": "Zach Johnson",
       "score": 3,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -947,7 +947,7 @@
     {
       "name": "Michael Kim",
       "score": 4,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -958,14 +958,14 @@
     },
     {
       "name": "Daniel Berger",
-      "score": 4,
-      "thru": 0,
-      "teeTime": "Scheduled",
+      "score": 5,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        0
+        1
       ]
     },
     {
