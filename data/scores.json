@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-04-10T11:50:12.091Z",
+  "lastUpdated": "2026-04-10T11:55:08.436Z",
   "tournament": "Masters Tournament",
-  "round": 1,
-  "roundDetail": "Round 1 - Play Complete",
-  "tournamentStatus": "complete",
+  "round": 2,
+  "roundDetail": "Round 2 - In Progress",
+  "tournamentStatus": "in-progress",
   "worstActiveScore": 12,
   "cutPenalty": 22,
   "projectedCut": 3,
@@ -165,7 +165,7 @@
     {
       "name": "Sungjae Im",
       "score": 4,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
@@ -429,7 +429,7 @@
     {
       "name": "Sam Stevens",
       "score": 0,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
