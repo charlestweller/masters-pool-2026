@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T12:05:08.799Z",
+  "lastUpdated": "2026-04-10T12:10:09.024Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -142,13 +142,13 @@
     },
     {
       "name": "Andrew Novak",
-      "score": 3,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        0
+        1
       ]
     },
     {
@@ -165,7 +165,7 @@
     {
       "name": "Sungjae Im",
       "score": 4,
-      "thru": 1,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -429,7 +429,7 @@
     {
       "name": "Sam Stevens",
       "score": 0,
-      "thru": 1,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
@@ -957,7 +957,7 @@
     {
       "name": "Brian Campbell",
       "score": -1,
-      "thru": 0,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
