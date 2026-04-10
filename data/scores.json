@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T17:25:09.045Z",
+  "lastUpdated": "2026-04-10T17:29:31.131Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -47,7 +47,7 @@
     {
       "name": "J.J. Spaun",
       "score": 6,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -94,26 +94,26 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 3,
-      "thru": 6,
+      "score": 4,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        0
+        1
       ]
     },
     {
       "name": "Max Greyserman",
-      "score": 9,
-      "thru": 6,
+      "score": 10,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         7,
-        2
+        3
       ]
     },
     {
@@ -239,7 +239,7 @@
     {
       "name": "José María Olazábal",
       "score": 6,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -335,7 +335,7 @@
     {
       "name": "Ryan Fox",
       "score": 6,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -395,7 +395,7 @@
     {
       "name": "Ludvig Åberg",
       "score": 1,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -515,7 +515,7 @@
     {
       "name": "Marco Penge",
       "score": 2,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -527,7 +527,7 @@
     {
       "name": "Shane Lowry",
       "score": -3,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -563,7 +563,7 @@
     {
       "name": "Chris Gotterup",
       "score": -2,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -598,14 +598,14 @@
     },
     {
       "name": "Rasmus Neergaard-Petersen",
-      "score": 7,
-      "thru": 7,
+      "score": 6,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        2
+        1
       ]
     },
     {
@@ -658,14 +658,14 @@
     },
     {
       "name": "Aldrich Potgieter",
-      "score": 12,
-      "thru": 7,
+      "score": 10,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         12,
-        0
+        -2
       ]
     },
     {
@@ -743,7 +743,7 @@
     {
       "name": "Harris English",
       "score": 0,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -898,14 +898,14 @@
     },
     {
       "name": "Si Woo Kim",
-      "score": 3,
-      "thru": 9,
+      "score": 4,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        0
+        1
       ]
     },
     {
@@ -1054,20 +1054,20 @@
     },
     {
       "name": "Maverick McNealy",
-      "score": 4,
-      "thru": 13,
+      "score": 3,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        -1
+        -2
       ]
     },
     {
       "name": "Jon Rahm",
       "score": 5,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
