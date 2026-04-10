@@ -64,66 +64,66 @@ async function fetchScores() {
   else if (statusName.includes('COMPLETE') || statusName.includes('FINAL')) tournamentStatus = 'complete';
   else if (statusName.includes('SCHEDULED')) tournamentStatus = 'scheduled';
 
-  // Log a few players so scores are visible in Actions logs
-  const samplePlayers = competition.competitors?.slice(0, 3) || [];
+  // ── Detailed debug log for first 5 players ───────────────────────────────────
+  // (helps identify the right ESPN fields for to-par, especially between rounds)
+  const samplePlayers = competition.competitors?.slice(0, 5) || [];
   samplePlayers.forEach(p => {
-    const sc = p.score?.value ?? p.score;
-    console.log(`  ${p.athlete?.displayName}: score.value=${sc}, thru=${p.status?.thru}`);
+    const sc   = p.score && typeof p.score === 'object' ? p.score : {value: p.score, displayValue: String(p.score)};
+    const ls   = (p.linescores || []).map(l => `${l.displayValue ?? l.value}`).join(', ');
+    const sts  = (p.statistics || []).map(s => `${s.name}=${s.displayValue ?? s.value}`).join(' | ');
+    console.log(`  ${p.athlete?.displayName}: score.value=${sc.value} score.display="${sc.displayValue}" state=${p.status?.type?.state} thru=${p.status?.thru} startHole=${p.status?.startHole}`);
+    console.log(`    linescores=[${ls}]  stats=[${sts || 'none'}]`);
   });
 
   // Parse every competitor
   const golfers = (competition.competitors || []).map(c => {
     const name = c.athlete?.displayName || c.displayName || 'Unknown';
 
-    // ── Score to par ──────────────────────────────────────────────────────────
-    // ESPN returns score as an object: { value: -5, displayValue: "-5" }
-    // displayValue is "-" (a dash) when no score yet — must use .value (the number).
-    let scoreValue;
-    if (c.score !== null && c.score !== undefined) {
-      if (typeof c.score === 'object') {
-        // Use numeric .value directly; it's 0 for even/not-started, -5 for 5 under, etc.
-        scoreValue = typeof c.score.value === 'number' ? c.score.value : parseScore(c.score.displayValue);
-      } else {
-        scoreValue = parseScore(c.score);
-      }
-    } else {
-      scoreValue = 0;
-    }
+    const statusType  = c.status?.type?.name    || '';
+    const detail      = c.status?.type?.detail  || '';
+    const startHole   = c.status?.startHole     || 1;
+    const playerState = c.status?.type?.state   || 'pre'; // 'pre' | 'in' | 'post'
 
-    const statusType = c.status?.type?.name || '';
-    const detail     = c.status?.type?.detail || '';
-
-    // thru can also come back as an object in some API versions
+    // thru can come back as an object in some API versions
     let thruRaw = c.status?.thru;
     if (thruRaw !== null && thruRaw !== undefined && typeof thruRaw === 'object') {
       thruRaw = thruRaw.displayValue ?? thruRaw.value ?? null;
     }
-    // Convert string "18" or "F" to appropriate types
     if (thruRaw === 'F' || thruRaw === 'f') thruRaw = 18;
-    else if (typeof thruRaw === 'string') thruRaw = parseInt(thruRaw, 10) || null;
+    else if (typeof thruRaw === 'string')   thruRaw = parseInt(thruRaw, 10) || null;
 
-    // ── Strokes → to-par conversion ───────────────────────────────────────────
-    // ESPN always returns c.score.value as total STROKES for the current round,
-    // never as to-par — this applies to both in-progress ('in') AND just-finished
-    // ('post') players. Subtract Augusta cumulative par to get the to-par score.
-    const startHole   = c.status?.startHole || 1;
-    const playerState = c.status?.type?.state || 'pre'; // 'pre' | 'in' | 'post'
-    if (playerState === 'in' && typeof thruRaw === 'number' && thruRaw > 0) {
-      // In-progress: subtract par for only the holes completed so far
-      scoreValue = scoreValue - cumulativePar(thruRaw, startHole);
-    } else if (playerState === 'post' || thruRaw === 18) {
-      // Round complete: subtract full 18-hole par (72)
-      scoreValue = scoreValue - cumulativePar(18, startHole);
+    // ── Score calculation ─────────────────────────────────────────────────────
+    // Strategy: linescores is the ground truth for COMPLETED rounds — ESPN
+    // returns them as to-par displayValues ("E", "-4", "+2"). Sum those up.
+    // For an IN-PROGRESS round, linescores won't yet include the current round,
+    // so we read c.score.value (raw strokes) and convert using Augusta par.
+    // This correctly handles multi-round totals without guessing state names.
+
+    const rounds = (c.linescores || []).map(ls => parseScore(ls.displayValue ?? ls.value));
+    const completedToPar = rounds.reduce((sum, r) => sum + r, 0);
+
+    // Raw strokes for the current round (only meaningful when playerState === 'in')
+    const rawStrokes = (c.score && typeof c.score === 'object' && typeof c.score.value === 'number')
+      ? c.score.value
+      : null;
+
+    let scoreValue;
+    if (playerState === 'in' && rawStrokes !== null && typeof thruRaw === 'number' && thruRaw > 0) {
+      // In-progress: completed rounds (linescores) + current partial round converted from strokes
+      scoreValue = completedToPar + rawStrokes - cumulativePar(thruRaw, startHole);
+    } else if (rounds.length === 0 && rawStrokes !== null && (playerState === 'post' || thruRaw === 18)) {
+      // Edge case: round just finished but linescores not yet updated (very brief window)
+      scoreValue = rawStrokes - cumulativePar(18, startHole);
+    } else {
+      // Pre-round, between rounds, post-round with linescores populated: use linescores total
+      scoreValue = completedToPar;
     }
 
     let status = 'active';
-    if (statusType.includes('CUT'))                          status = 'cut';
-    else if (statusType.includes('WD') || statusType.includes('WITHDRAW')) status = 'wd';
-    else if (statusType.includes('DQ'))                      status = 'dq';
-    else if (statusType.includes('COMPLETE') || detail === 'F' || thruRaw === 18) status = 'complete';
-
-    // Round-by-round scores
-    const rounds = (c.linescores || []).map(ls => parseScore(ls.displayValue ?? ls.value));
+    if (statusType.includes('CUT'))                                                    status = 'cut';
+    else if (statusType.includes('WD') || statusType.includes('WITHDRAW'))             status = 'wd';
+    else if (statusType.includes('DQ'))                                                status = 'dq';
+    else if (statusType.includes('COMPLETE') || detail === 'F' || thruRaw === 18)     status = 'complete';
 
     return {
       name,
