@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T22:25:11.000Z",
+  "lastUpdated": "2026-04-10T22:30:11.899Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -10,14 +10,14 @@
   "golfers": [
     {
       "name": "Bryson DeChambeau",
-      "score": 3,
-      "thru": 17,
+      "score": 6,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         4,
-        -1
+        2
       ]
     },
     {
@@ -35,9 +35,9 @@
     {
       "name": "Xander Schauffele",
       "score": -2,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         -2,
@@ -971,9 +971,9 @@
     {
       "name": "Matt Fitzpatrick",
       "score": -1,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         2,
