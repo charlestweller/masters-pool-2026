@@ -71,7 +71,8 @@ async function fetchScores() {
     const sc   = p.score && typeof p.score === 'object' ? p.score : {value: p.score, displayValue: String(p.score)};
     const ls   = (p.linescores || []).map(l => `${l.displayValue ?? l.value}`).join(', ');
     const sts  = (p.statistics || []).map(s => `${s.name}=${s.displayValue ?? s.value}`).join(' | ');
-    console.log(`  ${p.athlete?.displayName}: score.value=${sc.value} score.display="${sc.displayValue}" state=${p.status?.type?.state} thru=${p.status?.thru} startHole=${p.status?.startHole} detail="${p.status?.type?.detail}"`);
+    console.log(`  ${p.athlete?.displayName}: score.value=${sc.value} score.display="${sc.displayValue}" state=${p.status?.type?.state} thru=${p.status?.thru} startHole=${p.status?.startHole} detail="${p.status?.type?.detail}" shortDetail="${p.status?.type?.shortDetail}"`);
+    if (p.status?.type?.state === 'pre') console.log(`    FULL STATUS: ${JSON.stringify(p.status)}`);
     console.log(`    linescores=[${ls}]  stats=[${sts || 'none'}]`);
   });
 
