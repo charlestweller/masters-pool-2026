@@ -1003,7 +1003,7 @@ function resolveGolfer(name, map, cutPenalty, scoresData) {
     return { displayName: display, scoreValue: pen, status: golfer.status, thru: null };
   }
 
-  return { displayName: display, scoreValue: golfer.score ?? 0, status: golfer.status ?? 'active', thru: golfer.thru };
+  return { displayName: display, scoreValue: golfer.score ?? 0, status: golfer.status ?? 'active', thru: golfer.thru, teeTime: golfer.teeTime ?? null };
 }
 
 function computeCutPenalty(scoresData) {
