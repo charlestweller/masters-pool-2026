@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T16:10:13.232Z",
+  "lastUpdated": "2026-04-10T16:15:08.323Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -82,32 +82,32 @@
     },
     {
       "name": "Aaron Rai",
-      "score": 0,
-      "thru": 10,
+      "score": 1,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
-        1
+        2
       ]
     },
     {
       "name": "Charl Schwartzel",
-      "score": 4,
-      "thru": 1,
+      "score": 3,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        1
+        0
       ]
     },
     {
       "name": "Max Greyserman",
       "score": 8,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -118,14 +118,14 @@
     },
     {
       "name": "Wyndham Clark",
-      "score": -3,
-      "thru": 15,
+      "score": -4,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        -3
+        -4
       ]
     },
     {
@@ -166,14 +166,14 @@
     },
     {
       "name": "Robert MacIntyre",
-      "score": 8,
-      "thru": 6,
+      "score": 7,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         8,
-        0
+        -1
       ]
     },
     {
@@ -203,7 +203,7 @@
     {
       "name": "Sergio García",
       "score": 1,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -335,7 +335,7 @@
     {
       "name": "Ryan Fox",
       "score": 5,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -430,14 +430,14 @@
     },
     {
       "name": "Min Woo Lee",
-      "score": 6,
-      "thru": 11,
+      "score": 8,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         6,
-        0
+        2
       ]
     },
     {
@@ -503,7 +503,7 @@
     {
       "name": "Sami Välimäki",
       "score": 9,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -539,7 +539,7 @@
     {
       "name": "Harry Hall",
       "score": 7,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -706,14 +706,14 @@
     },
     {
       "name": "Fifa Laopakdee",
-      "score": 13,
-      "thru": 11,
+      "score": 14,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         8,
-        5
+        6
       ]
     },
     {
@@ -731,7 +731,7 @@
     {
       "name": "Jackson Herrington",
       "score": 4,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -827,7 +827,7 @@
     {
       "name": "Justin Rose",
       "score": -2,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -863,7 +863,7 @@
     {
       "name": "Ángel Cabrera",
       "score": 6,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -899,7 +899,7 @@
     {
       "name": "Si Woo Kim",
       "score": 3,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -982,26 +982,26 @@
     },
     {
       "name": "Fred Couples",
-      "score": 5,
-      "thru": 11,
+      "score": 7,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         6,
-        -1
+        1
       ]
     },
     {
       "name": "Corey Conners",
-      "score": 3,
-      "thru": 9,
+      "score": 2,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        0
+        -1
       ]
     },
     {
