@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T15:35:12.436Z",
+  "lastUpdated": "2026-04-10T15:40:08.676Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -394,14 +394,14 @@
     },
     {
       "name": "Ludvig Åberg",
-      "score": 2,
-      "thru": 6,
+      "score": 3,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         2,
-        0
+        1
       ]
     },
     {
@@ -514,14 +514,14 @@
     },
     {
       "name": "Marco Penge",
-      "score": 3,
-      "thru": 3,
+      "score": 2,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        -1
+        -2
       ]
     },
     {
@@ -539,7 +539,7 @@
     {
       "name": "Harry Hall",
       "score": 7,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -575,7 +575,7 @@
     {
       "name": "Naoyuki Kataoka",
       "score": 11,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -622,20 +622,20 @@
     },
     {
       "name": "Michael Brennan",
-      "score": 1,
-      "thru": 7,
+      "score": 0,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        1
+        0
       ]
     },
     {
       "name": "Jacob Bridgeman",
       "score": 0,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -671,7 +671,7 @@
     {
       "name": "Johnny Keefer",
       "score": 5,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -743,7 +743,7 @@
     {
       "name": "Harris English",
       "score": -1,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -779,7 +779,7 @@
     {
       "name": "Carlos Ortiz",
       "score": 8,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -863,8 +863,8 @@
     {
       "name": "Ángel Cabrera",
       "score": 7,
-      "thru": 0,
-      "teeTime": "11:27 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -899,7 +899,7 @@
     {
       "name": "Si Woo Kim",
       "score": 3,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -934,14 +934,14 @@
     },
     {
       "name": "Max Homa",
-      "score": 0,
-      "thru": 1,
+      "score": -1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        0
+        -1
       ]
     },
     {
@@ -995,7 +995,7 @@
     {
       "name": "Corey Conners",
       "score": 3,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1019,7 +1019,7 @@
     {
       "name": "Haotong Li",
       "score": -2,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
