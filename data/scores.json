@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T16:30:09.586Z",
+  "lastUpdated": "2026-04-10T16:31:38.449Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -119,7 +119,7 @@
     {
       "name": "Wyndham Clark",
       "score": -4,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -239,7 +239,7 @@
     {
       "name": "José María Olazábal",
       "score": 5,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -491,7 +491,7 @@
     {
       "name": "Mike Weir",
       "score": 10,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -575,7 +575,7 @@
     {
       "name": "Naoyuki Kataoka",
       "score": 12,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
