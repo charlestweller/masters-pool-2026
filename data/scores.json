@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T19:20:08.559Z",
+  "lastUpdated": "2026-04-10T19:25:09.336Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -94,14 +94,14 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 4,
-      "thru": 12,
+      "score": 3,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        1
+        0
       ]
     },
     {
@@ -214,14 +214,14 @@
     },
     {
       "name": "Jason Day",
-      "score": -4,
-      "thru": 8,
+      "score": -5,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -3,
-        -1
+        -2
       ]
     },
     {
@@ -250,20 +250,20 @@
     },
     {
       "name": "Dustin Johnson",
-      "score": 0,
-      "thru": 8,
+      "score": -1,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
-        -1
+        -2
       ]
     },
     {
       "name": "Rory McIlroy",
       "score": -7,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -334,14 +334,14 @@
     },
     {
       "name": "Ryan Fox",
-      "score": 6,
-      "thru": 12,
+      "score": 5,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        1
+        0
       ]
     },
     {
@@ -370,14 +370,14 @@
     },
     {
       "name": "Kristoffer Reitan",
-      "score": -1,
-      "thru": 11,
+      "score": -2,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        -1
+        -2
       ]
     },
     {
@@ -407,9 +407,9 @@
     {
       "name": "Ben Griffin",
       "score": -3,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
@@ -443,7 +443,7 @@
     {
       "name": "Akshay Bhatia",
       "score": -2,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -455,7 +455,7 @@
     {
       "name": "Cameron Young",
       "score": 0,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -527,7 +527,7 @@
     {
       "name": "Shane Lowry",
       "score": -3,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -551,7 +551,7 @@
     {
       "name": "Casey Jarvis",
       "score": 6,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -574,22 +574,22 @@
     },
     {
       "name": "Naoyuki Kataoka",
-      "score": 14,
-      "thru": 14,
+      "score": 13,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         12,
-        2
+        1
       ]
     },
     {
       "name": "Justin Thomas",
       "score": 2,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
@@ -682,14 +682,14 @@
     },
     {
       "name": "Mason Howell",
-      "score": 7,
-      "thru": 5,
+      "score": 8,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        2
+        3
       ]
     },
     {
@@ -778,26 +778,26 @@
     },
     {
       "name": "Carlos Ortiz",
-      "score": 9,
-      "thru": 14,
+      "score": 10,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         8,
-        1
+        2
       ]
     },
     {
       "name": "Tommy Fleetwood",
-      "score": -1,
-      "thru": 7,
+      "score": -3,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
-        0
+        -2
       ]
     },
     {
@@ -814,14 +814,14 @@
     },
     {
       "name": "Patrick Reed",
-      "score": -4,
-      "thru": 7,
+      "score": -5,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -3,
-        -1
+        -2
       ]
     },
     {
@@ -923,9 +923,9 @@
     {
       "name": "Sepp Straka",
       "score": 1,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         1,
@@ -934,14 +934,14 @@
     },
     {
       "name": "Max Homa",
-      "score": -2,
-      "thru": 14,
+      "score": -3,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        -2
+        -3
       ]
     },
     {
