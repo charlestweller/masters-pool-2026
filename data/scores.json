@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T21:35:08.561Z",
+  "lastUpdated": "2026-04-10T21:40:13.470Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -71,7 +71,7 @@
     {
       "name": "Collin Morikawa",
       "score": -1,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -215,7 +215,7 @@
     {
       "name": "Jason Day",
       "score": -5,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -250,14 +250,14 @@
     },
     {
       "name": "Dustin Johnson",
-      "score": 1,
-      "thru": 16,
+      "score": 0,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
-        0
+        -1
       ]
     },
     {
@@ -442,14 +442,14 @@
     },
     {
       "name": "Akshay Bhatia",
-      "score": 4,
-      "thru": 15,
+      "score": 5,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
-        3
+        4
       ]
     },
     {
@@ -527,7 +527,7 @@
     {
       "name": "Shane Lowry",
       "score": -4,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -754,14 +754,14 @@
     },
     {
       "name": "Russell Henley",
-      "score": -1,
-      "thru": 13,
+      "score": 0,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
-        -2
+        -1
       ]
     },
     {
@@ -791,7 +791,7 @@
     {
       "name": "Tommy Fleetwood",
       "score": -6,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -838,14 +838,14 @@
     },
     {
       "name": "Hideki Matsuyama",
-      "score": -1,
-      "thru": 13,
+      "score": -2,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        -1
+        -2
       ]
     },
     {
