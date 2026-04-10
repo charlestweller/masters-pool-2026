@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T21:10:08.269Z",
+  "lastUpdated": "2026-04-10T21:15:11.446Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -34,14 +34,14 @@
     },
     {
       "name": "Xander Schauffele",
-      "score": -2,
-      "thru": 12,
+      "score": -1,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -2,
-        0
+        1
       ]
     },
     {
@@ -58,14 +58,14 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 3,
-      "thru": 17,
+      "score": 4,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         -3,
-        6
+        7
       ]
     },
     {
@@ -215,7 +215,7 @@
     {
       "name": "Jason Day",
       "score": -5,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -287,7 +287,7 @@
     {
       "name": "Nick Taylor",
       "score": -2,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -370,14 +370,14 @@
     },
     {
       "name": "Kristoffer Reitan",
-      "score": -5,
-      "thru": 17,
+      "score": -4,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
-        -5
+        -4
       ]
     },
     {
@@ -478,14 +478,14 @@
     },
     {
       "name": "Keegan Bradley",
-      "score": 3,
-      "thru": 15,
+      "score": 2,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        3
+        2
       ]
     },
     {
@@ -550,14 +550,14 @@
     },
     {
       "name": "Casey Jarvis",
-      "score": 7,
-      "thru": 17,
+      "score": 8,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         5,
-        2
+        3
       ]
     },
     {
@@ -647,7 +647,7 @@
     {
       "name": "Ryan Gerard",
       "score": 1,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -971,7 +971,7 @@
     {
       "name": "Matt Fitzpatrick",
       "score": 0,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1079,7 +1079,7 @@
     {
       "name": "Jake Knapp",
       "score": -1,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
