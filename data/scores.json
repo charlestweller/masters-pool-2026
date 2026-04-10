@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T22:10:14.137Z",
+  "lastUpdated": "2026-04-10T22:15:09.753Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -442,14 +442,14 @@
     },
     {
       "name": "Akshay Bhatia",
-      "score": 4,
-      "thru": 17,
+      "score": 6,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         1,
-        3
+        5
       ]
     },
     {
@@ -790,14 +790,14 @@
     },
     {
       "name": "Tommy Fleetwood",
-      "score": -6,
-      "thru": 17,
+      "score": -5,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         -1,
-        -5
+        -4
       ]
     },
     {
@@ -814,14 +814,14 @@
     },
     {
       "name": "Patrick Reed",
-      "score": -7,
-      "thru": 17,
+      "score": -6,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         -3,
-        -4
+        -3
       ]
     },
     {
