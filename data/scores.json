@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T12:35:12.629Z",
+  "lastUpdated": "2026-04-10T12:40:12.677Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -450,13 +450,13 @@
     },
     {
       "name": "Mike Weir",
-      "score": 9,
-      "thru": 1,
+      "score": 8,
+      "thru": 2,
       "status": "active",
       "position": "",
       "rounds": [
         9,
-        0
+        -1
       ]
     },
     {
