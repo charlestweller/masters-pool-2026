@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T23:05:08.450Z",
+  "lastUpdated": "2026-04-10T23:10:08.442Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -299,9 +299,9 @@
     {
       "name": "Alex Noren",
       "score": 4,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         5,
@@ -383,9 +383,9 @@
     {
       "name": "Viktor Hovland",
       "score": 2,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         3,
@@ -851,9 +851,9 @@
     {
       "name": "Patrick Cantlay",
       "score": 0,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         5,
