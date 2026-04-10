@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T22:00:10.714Z",
+  "lastUpdated": "2026-04-10T22:05:12.077Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -299,7 +299,7 @@
     {
       "name": "Alex Noren",
       "score": 4,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -851,7 +851,7 @@
     {
       "name": "Patrick Cantlay",
       "score": 2,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
