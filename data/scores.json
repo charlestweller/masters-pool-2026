@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T22:15:09.753Z",
+  "lastUpdated": "2026-04-10T22:20:09.342Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -262,14 +262,14 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": -9,
-      "thru": 15,
+      "score": -10,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -5,
-        -4
+        -5
       ]
     },
     {
@@ -455,7 +455,7 @@
     {
       "name": "Cameron Young",
       "score": -4,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -682,14 +682,14 @@
     },
     {
       "name": "Mason Howell",
-      "score": 8,
-      "thru": 15,
+      "score": 9,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        3
+        4
       ]
     },
     {
