@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T21:00:10.212Z",
+  "lastUpdated": "2026-04-10T21:05:08.971Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -263,13 +263,13 @@
     {
       "name": "Rory McIlroy",
       "score": -6,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -5,
-        -1
+        -2
       ]
     },
     {
@@ -286,14 +286,14 @@
     },
     {
       "name": "Nick Taylor",
-      "score": -1,
-      "thru": 14,
+      "score": -2,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
-        0
+        -1
       ]
     },
     {
@@ -443,7 +443,7 @@
     {
       "name": "Akshay Bhatia",
       "score": 4,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -454,14 +454,14 @@
     },
     {
       "name": "Cameron Young",
-      "score": 0,
-      "thru": 11,
+      "score": -1,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
-        -1
+        -2
       ]
     },
     {
@@ -479,7 +479,7 @@
     {
       "name": "Keegan Bradley",
       "score": 3,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -647,7 +647,7 @@
     {
       "name": "Ryan Gerard",
       "score": 1,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -682,14 +682,14 @@
     },
     {
       "name": "Mason Howell",
-      "score": 9,
-      "thru": 11,
+      "score": 8,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        4
+        3
       ]
     },
     {
@@ -815,7 +815,7 @@
     {
       "name": "Patrick Reed",
       "score": -6,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
