@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T12:00:09.813Z",
+  "lastUpdated": "2026-04-10T12:05:08.799Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -329,13 +329,13 @@
     },
     {
       "name": "Tom McKibbin",
-      "score": 3,
-      "thru": 0,
+      "score": 4,
+      "thru": 1,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        0
+        1
       ]
     },
     {
