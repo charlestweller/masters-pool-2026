@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T13:25:47.435Z",
+  "lastUpdated": "2026-04-10T13:30:15.293Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -119,7 +119,7 @@
     {
       "name": "Wyndham Clark",
       "score": -3,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -191,7 +191,7 @@
     {
       "name": "Brian Harman",
       "score": 8,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -311,7 +311,7 @@
     {
       "name": "Adam Scott",
       "score": 1,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -431,7 +431,7 @@
     {
       "name": "Min Woo Lee",
       "score": 7,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -707,7 +707,7 @@
     {
       "name": "Fifa Laopakdee",
       "score": 9,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -982,14 +982,14 @@
     },
     {
       "name": "Fred Couples",
-      "score": 6,
-      "thru": 1,
+      "score": 5,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         6,
-        0
+        -1
       ]
     },
     {
