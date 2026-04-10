@@ -230,7 +230,23 @@
       -webkit-overflow-scrolling: touch;
     }
 
+    /* Swipe hint above the thead (inside sticky header, mobile only) */
+    .swipe-hint-top {
+      display: none;
+    }
     @media (max-width: 860px) {
+      .swipe-hint-top {
+        display: block;
+        text-align: center;
+        font-family: var(--font-body);
+        font-size: 0.62rem;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--muted);
+        padding: 5px 7px;
+        background: rgba(0,0,0,0.3);
+        border-bottom: 1px solid rgba(255,255,255,0.04);
+      }
       .table-scroll::after {
         content: '← swipe to scroll →';
         display: block;
@@ -692,8 +708,8 @@
   <div class="header-tagline">A Tradition Unlike Any Other&hellip;</div>
   <div class="header-sub">Augusta National Golf Club</div>
   <div class="header-rule"></div>
-  <!-- REMOVE the line below once the tournament starts (entries closed) -->
-  <a href="entry.html" class="enter-btn">Submit Your Entry &rarr;</a>
+  <!-- Entry button hidden now that tournament is underway -->
+  <!-- <a href="entry.html" class="enter-btn">Submit Your Entry &rarr;</a> -->
   <div class="header-rule" style="margin-top:16px"></div>
   <div class="status-bar">
     <div class="status-pill" id="round-pill">
@@ -725,6 +741,7 @@
         <input class="search-input" id="name-search" type="text" placeholder="Search entrant name…" oninput="searchEntrant(this.value)" autocomplete="off" spellcheck="false" />
         <button class="search-clear" id="search-clear" onclick="clearSearch()" style="display:none" aria-label="Clear search">✕</button>
       </div>
+      <div class="swipe-hint-top">← swipe to scroll →</div>
       <div class="thead-scroll" id="thead-scroll">
         <table class="thead-table">
           <colgroup>
