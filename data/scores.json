@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T15:30:09.678Z",
+  "lastUpdated": "2026-04-10T15:31:50.449Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -130,14 +130,14 @@
     },
     {
       "name": "Nicolai Højgaard",
-      "score": 6,
-      "thru": 11,
+      "score": 8,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        2
+        4
       ]
     },
     {
@@ -154,14 +154,14 @@
     },
     {
       "name": "Andrew Novak",
-      "score": 6,
-      "thru": 13,
+      "score": 5,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        3
+        2
       ]
     },
     {
@@ -359,7 +359,7 @@
     {
       "name": "Tom McKibbin",
       "score": 7,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -407,7 +407,7 @@
     {
       "name": "Ben Griffin",
       "score": -1,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -466,14 +466,14 @@
     },
     {
       "name": "Sam Stevens",
-      "score": 3,
-      "thru": 15,
+      "score": 2,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        3
+        2
       ]
     },
     {
@@ -599,8 +599,8 @@
     {
       "name": "Rasmus Neergaard-Petersen",
       "score": 5,
-      "thru": 0,
-      "teeTime": "11:15 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -875,7 +875,7 @@
     {
       "name": "Brooks Koepka",
       "score": -2,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
