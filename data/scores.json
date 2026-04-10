@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T21:45:08.041Z",
+  "lastUpdated": "2026-04-10T21:50:08.590Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -10,14 +10,14 @@
   "golfers": [
     {
       "name": "Bryson DeChambeau",
-      "score": 4,
-      "thru": 14,
+      "score": 3,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        0
+        -1
       ]
     },
     {
@@ -34,14 +34,14 @@
     },
     {
       "name": "Xander Schauffele",
-      "score": -1,
-      "thru": 14,
+      "score": -2,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -2,
-        1
+        0
       ]
     },
     {
@@ -286,14 +286,14 @@
     },
     {
       "name": "Nick Taylor",
-      "score": -2,
-      "thru": 17,
+      "score": -1,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         -1,
-        -1
+        0
       ]
     },
     {
@@ -442,14 +442,14 @@
     },
     {
       "name": "Akshay Bhatia",
-      "score": 5,
-      "thru": 16,
+      "score": 4,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
-        4
+        3
       ]
     },
     {
@@ -479,9 +479,9 @@
     {
       "name": "Keegan Bradley",
       "score": 2,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
@@ -647,9 +647,9 @@
     {
       "name": "Ryan Gerard",
       "score": 0,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
@@ -851,7 +851,7 @@
     {
       "name": "Patrick Cantlay",
       "score": 2,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -971,7 +971,7 @@
     {
       "name": "Matt Fitzpatrick",
       "score": 0,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
