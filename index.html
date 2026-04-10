@@ -714,7 +714,7 @@
   <div class="header-rule"></div>
   <!-- Entry button hidden now that tournament is underway -->
   <!-- <a href="entry.html" class="enter-btn">Submit Your Entry &rarr;</a> -->
-    <!-- <div class="header-rule" style="margin-top:16px"></div> -->
+  <div class="header-rule" style="margin-top:16px"></div>
   <div class="status-bar">
     <div class="status-pill" id="round-pill">
       <span class="dot"></span>
@@ -1004,7 +1004,7 @@ function resolveGolfer(name, map, cutPenalty, scoresData) {
     return { displayName: display, scoreValue: pen, status: golfer.status, thru: null };
   }
 
-  return { displayName: display, scoreValue: golfer.score ?? 0, status: golfer.status ?? 'active', thru: golfer.thru };
+  return { displayName: display, scoreValue: golfer.score ?? 0, status: golfer.status ?? 'active', thru: golfer.thru, teeTime: golfer.teeTime ?? null };
 }
 
 function computeCutPenalty(scoresData) {
