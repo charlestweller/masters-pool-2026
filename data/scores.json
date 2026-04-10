@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-10T13:50:08.184Z",
+  "lastUpdated": "2026-04-10T13:55:12.225Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 12,
-  "cutPenalty": 22,
+  "worstActiveScore": 14,
+  "cutPenalty": 24,
   "projectedCut": 3,
   "golfers": [
     {
@@ -22,14 +22,14 @@
     },
     {
       "name": "Davis Riley",
-      "score": 12,
-      "thru": 4,
+      "score": 14,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         10,
-        2
+        4
       ]
     },
     {
@@ -119,7 +119,7 @@
     {
       "name": "Wyndham Clark",
       "score": -3,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -131,7 +131,7 @@
     {
       "name": "Nicolai Højgaard",
       "score": 6,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -155,7 +155,7 @@
     {
       "name": "Andrew Novak",
       "score": 7,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -346,26 +346,26 @@
     },
     {
       "name": "Danny Willett",
-      "score": 6,
-      "thru": 4,
+      "score": 7,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        2
+        3
       ]
     },
     {
       "name": "Tom McKibbin",
-      "score": 8,
-      "thru": 7,
+      "score": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        5
+        4
       ]
     },
     {
@@ -491,7 +491,7 @@
     {
       "name": "Mike Weir",
       "score": 11,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -694,14 +694,14 @@
     },
     {
       "name": "Ethan Fang",
-      "score": 5,
-      "thru": 4,
+      "score": 6,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         2,
-        3
+        4
       ]
     },
     {
@@ -718,14 +718,14 @@
     },
     {
       "name": "Mateo Pulcini",
-      "score": 9,
-      "thru": 6,
+      "score": 10,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         9,
-        0
+        1
       ]
     },
     {
@@ -886,14 +886,14 @@
     },
     {
       "name": "Zach Johnson",
-      "score": 4,
-      "thru": 5,
+      "score": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        1
+        2
       ]
     },
     {
@@ -947,7 +947,7 @@
     {
       "name": "Michael Kim",
       "score": 6,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
