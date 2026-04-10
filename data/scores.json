@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T13:00:09.737Z",
+  "lastUpdated": "2026-04-10T13:05:11.391Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -23,7 +23,7 @@
     {
       "name": "Davis Riley",
       "score": 11,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -347,7 +347,7 @@
     {
       "name": "Danny Willett",
       "score": 4,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -466,14 +466,14 @@
     },
     {
       "name": "Sam Stevens",
-      "score": 0,
-      "thru": 5,
+      "score": 1,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        0
+        1
       ]
     },
     {
@@ -694,14 +694,14 @@
     },
     {
       "name": "Ethan Fang",
-      "score": 3,
-      "thru": 1,
+      "score": 5,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         2,
-        1
+        3
       ]
     },
     {
