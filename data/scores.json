@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T15:10:10.032Z",
+  "lastUpdated": "2026-04-10T15:15:08.586Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -23,7 +23,7 @@
     {
       "name": "Davis Riley",
       "score": 17,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -46,14 +46,14 @@
     },
     {
       "name": "J.J. Spaun",
-      "score": 3,
-      "thru": 5,
+      "score": 4,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         2,
-        1
+        2
       ]
     },
     {
@@ -274,14 +274,14 @@
     },
     {
       "name": "Gary Woodland",
-      "score": 1,
-      "thru": 2,
+      "score": 0,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
-        2
+        1
       ]
     },
     {
@@ -311,7 +311,7 @@
     {
       "name": "Adam Scott",
       "score": 0,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -347,7 +347,7 @@
     {
       "name": "Danny Willett",
       "score": 8,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -359,7 +359,7 @@
     {
       "name": "Tom McKibbin",
       "score": 7,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -395,7 +395,7 @@
     {
       "name": "Ludvig Åberg",
       "score": 1,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -514,14 +514,14 @@
     },
     {
       "name": "Marco Penge",
-      "score": 4,
-      "thru": 1,
+      "score": 3,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        0
+        -1
       ]
     },
     {
@@ -742,14 +742,14 @@
     },
     {
       "name": "Harris English",
-      "score": 1,
-      "thru": 1,
+      "score": 0,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
-        0
+        -1
       ]
     },
     {
@@ -779,8 +779,8 @@
     {
       "name": "Carlos Ortiz",
       "score": 8,
-      "thru": 0,
-      "teeTime": "11:03 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -899,7 +899,7 @@
     {
       "name": "Si Woo Kim",
       "score": 3,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -923,7 +923,7 @@
     {
       "name": "Sepp Straka",
       "score": 1,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1031,7 +1031,7 @@
     {
       "name": "Scottie Scheffler",
       "score": -2,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
