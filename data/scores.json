@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T13:40:08.645Z",
+  "lastUpdated": "2026-04-10T13:45:13.929Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -82,14 +82,14 @@
     },
     {
       "name": "Aaron Rai",
-      "score": -1,
-      "thru": 1,
+      "score": -2,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
-        0
+        -1
       ]
     },
     {
@@ -130,14 +130,14 @@
     },
     {
       "name": "Nicolai Højgaard",
-      "score": 5,
-      "thru": 4,
+      "score": 6,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        1
+        2
       ]
     },
     {
@@ -203,7 +203,7 @@
     {
       "name": "Sergio García",
       "score": 0,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -431,7 +431,7 @@
     {
       "name": "Min Woo Lee",
       "score": 7,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -634,14 +634,14 @@
     },
     {
       "name": "Jacob Bridgeman",
-      "score": 0,
-      "thru": 1,
+      "score": -1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
-        1
+        0
       ]
     },
     {
@@ -886,14 +886,14 @@
     },
     {
       "name": "Zach Johnson",
-      "score": 3,
-      "thru": 4,
+      "score": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        0
+        1
       ]
     },
     {
@@ -947,7 +947,7 @@
     {
       "name": "Michael Kim",
       "score": 6,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
