@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T17:29:31.131Z",
+  "lastUpdated": "2026-04-10T17:30:08.903Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -803,7 +803,7 @@
     {
       "name": "Tyrrell Hatton",
       "score": -3,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
