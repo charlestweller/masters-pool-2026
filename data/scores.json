@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T19:15:08.378Z",
+  "lastUpdated": "2026-04-10T19:20:08.559Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -10,14 +10,14 @@
   "golfers": [
     {
       "name": "Bryson DeChambeau",
-      "score": 5,
-      "thru": 6,
+      "score": 4,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        1
+        0
       ]
     },
     {
@@ -58,14 +58,14 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 0,
-      "thru": 11,
+      "score": 1,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -3,
-        3
+        4
       ]
     },
     {
@@ -106,14 +106,14 @@
     },
     {
       "name": "Max Greyserman",
-      "score": 10,
-      "thru": 12,
+      "score": 9,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         7,
-        3
+        2
       ]
     },
     {
@@ -167,7 +167,7 @@
     {
       "name": "Robert MacIntyre",
       "score": 7,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -226,14 +226,14 @@
     },
     {
       "name": "Brandon Holtz",
-      "score": 12,
-      "thru": 10,
+      "score": 14,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         9,
-        3
+        5
       ]
     },
     {
@@ -274,14 +274,14 @@
     },
     {
       "name": "Gary Woodland",
-      "score": 2,
-      "thru": 16,
+      "score": 3,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
-        3
+        4
       ]
     },
     {
@@ -298,14 +298,14 @@
     },
     {
       "name": "Alex Noren",
-      "score": 5,
-      "thru": 4,
+      "score": 6,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        0
+        1
       ]
     },
     {
@@ -383,7 +383,7 @@
     {
       "name": "Viktor Hovland",
       "score": 2,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -419,7 +419,7 @@
     {
       "name": "Nico Echavarria",
       "score": 7,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -671,7 +671,7 @@
     {
       "name": "Johnny Keefer",
       "score": 10,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -731,7 +731,7 @@
     {
       "name": "Jackson Herrington",
       "score": 8,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -851,7 +851,7 @@
     {
       "name": "Patrick Cantlay",
       "score": 4,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -910,14 +910,14 @@
     },
     {
       "name": "Bubba Watson",
-      "score": 6,
-      "thru": 10,
+      "score": 7,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        2
+        3
       ]
     },
     {
@@ -1018,20 +1018,20 @@
     },
     {
       "name": "Haotong Li",
-      "score": -3,
-      "thru": 15,
+      "score": -4,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
-        -2
+        -3
       ]
     },
     {
       "name": "Scottie Scheffler",
       "score": 0,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
