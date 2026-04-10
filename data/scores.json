@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T20:35:09.187Z",
+  "lastUpdated": "2026-04-10T20:40:08.582Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -59,7 +59,7 @@
     {
       "name": "Kurt Kitayama",
       "score": 3,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -95,9 +95,9 @@
     {
       "name": "Charl Schwartzel",
       "score": 4,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         3,
@@ -226,14 +226,14 @@
     },
     {
       "name": "Brandon Holtz",
-      "score": 17,
-      "thru": 14,
+      "score": 16,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         9,
-        8
+        7
       ]
     },
     {
@@ -262,14 +262,14 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": -7,
-      "thru": 9,
+      "score": -6,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -5,
-        -2
+        -1
       ]
     },
     {
@@ -371,7 +371,7 @@
     {
       "name": "Kristoffer Reitan",
       "score": -5,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -418,14 +418,14 @@
     },
     {
       "name": "Nico Echavarria",
-      "score": 11,
-      "thru": 14,
+      "score": 13,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         7,
-        4
+        6
       ]
     },
     {
@@ -454,14 +454,14 @@
     },
     {
       "name": "Cameron Young",
-      "score": -1,
-      "thru": 9,
+      "score": 0,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
-        -2
+        -1
       ]
     },
     {
@@ -479,7 +479,7 @@
     {
       "name": "Keegan Bradley",
       "score": 3,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -550,14 +550,14 @@
     },
     {
       "name": "Casey Jarvis",
-      "score": 6,
-      "thru": 15,
+      "score": 7,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        1
+        2
       ]
     },
     {
@@ -647,7 +647,7 @@
     {
       "name": "Ryan Gerard",
       "score": 1,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -683,7 +683,7 @@
     {
       "name": "Mason Howell",
       "score": 9,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -910,14 +910,14 @@
     },
     {
       "name": "Bubba Watson",
-      "score": 5,
-      "thru": 14,
+      "score": 4,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        1
+        0
       ]
     },
     {
