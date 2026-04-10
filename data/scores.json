@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T20:15:09.079Z",
+  "lastUpdated": "2026-04-10T20:20:08.059Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -107,7 +107,7 @@
     {
       "name": "Max Greyserman",
       "score": 10,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -263,7 +263,7 @@
     {
       "name": "Rory McIlroy",
       "score": -7,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -287,7 +287,7 @@
     {
       "name": "Nick Taylor",
       "score": -1,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -334,14 +334,14 @@
     },
     {
       "name": "Ryan Fox",
-      "score": 6,
-      "thru": 16,
+      "score": 5,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        1
+        0
       ]
     },
     {
@@ -442,20 +442,20 @@
     },
     {
       "name": "Akshay Bhatia",
-      "score": 0,
-      "thru": 10,
+      "score": 1,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
-        -1
+        0
       ]
     },
     {
       "name": "Cameron Young",
       "score": -1,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -478,14 +478,14 @@
     },
     {
       "name": "Keegan Bradley",
-      "score": 4,
-      "thru": 12,
+      "score": 3,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        4
+        3
       ]
     },
     {
@@ -647,7 +647,7 @@
     {
       "name": "Ryan Gerard",
       "score": 1,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
