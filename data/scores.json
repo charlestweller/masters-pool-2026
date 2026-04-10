@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T22:45:07.436Z",
+  "lastUpdated": "2026-04-10T22:50:12.018Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -298,14 +298,14 @@
     },
     {
       "name": "Alex Noren",
-      "score": 3,
-      "thru": 16,
+      "score": 4,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
-        -2
+        -1
       ]
     },
     {
@@ -382,14 +382,14 @@
     },
     {
       "name": "Viktor Hovland",
-      "score": 1,
-      "thru": 16,
+      "score": 2,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        -2
+        -1
       ]
     },
     {
