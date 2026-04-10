@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T13:05:11.391Z",
+  "lastUpdated": "2026-04-10T13:10:09.030Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -118,20 +118,20 @@
     },
     {
       "name": "Wyndham Clark",
-      "score": -2,
-      "thru": 3,
+      "score": -3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        -2
+        -3
       ]
     },
     {
       "name": "Nicolai Højgaard",
       "score": 5,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -358,7 +358,7 @@
     },
     {
       "name": "Tom McKibbin",
-      "score": 7,
+      "score": 8,
       "thru": 4,
       "teeTime": null,
       "status": "active",
@@ -430,14 +430,14 @@
     },
     {
       "name": "Min Woo Lee",
-      "score": 6,
-      "thru": 0,
-      "teeTime": "8:50 AM",
+      "score": 7,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         6,
-        0
+        1
       ]
     },
     {
@@ -490,14 +490,14 @@
     },
     {
       "name": "Mike Weir",
-      "score": 9,
-      "thru": 3,
+      "score": 11,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         9,
-        0
+        2
       ]
     },
     {
@@ -706,20 +706,20 @@
     },
     {
       "name": "Fifa Laopakdee",
-      "score": 8,
-      "thru": 0,
-      "teeTime": "8:50 AM",
+      "score": 9,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         8,
-        0
+        1
       ]
     },
     {
       "name": "Mateo Pulcini",
       "score": 9,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -887,7 +887,7 @@
     {
       "name": "Zach Johnson",
       "score": 3,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -946,14 +946,14 @@
     },
     {
       "name": "Michael Kim",
-      "score": 4,
-      "thru": 2,
+      "score": 5,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        1
+        2
       ]
     },
     {
@@ -983,8 +983,8 @@
     {
       "name": "Fred Couples",
       "score": 6,
-      "thru": 0,
-      "teeTime": "8:50 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
