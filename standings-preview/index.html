@@ -427,6 +427,10 @@
       color: var(--muted);
       letter-spacing: 0.04em;
     }
+    .thru-label.tee-time {
+      color: rgba(252,227,0,0.55);
+      letter-spacing: 0.02em;
+    }
 
     /* ── TOTAL ──────────────────────────────────────── */
     .total-cell {
@@ -957,7 +961,7 @@ function golferCellHtml(g, showScore) {
     scoreHtml = `
       <div class="golfer-score-row">
         <span class="score-chip ${cls}">${formatScore(g.scoreValue)}</span>
-        ${g.thru !== null && g.thru !== undefined ? `<span class="thru-label">${thruLabel(g.thru)}</span>` : ''}
+        ${(g.thru || g.teeTime) ? `<span class="thru-label${g.teeTime && !g.thru ? ' tee-time' : ''}">${thruLabel(g.thru, g.teeTime)}</span>` : ''}
       </div>`;
   }
   return `
@@ -1023,10 +1027,11 @@ function scoreClass(n) {
   return 'even';
 }
 
-function thruLabel(t) {
-  if (t === null || t === undefined || t === 0) return '';
+function thruLabel(t, teeTime) {
   if (t === 18 || t === 'F') return 'F';
-  return `Thru ${t}`;
+  if (t > 0) return `Thru ${t}`;
+  if (teeTime) return teeTime;
+  return '';
 }
 
 function lastName(full) {
