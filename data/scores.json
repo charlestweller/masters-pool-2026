@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T13:30:15.293Z",
+  "lastUpdated": "2026-04-10T13:35:08.613Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -178,14 +178,14 @@
     },
     {
       "name": "Sungjae Im",
-      "score": 4,
-      "thru": 7,
+      "score": 3,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        0
+        -1
       ]
     },
     {
@@ -466,14 +466,14 @@
     },
     {
       "name": "Sam Stevens",
-      "score": 2,
-      "thru": 7,
+      "score": 1,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        2
+        1
       ]
     },
     {
@@ -959,7 +959,7 @@
     {
       "name": "Daniel Berger",
       "score": 5,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -995,8 +995,8 @@
     {
       "name": "Corey Conners",
       "score": 3,
-      "thru": 0,
-      "teeTime": "9:19 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -1043,7 +1043,7 @@
     {
       "name": "Brian Campbell",
       "score": 1,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
