@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T13:10:09.030Z",
+  "lastUpdated": "2026-04-10T13:15:10.350Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -154,14 +154,14 @@
     },
     {
       "name": "Andrew Novak",
-      "score": 5,
-      "thru": 4,
+      "score": 6,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        2
+        3
       ]
     },
     {
@@ -359,13 +359,13 @@
     {
       "name": "Tom McKibbin",
       "score": 8,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        4
+        5
       ]
     },
     {
@@ -1043,7 +1043,7 @@
     {
       "name": "Brian Campbell",
       "score": 1,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
