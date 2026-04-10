@@ -93,29 +93,33 @@ async function fetchScores() {
     else if (typeof thruRaw === 'string')   thruRaw = parseInt(thruRaw, 10) || null;
 
     // ── Score calculation ─────────────────────────────────────────────────────
-    // Strategy: linescores is the ground truth for COMPLETED rounds — ESPN
-    // returns them as to-par displayValues ("E", "-4", "+2"). Sum those up.
-    // For an IN-PROGRESS round, linescores won't yet include the current round,
-    // so we read c.score.value (raw strokes) and convert using Augusta par.
-    // This correctly handles multi-round totals without guessing state names.
+    // Primary source: ESPN's `scoreToPar` statistic — their official running
+    // total to-par, correct for all states (pre, between rounds, post).
+    // Fallback for in-progress rounds: scoreToPar shows "-" mid-round, so we
+    // compute: linescores (completed rounds, already to-par) + current round
+    // strokes converted via Augusta par.
+
+    const toParStat  = (c.statistics || []).find(s => s.name === 'scoreToPar');
+    const toParStr   = (toParStat?.displayValue || '').trim();
+    const toParValid = toParStr && toParStr !== '-' && toParStr !== '--';
 
     const rounds = (c.linescores || []).map(ls => parseScore(ls.displayValue ?? ls.value));
     const completedToPar = rounds.reduce((sum, r) => sum + r, 0);
 
-    // Raw strokes for the current round (only meaningful when playerState === 'in')
+    // Raw strokes for the current round (only valid when playerState === 'in')
     const rawStrokes = (c.score && typeof c.score === 'object' && typeof c.score.value === 'number')
       ? c.score.value
       : null;
 
     let scoreValue;
-    if (playerState === 'in' && rawStrokes !== null && typeof thruRaw === 'number' && thruRaw > 0) {
-      // In-progress: completed rounds (linescores) + current partial round converted from strokes
+    if (toParValid) {
+      // Best case: ESPN gives us the total to-par directly
+      scoreValue = parseScore(toParStr);
+    } else if (playerState === 'in' && rawStrokes !== null && typeof thruRaw === 'number' && thruRaw > 0) {
+      // Mid-round: completed rounds (linescores) + current partial round via Augusta par
       scoreValue = completedToPar + rawStrokes - cumulativePar(thruRaw, startHole);
-    } else if (rounds.length === 0 && rawStrokes !== null && (playerState === 'post' || thruRaw === 18)) {
-      // Edge case: round just finished but linescores not yet updated (very brief window)
-      scoreValue = rawStrokes - cumulativePar(18, startHole);
     } else {
-      // Pre-round, between rounds, post-round with linescores populated: use linescores total
+      // Pre-round / hasn't started: linescores total (0 if no rounds played yet)
       scoreValue = completedToPar;
     }
 
