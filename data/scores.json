@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T18:50:10.887Z",
+  "lastUpdated": "2026-04-10T18:55:13.964Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -70,14 +70,14 @@
     },
     {
       "name": "Collin Morikawa",
-      "score": 3,
-      "thru": 4,
+      "score": 2,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         2,
-        1
+        0
       ]
     },
     {
@@ -250,14 +250,14 @@
     },
     {
       "name": "Dustin Johnson",
-      "score": 0,
-      "thru": 6,
+      "score": 1,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
-        -1
+        0
       ]
     },
     {
@@ -275,7 +275,7 @@
     {
       "name": "Gary Woodland",
       "score": 2,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -286,14 +286,14 @@
     },
     {
       "name": "Nick Taylor",
-      "score": 1,
-      "thru": 7,
+      "score": 0,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
-        2
+        1
       ]
     },
     {
@@ -394,14 +394,14 @@
     },
     {
       "name": "Ludvig Åberg",
-      "score": 1,
-      "thru": 17,
+      "score": 0,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         2,
-        -1
+        -2
       ]
     },
     {
@@ -479,7 +479,7 @@
     {
       "name": "Keegan Bradley",
       "score": 3,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -503,7 +503,7 @@
     {
       "name": "Sami Välimäki",
       "score": 10,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -527,7 +527,7 @@
     {
       "name": "Shane Lowry",
       "score": -3,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -562,14 +562,14 @@
     },
     {
       "name": "Chris Gotterup",
-      "score": -2,
-      "thru": 17,
+      "score": -3,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
-        -2
+        -3
       ]
     },
     {
@@ -647,7 +647,7 @@
     {
       "name": "Ryan Gerard",
       "score": 0,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -730,14 +730,14 @@
     },
     {
       "name": "Jackson Herrington",
-      "score": 5,
-      "thru": 11,
+      "score": 8,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        1
+        4
       ]
     },
     {
@@ -755,7 +755,7 @@
     {
       "name": "Russell Henley",
       "score": 0,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -923,7 +923,7 @@
     {
       "name": "Sepp Straka",
       "score": 1,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1030,14 +1030,14 @@
     },
     {
       "name": "Scottie Scheffler",
-      "score": -1,
-      "thru": 14,
+      "score": 0,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -2,
-        1
+        2
       ]
     },
     {
@@ -1067,9 +1067,9 @@
     {
       "name": "Jon Rahm",
       "score": 4,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         6,
@@ -1091,7 +1091,7 @@
     {
       "name": "Sam Burns",
       "score": -5,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
