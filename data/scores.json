@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T22:40:08.376Z",
+  "lastUpdated": "2026-04-10T22:45:07.436Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -71,9 +71,9 @@
     {
       "name": "Collin Morikawa",
       "score": -1,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         2,
@@ -754,14 +754,14 @@
     },
     {
       "name": "Russell Henley",
-      "score": -1,
-      "thru": 17,
+      "score": 0,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         1,
-        -2
+        -1
       ]
     },
     {
@@ -838,14 +838,14 @@
     },
     {
       "name": "Hideki Matsuyama",
-      "score": -3,
-      "thru": 17,
+      "score": -2,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
-        -3
+        -2
       ]
     },
     {
