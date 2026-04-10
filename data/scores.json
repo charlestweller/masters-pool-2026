@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T19:50:08.147Z",
+  "lastUpdated": "2026-04-10T19:55:07.519Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -11,7 +11,7 @@
     {
       "name": "Bryson DeChambeau",
       "score": 3,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -35,7 +35,7 @@
     {
       "name": "Xander Schauffele",
       "score": -3,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -95,7 +95,7 @@
     {
       "name": "Charl Schwartzel",
       "score": 3,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -143,7 +143,7 @@
     {
       "name": "Rasmus Højgaard",
       "score": 4,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -226,14 +226,14 @@
     },
     {
       "name": "Brandon Holtz",
-      "score": 15,
-      "thru": 12,
+      "score": 16,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         9,
-        6
+        7
       ]
     },
     {
@@ -299,7 +299,7 @@
     {
       "name": "Alex Noren",
       "score": 6,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -382,14 +382,14 @@
     },
     {
       "name": "Viktor Hovland",
-      "score": 2,
-      "thru": 6,
+      "score": 4,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
-        -1
+        1
       ]
     },
     {
@@ -503,7 +503,7 @@
     {
       "name": "Sami Välimäki",
       "score": 10,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -611,7 +611,7 @@
     {
       "name": "Matt McCarty",
       "score": 0,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -646,14 +646,14 @@
     },
     {
       "name": "Ryan Gerard",
-      "score": 2,
-      "thru": 11,
+      "score": 1,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        2
+        1
       ]
     },
     {
@@ -790,14 +790,14 @@
     },
     {
       "name": "Tommy Fleetwood",
-      "score": -3,
-      "thru": 9,
+      "score": -4,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
-        -2
+        -3
       ]
     },
     {
@@ -863,7 +863,7 @@
     {
       "name": "Ángel Cabrera",
       "score": 14,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
