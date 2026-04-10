@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T14:05:09.232Z",
+  "lastUpdated": "2026-04-10T14:10:13.389Z",
   "tournament": "Masters Tournament",
   "round": 2,
   "roundDetail": "Round 2 - In Progress",
@@ -131,7 +131,7 @@
     {
       "name": "Nicolai Højgaard",
       "score": 6,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -155,7 +155,7 @@
     {
       "name": "Andrew Novak",
       "score": 7,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -178,14 +178,14 @@
     },
     {
       "name": "Sungjae Im",
-      "score": 3,
-      "thru": 9,
+      "score": 4,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
-        -1
+        0
       ]
     },
     {
@@ -347,7 +347,7 @@
     {
       "name": "Danny Willett",
       "score": 7,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -491,7 +491,7 @@
     {
       "name": "Mike Weir",
       "score": 11,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -695,7 +695,7 @@
     {
       "name": "Ethan Fang",
       "score": 6,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -766,14 +766,14 @@
     },
     {
       "name": "Jordan Spieth",
-      "score": 0,
-      "thru": 0,
-      "teeTime": "9:55 AM",
+      "score": -1,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
-        0
+        -1
       ]
     },
     {
@@ -887,7 +887,7 @@
     {
       "name": "Zach Johnson",
       "score": 5,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -947,7 +947,7 @@
     {
       "name": "Michael Kim",
       "score": 6,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
