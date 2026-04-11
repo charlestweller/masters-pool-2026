@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T13:55:11.229Z",
+  "lastUpdated": "2026-04-11T14:00:08.728Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -62,15 +62,15 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 4,
-      "thru": 1,
+      "score": 5,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -3,
         7,
-        0
+        1
       ]
     },
     {
@@ -153,15 +153,15 @@
     },
     {
       "name": "Rasmus Højgaard",
-      "score": 4,
-      "thru": 0,
-      "teeTime": "9:42 AM",
+      "score": 5,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         6,
         -2,
-        0
+        1
       ]
     },
     {
@@ -322,15 +322,15 @@
     },
     {
       "name": "Alex Noren",
-      "score": 5,
-      "thru": 1,
+      "score": 4,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
         -1,
-        1
+        0
       ]
     },
     {
