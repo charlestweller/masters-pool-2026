@@ -3,5 +3,47 @@
   "poolName": "Mulligan Pool",
   "entryFee": 25,
   "entries": [
+    { 
+      "name": "Charlie Weller", 
+      "golfers": [
+        "Tyrrell Hatton", 
+        "Tommy Fleetwood", 
+        "Cameron Young"] 
+    },
+    { 
+      "name": "Jeff Oudsema", 
+      "golfers": [
+        "Scottie Scheffler", 
+        "Rory McIlroy", 
+        "Xander Schauffele"] 
+    },
+    { 
+      "name": "Jeff Oudsema", 
+      "golfers": [
+        "Scottie Scheffler", 
+        "Rory McIlroy", 
+        "Xander Schauffele"] 
+    },
+    { 
+      "name": "Jeff Oudsema", 
+      "golfers": [
+        "Scottie Scheffler", 
+        "Rory McIlroy", 
+        "Xander Schauffele"] 
+    },
+    { 
+      "name": "Jeff Oudsema", 
+      "golfers": [
+        "Scottie Scheffler", 
+        "Rory McIlroy", 
+        "Xander Schauffele"] 
+    },
+    { 
+      "name": "Jeff Oudsema", 
+      "golfers": [
+        "Scottie Scheffler", 
+        "Rory McIlroy", 
+        "Xander Schauffele"] 
+    },
   ]
 }
