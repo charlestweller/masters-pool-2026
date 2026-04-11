@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-04-11T13:30:07.948Z",
+  "lastUpdated": "2026-04-11T13:35:07.295Z",
   "tournament": "Masters Tournament",
-  "round": 2,
-  "roundDetail": "Round 2 - Play Complete",
-  "tournamentStatus": "complete",
+  "round": 3,
+  "roundDetail": "Round 3 - In Progress",
+  "tournamentStatus": "in-progress",
   "worstActiveScore": 4,
   "cutPenalty": 14,
   "projectedCut": 4,
@@ -11,7 +11,7 @@
     {
       "name": "Bryson DeChambeau",
       "score": 6,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -24,7 +24,7 @@
     {
       "name": "Davis Riley",
       "score": 18,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -50,7 +50,7 @@
     {
       "name": "J.J. Spaun",
       "score": 5,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -115,7 +115,7 @@
     {
       "name": "Max Greyserman",
       "score": 12,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -141,7 +141,7 @@
     {
       "name": "Nicolai Højgaard",
       "score": 6,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -167,7 +167,7 @@
     {
       "name": "Andrew Novak",
       "score": 7,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -180,7 +180,7 @@
     {
       "name": "Robert MacIntyre",
       "score": 7,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -245,7 +245,7 @@
     {
       "name": "Brandon Holtz",
       "score": 15,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -258,7 +258,7 @@
     {
       "name": "José María Olazábal",
       "score": 9,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -349,7 +349,7 @@
     {
       "name": "Vijay Singh",
       "score": 10,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -362,7 +362,7 @@
     {
       "name": "Ryan Fox",
       "score": 5,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -375,7 +375,7 @@
     {
       "name": "Danny Willett",
       "score": 5,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -388,7 +388,7 @@
     {
       "name": "Tom McKibbin",
       "score": 7,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -453,7 +453,7 @@
     {
       "name": "Nico Echavarria",
       "score": 13,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -466,7 +466,7 @@
     {
       "name": "Min Woo Lee",
       "score": 11,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -479,7 +479,7 @@
     {
       "name": "Akshay Bhatia",
       "score": 6,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -531,7 +531,7 @@
     {
       "name": "Mike Weir",
       "score": 10,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -544,7 +544,7 @@
     {
       "name": "Sami Välimäki",
       "score": 11,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -583,7 +583,7 @@
     {
       "name": "Harry Hall",
       "score": 5,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -596,7 +596,7 @@
     {
       "name": "Casey Jarvis",
       "score": 8,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -622,7 +622,7 @@
     {
       "name": "Naoyuki Kataoka",
       "score": 15,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -648,7 +648,7 @@
     {
       "name": "Rasmus Neergaard-Petersen",
       "score": 7,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -713,7 +713,7 @@
     {
       "name": "Aldrich Potgieter",
       "score": 15,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -726,7 +726,7 @@
     {
       "name": "Johnny Keefer",
       "score": 11,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -739,7 +739,7 @@
     {
       "name": "Mason Howell",
       "score": 9,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -752,7 +752,7 @@
     {
       "name": "Ethan Fang",
       "score": 8,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -765,7 +765,7 @@
     {
       "name": "Fifa Laopakdee",
       "score": 11,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -778,7 +778,7 @@
     {
       "name": "Mateo Pulcini",
       "score": 15,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -791,7 +791,7 @@
     {
       "name": "Jackson Herrington",
       "score": 8,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -843,7 +843,7 @@
     {
       "name": "Carlos Ortiz",
       "score": 11,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -934,7 +934,7 @@
     {
       "name": "Ángel Cabrera",
       "score": 16,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -960,7 +960,7 @@
     {
       "name": "Zach Johnson",
       "score": 6,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -986,7 +986,7 @@
     {
       "name": "Bubba Watson",
       "score": 5,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -1025,7 +1025,7 @@
     {
       "name": "Michael Kim",
       "score": 8,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -1038,7 +1038,7 @@
     {
       "name": "Daniel Berger",
       "score": 8,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -1064,7 +1064,7 @@
     {
       "name": "Fred Couples",
       "score": 9,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
@@ -1090,7 +1090,7 @@
     {
       "name": "Cameron Smith",
       "score": 7,
-      "thru": 18,
+      "thru": 0,
       "teeTime": null,
       "status": "cut",
       "position": "",
