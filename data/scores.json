@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T13:50:10.232Z",
+  "lastUpdated": "2026-04-11T13:55:11.229Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -101,15 +101,15 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 4,
-      "thru": 0,
-      "teeTime": "9:42 AM",
+      "score": 5,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
         1,
-        0
+        1
       ]
     },
     {
