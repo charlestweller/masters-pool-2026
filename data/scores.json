@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-11T17:25:08.267Z",
+  "lastUpdated": "2026-04-11T17:30:12.995Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 9,
   "cutPenalty": 19,
-  "projectedCut": 3,
+  "projectedCut": 4,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -75,15 +75,15 @@
     },
     {
       "name": "Collin Morikawa",
-      "score": -2,
-      "thru": 3,
+      "score": -1,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         2,
         -3,
-        -1
+        0
       ]
     },
     {
@@ -102,7 +102,7 @@
     {
       "name": "Charl Schwartzel",
       "score": 9,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -153,15 +153,15 @@
     },
     {
       "name": "Rasmus Højgaard",
-      "score": 3,
-      "thru": 16,
+      "score": 4,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         6,
         -2,
-        -1
+        0
       ]
     },
     {
@@ -193,7 +193,7 @@
     {
       "name": "Sungjae Im",
       "score": -1,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -426,15 +426,15 @@
     },
     {
       "name": "Ludvig Åberg",
-      "score": 0,
-      "thru": 5,
+      "score": 1,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         2,
         -2,
-        0
+        1
       ]
     },
     {
@@ -673,15 +673,15 @@
     },
     {
       "name": "Michael Brennan",
-      "score": -2,
-      "thru": 1,
+      "score": -1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
         -1,
-        -1
+        0
       ]
     },
     {
@@ -830,7 +830,7 @@
     {
       "name": "Jordan Spieth",
       "score": -1,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -908,7 +908,7 @@
     {
       "name": "Hideki Matsuyama",
       "score": -2,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -920,15 +920,15 @@
     },
     {
       "name": "Patrick Cantlay",
-      "score": -1,
-      "thru": 7,
+      "score": -2,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
         -5,
-        -1
+        -2
       ]
     },
     {
@@ -998,15 +998,15 @@
     },
     {
       "name": "Sepp Straka",
-      "score": -1,
-      "thru": 9,
+      "score": -2,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
         0,
-        -2
+        -3
       ]
     },
     {
@@ -1051,7 +1051,7 @@
     {
       "name": "Matt Fitzpatrick",
       "score": -2,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1116,7 +1116,7 @@
     {
       "name": "Scottie Scheffler",
       "score": -2,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
