@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T22:55:09.810Z",
+  "lastUpdated": "2026-04-11T22:55:41.896Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -881,15 +881,15 @@
     },
     {
       "name": "Patrick Reed",
-      "score": -7,
-      "thru": 17,
+      "score": -6,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         -3,
         -3,
-        -1
+        0
       ]
     },
     {
