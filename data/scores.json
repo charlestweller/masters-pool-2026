@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T16:00:10.149Z",
+  "lastUpdated": "2026-04-11T16:05:11.393Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -88,15 +88,15 @@
     },
     {
       "name": "Aaron Rai",
-      "score": 2,
-      "thru": 1,
+      "score": 3,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
         2,
-        1
+        2
       ]
     },
     {
@@ -206,7 +206,7 @@
     {
       "name": "Brian Harman",
       "score": 1,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1077,7 +1077,7 @@
     {
       "name": "Corey Conners",
       "score": 3,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1155,7 +1155,7 @@
     {
       "name": "Jon Rahm",
       "score": 3,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
