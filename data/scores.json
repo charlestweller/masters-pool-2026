@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T22:20:09.269Z",
+  "lastUpdated": "2026-04-11T22:25:10.313Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -283,15 +283,15 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": -11,
-      "thru": 14,
+      "score": -12,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -5,
         -7,
-        1
+        0
       ]
     },
     {
@@ -895,7 +895,7 @@
     {
       "name": "Justin Rose",
       "score": -8,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1181,7 +1181,7 @@
     {
       "name": "Sam Burns",
       "score": -10,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
