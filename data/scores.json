@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T19:00:10.500Z",
+  "lastUpdated": "2026-04-11T19:05:07.242Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -36,15 +36,15 @@
     },
     {
       "name": "Xander Schauffele",
-      "score": -1,
-      "thru": 7,
+      "score": -3,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -2,
         0,
-        1
+        -1
       ]
     },
     {
@@ -75,15 +75,15 @@
     },
     {
       "name": "Collin Morikawa",
-      "score": -2,
-      "thru": 10,
+      "score": -1,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         2,
         -3,
-        -1
+        0
       ]
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "Dustin Johnson",
       "score": 2,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -283,15 +283,15 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": -12,
-      "thru": 0,
-      "teeTime": "2:50 PM",
+      "score": -11,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -5,
         -7,
-        0
+        1
       ]
     },
     {
@@ -310,7 +310,7 @@
     {
       "name": "Nick Taylor",
       "score": -3,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -336,9 +336,9 @@
     {
       "name": "Adam Scott",
       "score": 0,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
@@ -609,7 +609,7 @@
     {
       "name": "Chris Gotterup",
       "score": -3,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -699,15 +699,15 @@
     },
     {
       "name": "Ryan Gerard",
-      "score": -2,
-      "thru": 12,
+      "score": -3,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
         0,
-        -2
+        -3
       ]
     },
     {
@@ -804,7 +804,7 @@
     {
       "name": "Harris English",
       "score": -1,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -817,7 +817,7 @@
     {
       "name": "Russell Henley",
       "score": -3,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1128,15 +1128,15 @@
     },
     {
       "name": "Brian Campbell",
-      "score": -3,
-      "thru": 10,
+      "score": -2,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
         1,
-        -3
+        -2
       ]
     },
     {
@@ -1167,28 +1167,28 @@
     },
     {
       "name": "Jake Knapp",
-      "score": -2,
-      "thru": 7,
+      "score": -4,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
         -3,
-        0
+        -2
       ]
     },
     {
       "name": "Sam Burns",
-      "score": -6,
-      "thru": 0,
-      "teeTime": "2:50 PM",
+      "score": -7,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -5,
         -1,
-        0
+        -1
       ]
     }
   ]
