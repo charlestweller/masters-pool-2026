@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T16:30:08.058Z",
+  "lastUpdated": "2026-04-11T16:35:09.678Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -193,7 +193,7 @@
     {
       "name": "Sungjae Im",
       "score": -1,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -206,7 +206,7 @@
     {
       "name": "Brian Harman",
       "score": 1,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -271,7 +271,7 @@
     {
       "name": "Dustin Johnson",
       "score": 1,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -661,7 +661,7 @@
     {
       "name": "Matt McCarty",
       "score": 0,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -699,15 +699,15 @@
     },
     {
       "name": "Ryan Gerard",
-      "score": 0,
-      "thru": 1,
+      "score": -1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
         0,
-        0
+        -1
       ]
     },
     {
@@ -803,7 +803,7 @@
     },
     {
       "name": "Harris English",
-      "score": 0,
+      "score": -1,
       "thru": 2,
       "teeTime": null,
       "status": "active",
@@ -816,15 +816,15 @@
     },
     {
       "name": "Russell Henley",
-      "score": 0,
-      "thru": 2,
+      "score": -1,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
         -1,
-        0
+        -1
       ]
     },
     {
@@ -921,7 +921,7 @@
     {
       "name": "Patrick Cantlay",
       "score": -1,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1076,15 +1076,15 @@
     },
     {
       "name": "Corey Conners",
-      "score": 3,
-      "thru": 10,
+      "score": 4,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
         1,
-        -1
+        0
       ]
     },
     {
@@ -1155,7 +1155,7 @@
     {
       "name": "Jon Rahm",
       "score": 4,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
