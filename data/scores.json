@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T14:15:07.817Z",
+  "lastUpdated": "2026-04-11T14:20:11.685Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -63,7 +63,7 @@
     {
       "name": "Kurt Kitayama",
       "score": 6,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -206,8 +206,8 @@
     {
       "name": "Brian Harman",
       "score": 4,
-      "thru": 0,
-      "teeTime": "10:04 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -322,15 +322,15 @@
     },
     {
       "name": "Alex Noren",
-      "score": 4,
-      "thru": 3,
+      "score": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         5,
         -1,
-        0
+        -1
       ]
     },
     {
@@ -972,15 +972,15 @@
     },
     {
       "name": "Si Woo Kim",
-      "score": 4,
-      "thru": 1,
+      "score": 3,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
         1,
-        0
+        -1
       ]
     },
     {
@@ -1077,8 +1077,8 @@
     {
       "name": "Corey Conners",
       "score": 4,
-      "thru": 0,
-      "teeTime": "10:04 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -1155,7 +1155,7 @@
     {
       "name": "Jon Rahm",
       "score": 3,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
