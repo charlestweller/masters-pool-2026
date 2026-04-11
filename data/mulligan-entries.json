@@ -18,6 +18,7 @@
     { "name": "Charlie Weller",     "golfers": ["Tommy Fleetwood", "Tyrrell Hatton", "Cameron Young"] },
     { "name": "CJ O'Neil",          "golfers": ["Ludvig Åberg", "Scottie Scheffler", "Jordan Spieth"] },
     { "name": "John Baker",         "golfers": ["Patrick Reed", "Justin Rose", "Tommy Fleetwood"] },
-    { "name": "Tom Siller",         "golfers": ["Justin Rose", "Patrick Reed", "Cameron Young"] }
+    { "name": "Tom Siller",         "golfers": ["Justin Rose", "Patrick Reed", "Cameron Young"] },
+    { "name": "Colin Derhammer",    "golfers": ["Tommy Fleetwood", "Scottie Scheffler", "Cameron Young"] }
   ]
 }
