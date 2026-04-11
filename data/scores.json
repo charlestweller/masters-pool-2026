@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T14:45:10.880Z",
+  "lastUpdated": "2026-04-11T14:50:09.437Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -102,7 +102,7 @@
     {
       "name": "Charl Schwartzel",
       "score": 6,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -297,8 +297,8 @@
     {
       "name": "Gary Woodland",
       "score": 2,
-      "thru": 0,
-      "teeTime": "10:37 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -635,8 +635,8 @@
     {
       "name": "Justin Thomas",
       "score": 2,
-      "thru": 0,
-      "teeTime": "10:37 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
