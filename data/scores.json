@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T14:20:11.685Z",
+  "lastUpdated": "2026-04-11T14:23:57.295Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -101,15 +101,15 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 4,
-      "thru": 2,
+      "score": 5,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
         1,
-        0
+        1
       ]
     },
     {
@@ -153,15 +153,15 @@
     },
     {
       "name": "Rasmus Højgaard",
-      "score": 5,
-      "thru": 2,
+      "score": 4,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         6,
         -2,
-        1
+        0
       ]
     },
     {
