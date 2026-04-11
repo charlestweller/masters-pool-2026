@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T20:50:10.174Z",
+  "lastUpdated": "2026-04-11T20:55:08.399Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -127,15 +127,15 @@
     },
     {
       "name": "Wyndham Clark",
-      "score": -7,
-      "thru": 10,
+      "score": -6,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
         -4,
-        -3
+        -2
       ]
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "Rory McIlroy",
       "score": -12,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -608,15 +608,15 @@
     },
     {
       "name": "Chris Gotterup",
-      "score": -3,
-      "thru": 13,
+      "score": -2,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
         -3,
-        0
+        1
       ]
     },
     {
@@ -869,7 +869,7 @@
     {
       "name": "Tyrrell Hatton",
       "score": -3,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1181,7 +1181,7 @@
     {
       "name": "Sam Burns",
       "score": -8,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
