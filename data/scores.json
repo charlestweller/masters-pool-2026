@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T22:05:08.271Z",
+  "lastUpdated": "2026-04-11T22:10:10.378Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -232,9 +232,9 @@
     {
       "name": "Jason Day",
       "score": -8,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         -3,
@@ -283,15 +283,15 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": -10,
-      "thru": 13,
+      "score": -11,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -5,
         -7,
-        2
+        1
       ]
     },
     {
@@ -492,9 +492,9 @@
     {
       "name": "Cameron Young",
       "score": -11,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         1,
