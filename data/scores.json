@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T18:00:08.335Z",
+  "lastUpdated": "2026-04-11T18:05:08.353Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -76,7 +76,7 @@
     {
       "name": "Collin Morikawa",
       "score": -2,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -192,23 +192,23 @@
     },
     {
       "name": "Sungjae Im",
-      "score": -1,
-      "thru": 9,
+      "score": 0,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         4,
         -3,
-        -2
+        -1
       ]
     },
     {
       "name": "Brian Harman",
       "score": -1,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         7,
@@ -218,15 +218,15 @@
     },
     {
       "name": "Sergio García",
-      "score": 3,
-      "thru": 16,
+      "score": 5,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
         3,
-        0
+        2
       ]
     },
     {
@@ -414,7 +414,7 @@
     {
       "name": "Viktor Hovland",
       "score": 1,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -426,15 +426,15 @@
     },
     {
       "name": "Ludvig Åberg",
-      "score": 2,
-      "thru": 7,
+      "score": 1,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         2,
         -2,
-        2
+        1
       ]
     },
     {
@@ -517,15 +517,15 @@
     },
     {
       "name": "Keegan Bradley",
-      "score": 4,
-      "thru": 15,
+      "score": 3,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
         2,
-        2
+        1
       ]
     },
     {
@@ -608,15 +608,15 @@
     },
     {
       "name": "Chris Gotterup",
-      "score": -3,
-      "thru": 1,
+      "score": -5,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
         -3,
-        0
+        -2
       ]
     },
     {
@@ -700,7 +700,7 @@
     {
       "name": "Ryan Gerard",
       "score": -2,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -804,7 +804,7 @@
     {
       "name": "Harris English",
       "score": -2,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -921,7 +921,7 @@
     {
       "name": "Patrick Cantlay",
       "score": -2,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -947,7 +947,7 @@
     {
       "name": "Brooks Koepka",
       "score": -2,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1012,7 +1012,7 @@
     {
       "name": "Max Homa",
       "score": -4,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1076,15 +1076,15 @@
     },
     {
       "name": "Corey Conners",
-      "score": 2,
-      "thru": 17,
+      "score": 3,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         3,
         1,
-        -2
+        -1
       ]
     },
     {
@@ -1128,21 +1128,21 @@
     },
     {
       "name": "Brian Campbell",
-      "score": -2,
-      "thru": 6,
+      "score": -1,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
         1,
-        -2
+        -1
       ]
     },
     {
       "name": "Maverick McNealy",
       "score": 1,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
