@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T15:40:10.252Z",
+  "lastUpdated": "2026-04-11T15:45:09.196Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -88,15 +88,15 @@
     },
     {
       "name": "Aaron Rai",
-      "score": 1,
-      "thru": 0,
-      "teeTime": "11:32 AM",
+      "score": 2,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
         2,
-        0
+        1
       ]
     },
     {
@@ -219,7 +219,7 @@
     {
       "name": "Sergio García",
       "score": 3,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -297,7 +297,7 @@
     {
       "name": "Gary Woodland",
       "score": 4,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -414,7 +414,7 @@
     {
       "name": "Viktor Hovland",
       "score": 4,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -505,7 +505,7 @@
     {
       "name": "Sam Stevens",
       "score": 3,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -517,15 +517,15 @@
     },
     {
       "name": "Keegan Bradley",
-      "score": 4,
-      "thru": 5,
+      "score": 3,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
         2,
-        2
+        1
       ]
     },
     {
@@ -661,7 +661,7 @@
     {
       "name": "Matt McCarty",
       "score": 0,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -687,8 +687,8 @@
     {
       "name": "Jacob Bridgeman",
       "score": 1,
-      "thru": 0,
-      "teeTime": "11:32 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -1142,7 +1142,7 @@
     {
       "name": "Maverick McNealy",
       "score": 4,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
