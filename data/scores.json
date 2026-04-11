@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-11T17:00:08.125Z",
+  "lastUpdated": "2026-04-11T17:01:09.536Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 9,
   "cutPenalty": 19,
-  "projectedCut": 4,
+  "projectedCut": 5,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -973,7 +973,7 @@
     {
       "name": "Si Woo Kim",
       "score": 2,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1051,8 +1051,8 @@
     {
       "name": "Matt Fitzpatrick",
       "score": -1,
-      "thru": 0,
-      "teeTime": "12:49 PM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -1154,15 +1154,15 @@
     },
     {
       "name": "Jon Rahm",
-      "score": 4,
-      "thru": 13,
+      "score": 5,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         6,
         -2,
-        0
+        1
       ]
     },
     {
