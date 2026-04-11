@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-11T17:01:09.536Z",
+  "lastUpdated": "2026-04-11T17:05:07.937Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 9,
   "cutPenalty": 19,
-  "projectedCut": 5,
+  "projectedCut": 4,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -76,7 +76,7 @@
     {
       "name": "Collin Morikawa",
       "score": -1,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -88,21 +88,21 @@
     },
     {
       "name": "Aaron Rai",
-      "score": 6,
-      "thru": 6,
+      "score": 7,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
         2,
-        5
+        6
       ]
     },
     {
       "name": "Charl Schwartzel",
       "score": 9,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -153,15 +153,15 @@
     },
     {
       "name": "Rasmus Højgaard",
-      "score": 5,
-      "thru": 14,
+      "score": 4,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         6,
         -2,
-        1
+        0
       ]
     },
     {
@@ -310,8 +310,8 @@
     {
       "name": "Nick Taylor",
       "score": -1,
-      "thru": 0,
-      "teeTime": "12:49 PM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -413,21 +413,21 @@
     },
     {
       "name": "Viktor Hovland",
-      "score": 2,
-      "thru": 11,
+      "score": 1,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
         -1,
-        0
+        -1
       ]
     },
     {
       "name": "Ludvig Åberg",
       "score": -1,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -518,7 +518,7 @@
     {
       "name": "Keegan Bradley",
       "score": 0,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -687,7 +687,7 @@
     {
       "name": "Jacob Bridgeman",
       "score": 1,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -999,7 +999,7 @@
     {
       "name": "Sepp Straka",
       "score": -1,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1116,7 +1116,7 @@
     {
       "name": "Scottie Scheffler",
       "score": -2,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1129,7 +1129,7 @@
     {
       "name": "Brian Campbell",
       "score": 0,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
