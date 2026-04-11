@@ -3,47 +3,21 @@
   "poolName": "Mulligan Pool",
   "entryFee": 25,
   "entries": [
-    { 
-      "name": "Charlie Weller", 
-      "golfers": [
-        "Tyrrell Hatton", 
-        "Tommy Fleetwood", 
-        "Cameron Young"] 
-    },
-    { 
-      "name": "Jeff Oudsema", 
-      "golfers": [
-        "Scottie Scheffler", 
-        "Rory McIlroy", 
-        "Xander Schauffele"] 
-    },
-    { 
-      "name": "Jeff Oudsema", 
-      "golfers": [
-        "Scottie Scheffler", 
-        "Rory McIlroy", 
-        "Xander Schauffele"] 
-    },
-    { 
-      "name": "Jeff Oudsema", 
-      "golfers": [
-        "Scottie Scheffler", 
-        "Rory McIlroy", 
-        "Xander Schauffele"] 
-    },
-    { 
-      "name": "Jeff Oudsema", 
-      "golfers": [
-        "Scottie Scheffler", 
-        "Rory McIlroy", 
-        "Xander Schauffele"] 
-    },
-    { 
-      "name": "Jeff Oudsema", 
-      "golfers": [
-        "Scottie Scheffler", 
-        "Rory McIlroy", 
-        "Xander Schauffele"] 
-    }
+    { "name": "Jeff Oudsema",       "golfers": ["Rory McIlroy", "Hideki Matsuyama", "Brooks Koepka"] },
+    { "name": "Anthony Biondo",     "golfers": ["Matt Fitzpatrick", "Jon Rahm", "Xander Schauffele"] },
+    { "name": "Dan Haan",           "golfers": ["Tyrrell Hatton", "Tommy Fleetwood", "Scottie Scheffler"] },
+    { "name": "Michael Muskievicz","golfers": ["Xander Schauffele", "Ludvig Åberg", "Rory McIlroy"] },
+    { "name": "Peter Wielinga",     "golfers": ["Justin Rose", "Brooks Koepka", "Shane Lowry"] },
+    { "name": "Marcel Diemetri",    "golfers": ["Patrick Reed", "Justin Rose", "Scottie Scheffler"] },
+    { "name": "Aditya Naik",        "golfers": ["Rory McIlroy", "Brooks Koepka", "Patrick Reed"] },
+    { "name": "Justin Voshel",      "golfers": ["Ludvig Åberg", "Shane Lowry", "Justin Rose"] },
+    { "name": "Bert Bachand",       "golfers": ["Jason Day", "Xander Schauffele", "Rory McIlroy"] },
+    { "name": "Issac Wheeler",      "golfers": ["Justin Rose", "Tommy Fleetwood", "Tyrrell Hatton"] },
+    { "name": "Rex Hafer",          "golfers": ["Rory McIlroy", "Brooks Koepka", "Kristoffer Reitan"] },
+    { "name": "Megan Filgo",        "golfers": ["Rory McIlroy", "Tommy Fleetwood", "Patrick Reed"] },
+    { "name": "Charlie Weller",     "golfers": ["Tommy Fleetwood", "Tyrrell Hatton", "Cameron Young"] },
+    { "name": "CJ O'Neil",          "golfers": ["Ludvig Åberg", "Scottie Scheffler", "Jordan Spieth"] },
+    { "name": "John Baker",         "golfers": ["Patrick Reed", "Justin Rose", "Tommy Fleetwood"] },
+    { "name": "Tom Siller",         "golfers": ["Justin Rose", "Patrick Reed", "Cameron Young"] }
   ]
 }
