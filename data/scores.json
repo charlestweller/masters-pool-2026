@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T16:55:11.358Z",
+  "lastUpdated": "2026-04-11T17:00:08.125Z",
   "tournament": "Masters Tournament",
   "round": 3,
   "roundDetail": "Round 3 - In Progress",
@@ -193,7 +193,7 @@
     {
       "name": "Sungjae Im",
       "score": -1,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -271,7 +271,7 @@
     {
       "name": "Dustin Johnson",
       "score": 1,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -297,7 +297,7 @@
     {
       "name": "Gary Woodland",
       "score": 3,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -635,7 +635,7 @@
     {
       "name": "Justin Thomas",
       "score": 0,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -817,7 +817,7 @@
     {
       "name": "Russell Henley",
       "score": -1,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -829,15 +829,15 @@
     },
     {
       "name": "Jordan Spieth",
-      "score": 0,
-      "thru": 7,
+      "score": -1,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
         1,
-        -1
+        -2
       ]
     },
     {
@@ -921,7 +921,7 @@
     {
       "name": "Patrick Cantlay",
       "score": -1,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1076,15 +1076,15 @@
     },
     {
       "name": "Corey Conners",
-      "score": 3,
-      "thru": 12,
+      "score": 4,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
         1,
-        -1
+        0
       ]
     },
     {
