@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-12T14:25:08.610Z",
+  "lastUpdated": "2026-04-12T14:28:23.544Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 12,
   "cutPenalty": 22,
-  "projectedCut": 7,
+  "projectedCut": 6,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -91,8 +91,8 @@
     },
     {
       "name": "Aaron Rai",
-      "score": 8,
-      "thru": 6,
+      "score": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -100,7 +100,7 @@
         -1,
         2,
         6,
-        1
+        -1
       ]
     },
     {
@@ -1015,7 +1015,7 @@
     {
       "name": "Si Woo Kim",
       "score": 2,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
