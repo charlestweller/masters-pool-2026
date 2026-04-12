@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T15:05:10.948Z",
+  "lastUpdated": "2026-04-12T15:08:41.185Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -282,7 +282,7 @@
     {
       "name": "Dustin Johnson",
       "score": 2,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -432,7 +432,7 @@
     {
       "name": "Viktor Hovland",
       "score": -1,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -541,7 +541,7 @@
     {
       "name": "Keegan Bradley",
       "score": 2,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -835,16 +835,16 @@
     },
     {
       "name": "Harris English",
-      "score": -1,
-      "thru": 0,
-      "teeTime": "10:56 AM",
+      "score": 0,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
         -1,
         -1,
-        0
+        1
       ]
     },
     {
@@ -1123,7 +1123,7 @@
     {
       "name": "Corey Conners",
       "score": 5,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
