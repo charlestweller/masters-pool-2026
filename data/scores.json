@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T16:25:07.716Z",
+  "lastUpdated": "2026-04-12T16:30:09.629Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -200,7 +200,7 @@
     {
       "name": "Sungjae Im",
       "score": 0,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -214,7 +214,7 @@
     {
       "name": "Brian Harman",
       "score": 0,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -282,7 +282,7 @@
     {
       "name": "Dustin Johnson",
       "score": 0,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -324,8 +324,8 @@
     {
       "name": "Nick Taylor",
       "score": -3,
-      "thru": 0,
-      "teeTime": "12:13 PM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -337,7 +337,7 @@
     },
     {
       "name": "Alex Noren",
-      "score": 0,
+      "score": -1,
       "thru": 9,
       "teeTime": null,
       "status": "active",
@@ -432,7 +432,7 @@
     {
       "name": "Viktor Hovland",
       "score": -4,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -541,7 +541,7 @@
     {
       "name": "Keegan Bradley",
       "score": 1,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -661,8 +661,8 @@
     },
     {
       "name": "Justin Thomas",
-      "score": 2,
-      "thru": 9,
+      "score": 3,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -670,7 +670,7 @@
         0,
         2,
         -1,
-        1
+        2
       ]
     },
     {
@@ -863,8 +863,8 @@
     },
     {
       "name": "Jordan Spieth",
-      "score": -3,
-      "thru": 5,
+      "score": -2,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -872,7 +872,7 @@
         0,
         1,
         -2,
-        -2
+        -1
       ]
     },
     {
@@ -946,8 +946,8 @@
     },
     {
       "name": "Hideki Matsuyama",
-      "score": -4,
-      "thru": 4,
+      "score": -3,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -955,7 +955,7 @@
         0,
         -2,
         0,
-        -2
+        -1
       ]
     },
     {
@@ -1096,8 +1096,8 @@
     {
       "name": "Matt Fitzpatrick",
       "score": -3,
-      "thru": 0,
-      "teeTime": "12:13 PM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -1192,7 +1192,7 @@
     {
       "name": "Maverick McNealy",
       "score": -2,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
