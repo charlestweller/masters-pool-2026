@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T17:45:09.227Z",
+  "lastUpdated": "2026-04-12T17:50:07.328Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -37,7 +37,7 @@
     {
       "name": "Xander Schauffele",
       "score": -6,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -214,7 +214,7 @@
     {
       "name": "Brian Harman",
       "score": 1,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -324,7 +324,7 @@
     {
       "name": "Nick Taylor",
       "score": -2,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -352,7 +352,7 @@
     {
       "name": "Adam Scott",
       "score": -2,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -431,8 +431,8 @@
     },
     {
       "name": "Viktor Hovland",
-      "score": -6,
-      "thru": 14,
+      "score": -4,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -440,7 +440,7 @@
         3,
         -1,
         -1,
-        -7
+        -5
       ]
     },
     {
@@ -540,16 +540,16 @@
     },
     {
       "name": "Keegan Bradley",
-      "score": -2,
-      "thru": 17,
+      "score": -3,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
         2,
         1,
-        -5
+        -6
       ]
     },
     {
@@ -581,7 +581,7 @@
     {
       "name": "Marco Penge",
       "score": 7,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -662,7 +662,7 @@
     {
       "name": "Justin Thomas",
       "score": 3,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -730,8 +730,8 @@
     },
     {
       "name": "Ryan Gerard",
-      "score": -5,
-      "thru": 3,
+      "score": -4,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -739,7 +739,7 @@
         0,
         0,
         -4,
-        -1
+        0
       ]
     },
     {
@@ -864,7 +864,7 @@
     {
       "name": "Jordan Spieth",
       "score": -2,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1096,7 +1096,7 @@
     {
       "name": "Matt Fitzpatrick",
       "score": -2,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
