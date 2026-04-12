@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T21:40:10.092Z",
+  "lastUpdated": "2026-04-12T21:45:07.864Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -295,8 +295,8 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": -12,
-      "thru": 12,
+      "score": -13,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -304,7 +304,7 @@
         -5,
         -7,
         1,
-        -1
+        -2
       ]
     },
     {
@@ -513,7 +513,7 @@
     {
       "name": "Cameron Young",
       "score": -10,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -918,16 +918,16 @@
     },
     {
       "name": "Patrick Reed",
-      "score": -4,
-      "thru": 17,
+      "score": -5,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         -3,
         -3,
         0,
-        2
+        1
       ]
     },
     {
@@ -961,7 +961,7 @@
     {
       "name": "Patrick Cantlay",
       "score": -6,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1150,7 +1150,7 @@
     {
       "name": "Haotong Li",
       "score": 0,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1163,8 +1163,8 @@
     },
     {
       "name": "Scottie Scheffler",
-      "score": -9,
-      "thru": 14,
+      "score": -10,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1172,7 +1172,7 @@
         -2,
         2,
         -7,
-        -2
+        -3
       ]
     },
     {
@@ -1233,8 +1233,8 @@
     },
     {
       "name": "Sam Burns",
-      "score": -8,
-      "thru": 13,
+      "score": -9,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1242,7 +1242,7 @@
         -5,
         -1,
         -4,
-        2
+        1
       ]
     }
   ]
