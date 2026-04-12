@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-12T14:10:12.132Z",
+  "lastUpdated": "2026-04-12T14:15:08.126Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 13,
   "cutPenalty": 23,
-  "projectedCut": 6,
+  "projectedCut": 7,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -159,8 +159,8 @@
     },
     {
       "name": "Rasmus Højgaard",
-      "score": 6,
-      "thru": 1,
+      "score": 8,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -168,7 +168,7 @@
         6,
         -2,
         1,
-        1
+        3
       ]
     },
     {
@@ -688,16 +688,16 @@
     },
     {
       "name": "Matt McCarty",
-      "score": 1,
-      "thru": 0,
-      "teeTime": "10:01 AM",
+      "score": 0,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
         1,
         0,
-        0
+        -1
       ]
     },
     {
@@ -1014,8 +1014,8 @@
     },
     {
       "name": "Si Woo Kim",
-      "score": 3,
-      "thru": 1,
+      "score": 2,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1023,7 +1023,7 @@
         3,
         1,
         0,
-        -1
+        -2
       ]
     },
     {
@@ -1122,16 +1122,16 @@
     },
     {
       "name": "Corey Conners",
-      "score": 3,
-      "thru": 0,
-      "teeTime": "10:01 AM",
+      "score": 4,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
         1,
         -1,
-        0
+        1
       ]
     },
     {
