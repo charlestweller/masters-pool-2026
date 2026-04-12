@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T15:08:41.185Z",
+  "lastUpdated": "2026-04-12T15:10:08.186Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -527,8 +527,8 @@
     {
       "name": "Sam Stevens",
       "score": 0,
-      "thru": 0,
-      "teeTime": "10:56 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
