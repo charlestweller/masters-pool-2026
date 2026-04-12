@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T17:55:08.511Z",
+  "lastUpdated": "2026-04-12T17:56:18.774Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -716,8 +716,8 @@
     },
     {
       "name": "Jacob Bridgeman",
-      "score": -1,
-      "thru": 9,
+      "score": 0,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -725,7 +725,7 @@
         -1,
         2,
         -3,
-        1
+        2
       ]
     },
     {
@@ -835,8 +835,8 @@
     },
     {
       "name": "Harris English",
-      "score": 1,
-      "thru": 12,
+      "score": 0,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -844,21 +844,21 @@
         1,
         -1,
         -1,
-        2
+        1
       ]
     },
     {
       "name": "Russell Henley",
-      "score": -6,
-      "thru": 0,
-      "teeTime": "1:41 PM",
+      "score": -7,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
         -1,
         -6,
-        0
+        -1
       ]
     },
     {
@@ -1042,7 +1042,7 @@
     {
       "name": "Sepp Straka",
       "score": 0,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1191,8 +1191,8 @@
     },
     {
       "name": "Maverick McNealy",
-      "score": -2,
-      "thru": 14,
+      "score": -3,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1200,7 +1200,7 @@
         5,
         -2,
         -2,
-        -3
+        -4
       ]
     },
     {
