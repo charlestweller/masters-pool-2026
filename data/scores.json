@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-12T15:00:08.068Z",
+  "lastUpdated": "2026-04-12T15:05:10.948Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 11,
   "cutPenalty": 21,
-  "projectedCut": 6,
+  "projectedCut": 5,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -63,8 +63,8 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 6,
-      "thru": 7,
+      "score": 5,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -72,7 +72,7 @@
         -3,
         7,
         3,
-        -1
+        -2
       ]
     },
     {
@@ -159,8 +159,8 @@
     },
     {
       "name": "Rasmus Højgaard",
-      "score": 9,
-      "thru": 6,
+      "score": 8,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -168,7 +168,7 @@
         6,
         -2,
         1,
-        4
+        3
       ]
     },
     {
@@ -310,7 +310,7 @@
     {
       "name": "Gary Woodland",
       "score": 3,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -337,8 +337,8 @@
     },
     {
       "name": "Alex Noren",
-      "score": 0,
-      "thru": 2,
+      "score": 1,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -346,7 +346,7 @@
         5,
         -1,
         -3,
-        -1
+        0
       ]
     },
     {
@@ -662,7 +662,7 @@
     {
       "name": "Justin Thomas",
       "score": 0,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -689,7 +689,7 @@
     {
       "name": "Matt McCarty",
       "score": 0,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1015,7 +1015,7 @@
     {
       "name": "Si Woo Kim",
       "score": 2,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1192,7 +1192,7 @@
     {
       "name": "Maverick McNealy",
       "score": -1,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
