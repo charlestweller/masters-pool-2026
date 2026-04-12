@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T20:21:38.651Z",
+  "lastUpdated": "2026-04-12T20:25:11.678Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -133,7 +133,7 @@
     {
       "name": "Wyndham Clark",
       "score": -2,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -890,8 +890,8 @@
     },
     {
       "name": "Tommy Fleetwood",
-      "score": -1,
-      "thru": 15,
+      "score": -2,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -899,13 +899,13 @@
         -1,
         -4,
         1,
-        3
+        2
       ]
     },
     {
       "name": "Tyrrell Hatton",
-      "score": -9,
-      "thru": 15,
+      "score": -10,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -913,7 +913,7 @@
         2,
         -6,
         0,
-        -5
+        -6
       ]
     },
     {
@@ -960,8 +960,8 @@
     },
     {
       "name": "Patrick Cantlay",
-      "score": -6,
-      "thru": 10,
+      "score": -5,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -969,7 +969,7 @@
         5,
         -5,
         -6,
-        0
+        1
       ]
     },
     {
@@ -987,8 +987,8 @@
     },
     {
       "name": "Brooks Koepka",
-      "score": -4,
-      "thru": 14,
+      "score": -5,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -996,7 +996,7 @@
         0,
         -3,
         -1,
-        0
+        -1
       ]
     },
     {
