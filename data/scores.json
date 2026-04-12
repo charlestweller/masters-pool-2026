@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T21:30:08.675Z",
+  "lastUpdated": "2026-04-12T21:35:06.984Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -594,8 +594,8 @@
     },
     {
       "name": "Shane Lowry",
-      "score": -3,
-      "thru": 12,
+      "score": -4,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -603,7 +603,7 @@
         -2,
         -3,
         -4,
-        6
+        5
       ]
     },
     {
@@ -1233,8 +1233,8 @@
     },
     {
       "name": "Sam Burns",
-      "score": -7,
-      "thru": 12,
+      "score": -8,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1242,7 +1242,7 @@
         -5,
         -1,
         -4,
-        3
+        2
       ]
     }
   ]
