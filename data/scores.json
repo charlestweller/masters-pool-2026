@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T21:00:55.865Z",
+  "lastUpdated": "2026-04-12T21:05:07.310Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -77,8 +77,8 @@
     },
     {
       "name": "Collin Morikawa",
-      "score": -7,
-      "thru": 14,
+      "score": -8,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -86,7 +86,7 @@
         2,
         -3,
         -4,
-        -2
+        -3
       ]
     },
     {
@@ -242,7 +242,7 @@
     {
       "name": "Jason Day",
       "score": -5,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -594,8 +594,8 @@
     },
     {
       "name": "Shane Lowry",
-      "score": -6,
-      "thru": 10,
+      "score": -4,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -603,7 +603,7 @@
         -2,
         -3,
         -4,
-        3
+        5
       ]
     },
     {
@@ -918,8 +918,8 @@
     },
     {
       "name": "Patrick Reed",
-      "score": -4,
-      "thru": 14,
+      "score": -5,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -927,13 +927,13 @@
         -3,
         -3,
         0,
-        2
+        1
       ]
     },
     {
       "name": "Justin Rose",
-      "score": -11,
-      "thru": 11,
+      "score": -10,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -941,7 +941,7 @@
         -2,
         -3,
         -3,
-        -3
+        -2
       ]
     },
     {
@@ -961,7 +961,7 @@
     {
       "name": "Patrick Cantlay",
       "score": -5,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1234,7 +1234,7 @@
     {
       "name": "Sam Burns",
       "score": -7,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
