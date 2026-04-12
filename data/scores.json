@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-12T13:50:08.804Z",
+  "lastUpdated": "2026-04-12T13:55:07.357Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 12,
   "cutPenalty": 22,
-  "projectedCut": 5,
+  "projectedCut": 6,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -159,16 +159,16 @@
     },
     {
       "name": "Rasmus Højgaard",
-      "score": 5,
-      "thru": 0,
-      "teeTime": "9:39 AM",
+      "score": 6,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         6,
         -2,
         1,
-        0
+        1
       ]
     },
     {
@@ -1014,16 +1014,16 @@
     },
     {
       "name": "Si Woo Kim",
-      "score": 4,
-      "thru": 0,
-      "teeTime": "9:39 AM",
+      "score": 3,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         3,
         1,
         0,
-        0
+        -1
       ]
     },
     {
