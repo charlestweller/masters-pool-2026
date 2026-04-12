@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T21:55:10.068Z",
+  "lastUpdated": "2026-04-12T22:00:08.343Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -513,7 +513,7 @@
     {
       "name": "Cameron Young",
       "score": -10,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -850,9 +850,9 @@
     {
       "name": "Russell Henley",
       "score": -10,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         1,
@@ -932,8 +932,8 @@
     },
     {
       "name": "Justin Rose",
-      "score": -10,
-      "thru": 14,
+      "score": -11,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -941,7 +941,7 @@
         -2,
         -3,
         -3,
-        -2
+        -3
       ]
     },
     {
@@ -960,16 +960,16 @@
     },
     {
       "name": "Patrick Cantlay",
-      "score": -6,
-      "thru": 17,
+      "score": -5,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         5,
         -5,
         -6,
-        0
+        1
       ]
     },
     {
