@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T22:05:11.217Z",
+  "lastUpdated": "2026-04-12T22:10:07.986Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -242,7 +242,7 @@
     {
       "name": "Jason Day",
       "score": -5,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1149,8 +1149,8 @@
     },
     {
       "name": "Haotong Li",
-      "score": 0,
-      "thru": 16,
+      "score": 1,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1158,7 +1158,7 @@
         -1,
         -3,
         -3,
-        7
+        8
       ]
     },
     {
