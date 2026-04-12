@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T21:00:08.658Z",
+  "lastUpdated": "2026-04-12T21:00:55.865Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -850,7 +850,7 @@
     {
       "name": "Russell Henley",
       "score": -10,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
