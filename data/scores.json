@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T17:05:17.857Z",
+  "lastUpdated": "2026-04-12T17:10:10.897Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -37,8 +37,8 @@
     {
       "name": "Xander Schauffele",
       "score": -4,
-      "thru": 0,
-      "teeTime": "12:57 PM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -64,7 +64,7 @@
     {
       "name": "Kurt Kitayama",
       "score": 7,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -324,7 +324,7 @@
     {
       "name": "Nick Taylor",
       "score": -3,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -337,8 +337,8 @@
     },
     {
       "name": "Alex Noren",
-      "score": 0,
-      "thru": 11,
+      "score": 1,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -346,7 +346,7 @@
         5,
         -1,
         -3,
-        -1
+        0
       ]
     },
     {
@@ -445,8 +445,8 @@
     },
     {
       "name": "Ludvig Åberg",
-      "score": -5,
-      "thru": 2,
+      "score": -6,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -454,7 +454,7 @@
         2,
         -2,
         -3,
-        -2
+        -3
       ]
     },
     {
@@ -716,8 +716,8 @@
     },
     {
       "name": "Jacob Bridgeman",
-      "score": 0,
-      "thru": 6,
+      "score": 1,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -725,21 +725,21 @@
         -1,
         2,
         -3,
-        2
+        3
       ]
     },
     {
       "name": "Ryan Gerard",
-      "score": -4,
-      "thru": 0,
-      "teeTime": "12:57 PM",
+      "score": -5,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
         0,
         -4,
-        0
+        -1
       ]
     },
     {
@@ -864,7 +864,7 @@
     {
       "name": "Jordan Spieth",
       "score": -2,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -890,8 +890,8 @@
     },
     {
       "name": "Tommy Fleetwood",
-      "score": -4,
-      "thru": 1,
+      "score": -3,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -899,7 +899,7 @@
         -1,
         -4,
         1,
-        0
+        1
       ]
     },
     {
@@ -1041,8 +1041,8 @@
     },
     {
       "name": "Sepp Straka",
-      "score": 0,
-      "thru": 6,
+      "score": -1,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1050,7 +1050,7 @@
         1,
         0,
         -3,
-        2
+        1
       ]
     },
     {
@@ -1095,8 +1095,8 @@
     },
     {
       "name": "Matt Fitzpatrick",
-      "score": -3,
-      "thru": 3,
+      "score": -2,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1104,7 +1104,7 @@
         2,
         -3,
         -2,
-        0
+        1
       ]
     },
     {
@@ -1177,8 +1177,8 @@
     },
     {
       "name": "Brian Campbell",
-      "score": -3,
-      "thru": 2,
+      "score": -2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1186,13 +1186,13 @@
         -1,
         1,
         -3,
-        0
+        1
       ]
     },
     {
       "name": "Maverick McNealy",
       "score": -2,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
