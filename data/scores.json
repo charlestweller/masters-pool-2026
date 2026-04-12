@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T15:55:11.396Z",
+  "lastUpdated": "2026-04-12T16:00:11.673Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -352,7 +352,7 @@
     {
       "name": "Adam Scott",
       "score": -1,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -581,7 +581,7 @@
     {
       "name": "Marco Penge",
       "score": 1,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -716,8 +716,8 @@
     },
     {
       "name": "Jacob Bridgeman",
-      "score": -1,
-      "thru": 1,
+      "score": -2,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -725,7 +725,7 @@
         -1,
         2,
         -3,
-        1
+        0
       ]
     },
     {
@@ -946,8 +946,8 @@
     },
     {
       "name": "Hideki Matsuyama",
-      "score": -3,
-      "thru": 2,
+      "score": -4,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -955,7 +955,7 @@
         0,
         -2,
         0,
-        -1
+        -2
       ]
     },
     {
@@ -1042,7 +1042,7 @@
     {
       "name": "Sepp Straka",
       "score": -2,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
