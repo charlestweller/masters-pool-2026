@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T14:28:23.544Z",
+  "lastUpdated": "2026-04-12T14:30:11.659Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -106,7 +106,7 @@
     {
       "name": "Charl Schwartzel",
       "score": 12,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -160,7 +160,7 @@
     {
       "name": "Rasmus Højgaard",
       "score": 8,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
