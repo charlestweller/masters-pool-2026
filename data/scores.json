@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-12T13:45:07.436Z",
+  "lastUpdated": "2026-04-12T13:50:08.804Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 10,
-  "cutPenalty": 20,
+  "worstActiveScore": 12,
+  "cutPenalty": 22,
   "projectedCut": 5,
   "golfers": [
     {
@@ -64,7 +64,7 @@
     {
       "name": "Kurt Kitayama",
       "score": 6,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -92,7 +92,7 @@
     {
       "name": "Aaron Rai",
       "score": 7,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -105,8 +105,8 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 10,
-      "thru": 2,
+      "score": 12,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -114,7 +114,7 @@
         3,
         1,
         5,
-        1
+        3
       ]
     },
     {
