@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T17:18:05.526Z",
+  "lastUpdated": "2026-04-12T17:20:08.979Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -64,9 +64,9 @@
     {
       "name": "Kurt Kitayama",
       "score": 7,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         -3,
@@ -213,7 +213,7 @@
     },
     {
       "name": "Brian Harman",
-      "score": 0,
+      "score": 1,
       "thru": 9,
       "teeTime": null,
       "status": "active",
@@ -310,9 +310,9 @@
     {
       "name": "Gary Woodland",
       "score": 0,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         -1,
@@ -352,7 +352,7 @@
     {
       "name": "Adam Scott",
       "score": -2,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -446,7 +446,7 @@
     {
       "name": "Ludvig Åberg",
       "score": -6,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -460,8 +460,8 @@
     {
       "name": "Ben Griffin",
       "score": -5,
-      "thru": 0,
-      "teeTime": "1:08 PM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -581,7 +581,7 @@
     {
       "name": "Marco Penge",
       "score": 3,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -635,7 +635,7 @@
     {
       "name": "Chris Gotterup",
       "score": -3,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1219,16 +1219,16 @@
     },
     {
       "name": "Jake Knapp",
-      "score": -5,
-      "thru": 0,
-      "teeTime": "1:08 PM",
+      "score": -6,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         1,
         -3,
         -3,
-        0
+        -1
       ]
     },
     {
