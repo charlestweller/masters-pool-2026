@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T16:55:06.903Z",
+  "lastUpdated": "2026-04-12T17:00:09.052Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -133,8 +133,8 @@
     {
       "name": "Wyndham Clark",
       "score": -4,
-      "thru": 0,
-      "teeTime": "12:46 PM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -282,7 +282,7 @@
     {
       "name": "Dustin Johnson",
       "score": 0,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -324,7 +324,7 @@
     {
       "name": "Nick Taylor",
       "score": -3,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -338,7 +338,7 @@
     {
       "name": "Alex Noren",
       "score": 0,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -432,7 +432,7 @@
     {
       "name": "Viktor Hovland",
       "score": -5,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -445,8 +445,8 @@
     },
     {
       "name": "Ludvig Åberg",
-      "score": -4,
-      "thru": 1,
+      "score": -5,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -454,7 +454,7 @@
         2,
         -2,
         -3,
-        -1
+        -2
       ]
     },
     {
@@ -540,8 +540,8 @@
     },
     {
       "name": "Keegan Bradley",
-      "score": 0,
-      "thru": 13,
+      "score": -1,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -549,7 +549,7 @@
         0,
         2,
         1,
-        -3
+        -4
       ]
     },
     {
@@ -662,7 +662,7 @@
     {
       "name": "Justin Thomas",
       "score": 5,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -988,8 +988,8 @@
     {
       "name": "Brooks Koepka",
       "score": -4,
-      "thru": 0,
-      "teeTime": "12:46 PM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -1055,8 +1055,8 @@
     },
     {
       "name": "Max Homa",
-      "score": -3,
-      "thru": 4,
+      "score": -4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1064,7 +1064,7 @@
         0,
         -2,
         -1,
-        0
+        -1
       ]
     },
     {
@@ -1096,7 +1096,7 @@
     {
       "name": "Matt Fitzpatrick",
       "score": -3,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1192,7 +1192,7 @@
     {
       "name": "Maverick McNealy",
       "score": -2,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
