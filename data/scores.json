@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T17:40:08.594Z",
+  "lastUpdated": "2026-04-12T17:45:09.227Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -77,16 +77,16 @@
     },
     {
       "name": "Collin Morikawa",
-      "score": -5,
-      "thru": 0,
-      "teeTime": "1:30 PM",
+      "score": -6,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         2,
         -3,
         -4,
-        0
+        -1
       ]
     },
     {
@@ -199,8 +199,8 @@
     },
     {
       "name": "Sungjae Im",
-      "score": 0,
-      "thru": 9,
+      "score": 1,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -208,7 +208,7 @@
         4,
         -3,
         -3,
-        2
+        3
       ]
     },
     {
@@ -446,7 +446,7 @@
     {
       "name": "Ludvig Åberg",
       "score": -6,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -527,7 +527,7 @@
     {
       "name": "Sam Stevens",
       "score": 0,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -836,7 +836,7 @@
     {
       "name": "Harris English",
       "score": 1,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -890,8 +890,8 @@
     },
     {
       "name": "Tommy Fleetwood",
-      "score": -3,
-      "thru": 4,
+      "score": -2,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -899,13 +899,13 @@
         -1,
         -4,
         1,
-        1
+        2
       ]
     },
     {
       "name": "Tyrrell Hatton",
       "score": -4,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -919,8 +919,8 @@
     {
       "name": "Patrick Reed",
       "score": -6,
-      "thru": 0,
-      "teeTime": "1:30 PM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -946,8 +946,8 @@
     },
     {
       "name": "Hideki Matsuyama",
-      "score": -3,
-      "thru": 9,
+      "score": -4,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -955,7 +955,7 @@
         0,
         -2,
         0,
-        -1
+        -2
       ]
     },
     {
@@ -1178,7 +1178,7 @@
     {
       "name": "Brian Campbell",
       "score": -2,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1220,7 +1220,7 @@
     {
       "name": "Jake Knapp",
       "score": -6,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
