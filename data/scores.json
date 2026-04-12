@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T20:05:10.685Z",
+  "lastUpdated": "2026-04-12T20:10:12.912Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -78,7 +78,7 @@
     {
       "name": "Collin Morikawa",
       "score": -4,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -295,8 +295,8 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": -9,
-      "thru": 6,
+      "score": -10,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -304,7 +304,7 @@
         -5,
         -7,
         1,
-        2
+        1
       ]
     },
     {
@@ -512,8 +512,8 @@
     },
     {
       "name": "Cameron Young",
-      "score": -11,
-      "thru": 6,
+      "score": -10,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -521,7 +521,7 @@
         1,
         -5,
         -7,
-        0
+        1
       ]
     },
     {
@@ -702,8 +702,8 @@
     },
     {
       "name": "Michael Brennan",
-      "score": -4,
-      "thru": 16,
+      "score": -2,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -711,7 +711,7 @@
         0,
         -1,
         -2,
-        -1
+        1
       ]
     },
     {
@@ -850,7 +850,7 @@
     {
       "name": "Russell Henley",
       "score": -10,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -919,7 +919,7 @@
     {
       "name": "Patrick Reed",
       "score": -5,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
