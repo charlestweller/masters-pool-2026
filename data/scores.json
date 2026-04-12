@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T18:10:07.692Z",
+  "lastUpdated": "2026-04-12T18:15:09.744Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -36,8 +36,8 @@
     },
     {
       "name": "Xander Schauffele",
-      "score": -6,
-      "thru": 5,
+      "score": -5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -45,7 +45,7 @@
         -2,
         0,
         -2,
-        -2
+        -1
       ]
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "name": "Collin Morikawa",
-      "score": -4,
-      "thru": 2,
+      "score": -5,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -86,7 +86,7 @@
         2,
         -3,
         -4,
-        1
+        0
       ]
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "Adam Scott",
-      "score": -2,
-      "thru": 14,
+      "score": -3,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -360,7 +360,7 @@
         0,
         2,
         -2,
-        -2
+        -3
       ]
     },
     {
@@ -417,8 +417,8 @@
     },
     {
       "name": "Kristoffer Reitan",
-      "score": 1,
-      "thru": 9,
+      "score": 2,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -426,7 +426,7 @@
         0,
         -4,
         1,
-        4
+        5
       ]
     },
     {
@@ -526,7 +526,7 @@
     },
     {
       "name": "Sam Stevens",
-      "score": -1,
+      "score": 0,
       "thru": 14,
       "teeTime": null,
       "status": "active",
@@ -580,8 +580,8 @@
     },
     {
       "name": "Marco Penge",
-      "score": 6,
-      "thru": 14,
+      "score": 5,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -589,7 +589,7 @@
         4,
         -3,
         -1,
-        6
+        5
       ]
     },
     {
@@ -635,7 +635,7 @@
     {
       "name": "Chris Gotterup",
       "score": -2,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -716,8 +716,8 @@
     },
     {
       "name": "Jacob Bridgeman",
-      "score": 0,
-      "thru": 10,
+      "score": 1,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -725,13 +725,13 @@
         -1,
         2,
         -3,
-        2
+        3
       ]
     },
     {
       "name": "Ryan Gerard",
-      "score": -3,
-      "thru": 5,
+      "score": -2,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -739,7 +739,7 @@
         0,
         0,
         -4,
-        1
+        2
       ]
     },
     {
@@ -850,7 +850,7 @@
     {
       "name": "Russell Henley",
       "score": -7,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -919,7 +919,7 @@
     {
       "name": "Patrick Reed",
       "score": -6,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -932,16 +932,16 @@
     },
     {
       "name": "Justin Rose",
-      "score": -8,
-      "thru": 0,
-      "teeTime": "2:03 PM",
+      "score": -9,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -2,
         -3,
         -3,
-        0
+        -1
       ]
     },
     {
@@ -961,7 +961,7 @@
     {
       "name": "Patrick Cantlay",
       "score": -6,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -988,7 +988,7 @@
     {
       "name": "Brooks Koepka",
       "score": -3,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -996,7 +996,7 @@
         0,
         -3,
         -1,
-        1
+        2
       ]
     },
     {
@@ -1041,8 +1041,8 @@
     },
     {
       "name": "Sepp Straka",
-      "score": 0,
-      "thru": 10,
+      "score": 1,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1050,7 +1050,7 @@
         1,
         0,
         -3,
-        2
+        3
       ]
     },
     {
