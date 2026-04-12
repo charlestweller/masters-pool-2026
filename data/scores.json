@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T15:50:11.770Z",
+  "lastUpdated": "2026-04-12T15:52:13.956Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -160,7 +160,7 @@
     {
       "name": "Rasmus Højgaard",
       "score": 8,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -168,7 +168,7 @@
         6,
         -2,
         1,
-        2
+        3
       ]
     },
     {
@@ -214,7 +214,7 @@
     {
       "name": "Brian Harman",
       "score": -1,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -352,7 +352,7 @@
     {
       "name": "Adam Scott",
       "score": -1,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -418,8 +418,8 @@
     {
       "name": "Kristoffer Reitan",
       "score": -3,
-      "thru": 0,
-      "teeTime": "11:40 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -581,7 +581,7 @@
     {
       "name": "Marco Penge",
       "score": 1,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -635,8 +635,8 @@
     {
       "name": "Chris Gotterup",
       "score": -3,
-      "thru": 0,
-      "teeTime": "11:40 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -863,8 +863,8 @@
     },
     {
       "name": "Jordan Spieth",
-      "score": -2,
-      "thru": 2,
+      "score": -3,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -872,7 +872,7 @@
         0,
         1,
         -2,
-        -1
+        -2
       ]
     },
     {
@@ -1015,7 +1015,7 @@
     {
       "name": "Si Woo Kim",
       "score": 3,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
