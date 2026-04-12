@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T13:25:09.619Z",
+  "lastUpdated": "2026-04-12T13:30:07.777Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -63,16 +63,16 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 7,
-      "thru": 0,
-      "teeTime": "9:17 AM",
+      "score": 6,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -3,
         7,
         3,
-        0
+        -1
       ]
     },
     {
@@ -310,8 +310,8 @@
     {
       "name": "Gary Woodland",
       "score": 6,
-      "thru": 0,
-      "teeTime": "9:17 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
