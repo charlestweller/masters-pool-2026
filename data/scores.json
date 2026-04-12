@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T22:00:08.343Z",
+  "lastUpdated": "2026-04-12T22:05:11.217Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -594,8 +594,8 @@
     },
     {
       "name": "Shane Lowry",
-      "score": -3,
-      "thru": 14,
+      "score": -4,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -603,7 +603,7 @@
         -2,
         -3,
         -4,
-        6
+        5
       ]
     },
     {
@@ -933,7 +933,7 @@
     {
       "name": "Justin Rose",
       "score": -11,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1164,7 +1164,7 @@
     {
       "name": "Scottie Scheffler",
       "score": -11,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1234,7 +1234,7 @@
     {
       "name": "Sam Burns",
       "score": -9,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
