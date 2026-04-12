@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T19:00:12.162Z",
+  "lastUpdated": "2026-04-12T19:01:33.906Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -213,8 +213,8 @@
     },
     {
       "name": "Brian Harman",
-      "score": -1,
-      "thru": 16,
+      "score": 0,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -222,7 +222,7 @@
         7,
         -3,
         -5,
-        0
+        1
       ]
     },
     {
@@ -324,7 +324,7 @@
     {
       "name": "Nick Taylor",
       "score": 1,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -850,7 +850,7 @@
     {
       "name": "Russell Henley",
       "score": -8,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1096,7 +1096,7 @@
     {
       "name": "Matt Fitzpatrick",
       "score": -4,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
