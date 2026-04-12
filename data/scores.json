@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T22:15:10.760Z",
+  "lastUpdated": "2026-04-12T22:19:21.381Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -1150,9 +1150,9 @@
     {
       "name": "Haotong Li",
       "score": 1,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         -1,
