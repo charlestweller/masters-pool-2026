@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-12T14:45:07.917Z",
+  "lastUpdated": "2026-04-12T14:50:09.235Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
   "tournamentStatus": "in-progress",
-  "worstActiveScore": 12,
-  "cutPenalty": 22,
+  "worstActiveScore": 11,
+  "cutPenalty": 21,
   "projectedCut": 6,
   "golfers": [
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 7,
-      "thru": 6,
+      "score": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -72,7 +72,7 @@
         -3,
         7,
         3,
-        0
+        -1
       ]
     },
     {
@@ -92,7 +92,7 @@
     {
       "name": "Aaron Rai",
       "score": 6,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -105,8 +105,8 @@
     },
     {
       "name": "Charl Schwartzel",
-      "score": 12,
-      "thru": 7,
+      "score": 11,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -114,7 +114,7 @@
         3,
         1,
         5,
-        3
+        2
       ]
     },
     {
@@ -160,7 +160,7 @@
     {
       "name": "Rasmus Højgaard",
       "score": 9,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1191,8 +1191,8 @@
     },
     {
       "name": "Maverick McNealy",
-      "score": 0,
-      "thru": 1,
+      "score": -1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1200,7 +1200,7 @@
         5,
         -2,
         -2,
-        -1
+        -2
       ]
     },
     {
