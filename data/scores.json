@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T18:00:10.148Z",
+  "lastUpdated": "2026-04-12T18:05:07.772Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -37,7 +37,7 @@
     {
       "name": "Xander Schauffele",
       "score": -6,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -133,7 +133,7 @@
     {
       "name": "Wyndham Clark",
       "score": -2,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -324,7 +324,7 @@
     {
       "name": "Nick Taylor",
       "score": -2,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -338,7 +338,7 @@
     {
       "name": "Alex Noren",
       "score": -1,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -459,8 +459,8 @@
     },
     {
       "name": "Ben Griffin",
-      "score": -4,
-      "thru": 3,
+      "score": -5,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -468,7 +468,7 @@
         0,
         -3,
         -2,
-        1
+        0
       ]
     },
     {
@@ -730,8 +730,8 @@
     },
     {
       "name": "Ryan Gerard",
-      "score": -4,
-      "thru": 4,
+      "score": -3,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -739,7 +739,7 @@
         0,
         0,
         -4,
-        0
+        1
       ]
     },
     {
@@ -904,8 +904,8 @@
     },
     {
       "name": "Tyrrell Hatton",
-      "score": -4,
-      "thru": 6,
+      "score": -6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -913,13 +913,13 @@
         2,
         -6,
         0,
-        0
+        -2
       ]
     },
     {
       "name": "Patrick Reed",
       "score": -6,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -988,7 +988,7 @@
     {
       "name": "Brooks Koepka",
       "score": -3,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1095,8 +1095,8 @@
     },
     {
       "name": "Matt Fitzpatrick",
-      "score": -2,
-      "thru": 7,
+      "score": -3,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1104,7 +1104,7 @@
         2,
         -3,
         -2,
-        1
+        0
       ]
     },
     {
@@ -1149,30 +1149,30 @@
     },
     {
       "name": "Haotong Li",
-      "score": -7,
-      "thru": 0,
-      "teeTime": "1:52 PM",
+      "score": -6,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
         -3,
         -3,
-        0
+        1
       ]
     },
     {
       "name": "Scottie Scheffler",
-      "score": -7,
-      "thru": 0,
-      "teeTime": "1:52 PM",
+      "score": -8,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -2,
         2,
         -7,
-        0
+        -1
       ]
     },
     {
@@ -1191,8 +1191,8 @@
     },
     {
       "name": "Maverick McNealy",
-      "score": -3,
-      "thru": 15,
+      "score": -4,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1200,7 +1200,7 @@
         5,
         -2,
         -2,
-        -4
+        -5
       ]
     },
     {
@@ -1220,7 +1220,7 @@
     {
       "name": "Jake Knapp",
       "score": -7,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
