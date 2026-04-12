@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T14:50:09.235Z",
+  "lastUpdated": "2026-04-12T14:55:09.517Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -227,8 +227,8 @@
     },
     {
       "name": "Sergio García",
-      "score": 8,
-      "thru": 6,
+      "score": 7,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -236,7 +236,7 @@
         0,
         3,
         2,
-        3
+        2
       ]
     },
     {
@@ -337,8 +337,8 @@
     },
     {
       "name": "Alex Noren",
-      "score": 1,
-      "thru": 1,
+      "score": 0,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -346,7 +346,7 @@
         5,
         -1,
         -3,
-        0
+        -1
       ]
     },
     {
@@ -431,8 +431,8 @@
     },
     {
       "name": "Viktor Hovland",
-      "score": 0,
-      "thru": 2,
+      "score": -1,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -440,7 +440,7 @@
         3,
         -1,
         -1,
-        -1
+        -2
       ]
     },
     {
@@ -662,7 +662,7 @@
     {
       "name": "Justin Thomas",
       "score": 0,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -688,8 +688,8 @@
     },
     {
       "name": "Matt McCarty",
-      "score": -1,
-      "thru": 3,
+      "score": 0,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -697,7 +697,7 @@
         0,
         1,
         0,
-        -2
+        -1
       ]
     },
     {
@@ -1014,8 +1014,8 @@
     },
     {
       "name": "Si Woo Kim",
-      "score": 3,
-      "thru": 5,
+      "score": 2,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1023,7 +1023,7 @@
         3,
         1,
         0,
-        -1
+        -2
       ]
     },
     {
@@ -1122,8 +1122,8 @@
     },
     {
       "name": "Corey Conners",
-      "score": 3,
-      "thru": 3,
+      "score": 5,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1131,7 +1131,7 @@
         3,
         1,
         -1,
-        0
+        2
       ]
     },
     {
@@ -1205,8 +1205,8 @@
     },
     {
       "name": "Jon Rahm",
-      "score": 5,
-      "thru": 6,
+      "score": 4,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1214,7 +1214,7 @@
         6,
         -2,
         1,
-        0
+        -1
       ]
     },
     {
