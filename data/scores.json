@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T22:30:12.340Z",
+  "lastUpdated": "2026-04-12T22:35:09.610Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -242,9 +242,9 @@
     {
       "name": "Jason Day",
       "score": -5,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         -3,
