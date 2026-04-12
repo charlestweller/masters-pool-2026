@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T20:15:09.464Z",
+  "lastUpdated": "2026-04-12T20:20:10.518Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -77,8 +77,8 @@
     },
     {
       "name": "Collin Morikawa",
-      "score": -4,
-      "thru": 11,
+      "score": -5,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -86,7 +86,7 @@
         2,
         -3,
         -4,
-        1
+        0
       ]
     },
     {
@@ -242,7 +242,7 @@
     {
       "name": "Jason Day",
       "score": -5,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -323,8 +323,8 @@
     },
     {
       "name": "Nick Taylor",
-      "score": 2,
-      "thru": 16,
+      "score": 3,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -332,7 +332,7 @@
         -1,
         0,
         -2,
-        5
+        6
       ]
     },
     {
@@ -703,9 +703,9 @@
     {
       "name": "Michael Brennan",
       "score": -2,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
@@ -919,7 +919,7 @@
     {
       "name": "Patrick Reed",
       "score": -5,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1055,16 +1055,16 @@
     },
     {
       "name": "Max Homa",
-      "score": -7,
-      "thru": 17,
+      "score": -8,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
         -2,
         -1,
-        -4
+        -5
       ]
     },
     {
@@ -1096,7 +1096,7 @@
     {
       "name": "Matt Fitzpatrick",
       "score": -4,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1150,7 +1150,7 @@
     {
       "name": "Haotong Li",
       "score": -7,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
