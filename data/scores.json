@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T20:55:13.333Z",
+  "lastUpdated": "2026-04-12T21:00:08.658Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -37,7 +37,7 @@
     {
       "name": "Xander Schauffele",
       "score": -8,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -133,9 +133,9 @@
     {
       "name": "Wyndham Clark",
       "score": -3,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
@@ -988,9 +988,9 @@
     {
       "name": "Brooks Koepka",
       "score": -5,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         0,
