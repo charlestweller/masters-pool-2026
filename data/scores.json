@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T14:00:11.157Z",
+  "lastUpdated": "2026-04-12T14:05:07.850Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -282,8 +282,8 @@
     {
       "name": "Dustin Johnson",
       "score": 3,
-      "thru": 0,
-      "teeTime": "9:50 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -541,8 +541,8 @@
     {
       "name": "Keegan Bradley",
       "score": 3,
-      "thru": 0,
-      "teeTime": "9:50 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
