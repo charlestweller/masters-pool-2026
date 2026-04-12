@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-12T13:40:12.479Z",
+  "lastUpdated": "2026-04-12T13:43:24.254Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 10,
   "cutPenalty": 20,
-  "projectedCut": 5,
+  "projectedCut": 6,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -227,16 +227,16 @@
     },
     {
       "name": "Sergio García",
-      "score": 5,
-      "thru": 0,
-      "teeTime": "9:28 AM",
+      "score": 6,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
         3,
         2,
-        0
+        1
       ]
     },
     {
