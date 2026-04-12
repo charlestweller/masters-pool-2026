@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T14:20:12.319Z",
+  "lastUpdated": "2026-04-12T14:25:08.610Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -64,7 +64,7 @@
     {
       "name": "Kurt Kitayama",
       "score": 7,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -160,7 +160,7 @@
     {
       "name": "Rasmus Højgaard",
       "score": 8,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -281,8 +281,8 @@
     },
     {
       "name": "Dustin Johnson",
-      "score": 3,
-      "thru": 1,
+      "score": 2,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -290,7 +290,7 @@
         1,
         -1,
         3,
-        0
+        -1
       ]
     },
     {
@@ -310,7 +310,7 @@
     {
       "name": "Gary Woodland",
       "score": 5,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -432,8 +432,8 @@
     {
       "name": "Viktor Hovland",
       "score": 1,
-      "thru": 0,
-      "teeTime": "10:12 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
@@ -661,16 +661,16 @@
     },
     {
       "name": "Justin Thomas",
-      "score": 1,
-      "thru": 0,
-      "teeTime": "10:12 AM",
+      "score": 0,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         0,
         2,
         -1,
-        0
+        -1
       ]
     },
     {
@@ -1015,7 +1015,7 @@
     {
       "name": "Si Woo Kim",
       "score": 2,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
