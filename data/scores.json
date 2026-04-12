@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T21:50:09.729Z",
+  "lastUpdated": "2026-04-12T21:55:10.068Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -242,7 +242,7 @@
     {
       "name": "Jason Day",
       "score": -5,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -296,7 +296,7 @@
     {
       "name": "Rory McIlroy",
       "score": -13,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1150,7 +1150,7 @@
     {
       "name": "Haotong Li",
       "score": 0,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1163,8 +1163,8 @@
     },
     {
       "name": "Scottie Scheffler",
-      "score": -10,
-      "thru": 15,
+      "score": -11,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1172,7 +1172,7 @@
         -2,
         2,
         -7,
-        -3
+        -4
       ]
     },
     {
