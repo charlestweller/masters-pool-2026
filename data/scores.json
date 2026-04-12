@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T13:30:07.777Z",
+  "lastUpdated": "2026-04-12T13:35:07.577Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -92,7 +92,7 @@
     {
       "name": "Aaron Rai",
       "score": 7,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
