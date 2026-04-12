@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T20:25:11.678Z",
+  "lastUpdated": "2026-04-12T20:30:10.840Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -295,8 +295,8 @@
     },
     {
       "name": "Rory McIlroy",
-      "score": -10,
-      "thru": 7,
+      "score": -11,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -304,7 +304,7 @@
         -5,
         -7,
         1,
-        1
+        0
       ]
     },
     {
@@ -323,16 +323,16 @@
     },
     {
       "name": "Nick Taylor",
-      "score": 3,
-      "thru": 17,
+      "score": 2,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         -1,
         0,
         -2,
-        6
+        5
       ]
     },
     {
@@ -445,8 +445,8 @@
     },
     {
       "name": "Ludvig Åberg",
-      "score": -4,
-      "thru": 16,
+      "score": -3,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -454,13 +454,13 @@
         2,
         -2,
         -3,
-        -1
+        0
       ]
     },
     {
       "name": "Ben Griffin",
       "score": -3,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -512,8 +512,8 @@
     },
     {
       "name": "Cameron Young",
-      "score": -10,
-      "thru": 7,
+      "score": -11,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -521,7 +521,7 @@
         1,
         -5,
         -7,
-        1
+        0
       ]
     },
     {
@@ -595,7 +595,7 @@
     {
       "name": "Shane Lowry",
       "score": -6,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1096,9 +1096,9 @@
     {
       "name": "Matt Fitzpatrick",
       "score": -4,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         2,
@@ -1178,7 +1178,7 @@
     {
       "name": "Brian Campbell",
       "score": -2,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1220,7 +1220,7 @@
     {
       "name": "Jake Knapp",
       "score": -6,
-      "thru": 13,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1234,7 +1234,7 @@
     {
       "name": "Sam Burns",
       "score": -8,
-      "thru": 8,
+      "thru": 9,
       "teeTime": null,
       "status": "active",
       "position": "",
