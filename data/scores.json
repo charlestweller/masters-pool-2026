@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-12T13:43:24.254Z",
+  "lastUpdated": "2026-04-12T13:45:07.436Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 10,
   "cutPenalty": 20,
-  "projectedCut": 6,
+  "projectedCut": 5,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -309,8 +309,8 @@
     },
     {
       "name": "Gary Woodland",
-      "score": 6,
-      "thru": 1,
+      "score": 5,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -318,7 +318,7 @@
         -1,
         3,
         4,
-        0
+        -1
       ]
     },
     {
