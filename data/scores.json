@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T14:05:07.850Z",
+  "lastUpdated": "2026-04-12T14:10:12.132Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -63,8 +63,8 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 6,
-      "thru": 3,
+      "score": 7,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -72,7 +72,7 @@
         -3,
         7,
         3,
-        -1
+        0
       ]
     },
     {
@@ -92,7 +92,7 @@
     {
       "name": "Aaron Rai",
       "score": 8,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -106,7 +106,7 @@
     {
       "name": "Charl Schwartzel",
       "score": 13,
-      "thru": 4,
+      "thru": 5,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -227,8 +227,8 @@
     },
     {
       "name": "Sergio García",
-      "score": 6,
-      "thru": 2,
+      "score": 7,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -236,7 +236,7 @@
         0,
         3,
         2,
-        1
+        2
       ]
     },
     {
@@ -310,7 +310,7 @@
     {
       "name": "Gary Woodland",
       "score": 5,
-      "thru": 3,
+      "thru": 4,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1205,8 +1205,8 @@
     },
     {
       "name": "Jon Rahm",
-      "score": 4,
-      "thru": 2,
+      "score": 3,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1214,7 +1214,7 @@
         6,
         -2,
         1,
-        -1
+        -2
       ]
     },
     {
