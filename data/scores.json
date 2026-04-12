@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T22:20:08.074Z",
+  "lastUpdated": "2026-04-12T22:25:08.772Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -296,7 +296,7 @@
     {
       "name": "Rory McIlroy",
       "score": -13,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -513,7 +513,7 @@
     {
       "name": "Cameron Young",
       "score": -10,
-      "thru": 15,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -932,8 +932,8 @@
     },
     {
       "name": "Justin Rose",
-      "score": -11,
-      "thru": 16,
+      "score": -10,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -941,7 +941,7 @@
         -2,
         -3,
         -3,
-        -3
+        -2
       ]
     },
     {
