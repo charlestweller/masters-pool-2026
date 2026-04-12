@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-12T17:10:10.897Z",
+  "lastUpdated": "2026-04-12T17:15:07.923Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 12,
   "cutPenalty": 22,
-  "projectedCut": 6,
+  "projectedCut": 5,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -133,7 +133,7 @@
     {
       "name": "Wyndham Clark",
       "score": -4,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -159,8 +159,8 @@
     },
     {
       "name": "Rasmus Højgaard",
-      "score": 9,
-      "thru": 15,
+      "score": 10,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -168,7 +168,7 @@
         6,
         -2,
         1,
-        4
+        5
       ]
     },
     {
@@ -200,7 +200,7 @@
     {
       "name": "Sungjae Im",
       "score": 0,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -282,7 +282,7 @@
     {
       "name": "Dustin Johnson",
       "score": 0,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -431,8 +431,8 @@
     },
     {
       "name": "Viktor Hovland",
-      "score": -5,
-      "thru": 12,
+      "score": -6,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -440,7 +440,7 @@
         3,
         -1,
         -1,
-        -6
+        -7
       ]
     },
     {
@@ -661,8 +661,8 @@
     },
     {
       "name": "Justin Thomas",
-      "score": 5,
-      "thru": 12,
+      "score": 4,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -670,7 +670,7 @@
         0,
         2,
         -1,
-        4
+        3
       ]
     },
     {
@@ -702,8 +702,8 @@
     },
     {
       "name": "Michael Brennan",
-      "score": -3,
-      "thru": 5,
+      "score": -2,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -711,7 +711,7 @@
         0,
         -1,
         -2,
-        0
+        1
       ]
     },
     {
@@ -946,8 +946,8 @@
     },
     {
       "name": "Hideki Matsuyama",
-      "score": -2,
-      "thru": 7,
+      "score": -3,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -955,7 +955,7 @@
         0,
         -2,
         0,
-        0
+        -1
       ]
     },
     {
@@ -988,7 +988,7 @@
     {
       "name": "Brooks Koepka",
       "score": -4,
-      "thru": 1,
+      "thru": 2,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1014,8 +1014,8 @@
     },
     {
       "name": "Si Woo Kim",
-      "score": 5,
-      "thru": 15,
+      "score": 4,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1023,7 +1023,7 @@
         3,
         1,
         0,
-        1
+        0
       ]
     },
     {
@@ -1056,7 +1056,7 @@
     {
       "name": "Max Homa",
       "score": -4,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1122,8 +1122,8 @@
     },
     {
       "name": "Corey Conners",
-      "score": 6,
-      "thru": 13,
+      "score": 4,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1131,7 +1131,7 @@
         3,
         1,
         -1,
-        3
+        1
       ]
     },
     {
