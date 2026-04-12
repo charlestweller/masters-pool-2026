@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T20:50:07.701Z",
+  "lastUpdated": "2026-04-12T20:55:13.333Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -296,7 +296,7 @@
     {
       "name": "Rory McIlroy",
       "score": -11,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -459,8 +459,8 @@
     },
     {
       "name": "Ben Griffin",
-      "score": -4,
-      "thru": 15,
+      "score": -2,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -468,7 +468,7 @@
         0,
         -3,
         -2,
-        1
+        3
       ]
     },
     {
@@ -513,7 +513,7 @@
     {
       "name": "Cameron Young",
       "score": -10,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -730,8 +730,8 @@
     },
     {
       "name": "Ryan Gerard",
-      "score": 1,
-      "thru": 16,
+      "score": 2,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -739,7 +739,7 @@
         0,
         0,
         -4,
-        5
+        6
       ]
     },
     {
@@ -891,9 +891,9 @@
     {
       "name": "Tommy Fleetwood",
       "score": 0,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         -1,
@@ -905,9 +905,9 @@
     {
       "name": "Tyrrell Hatton",
       "score": -10,
-      "thru": 17,
+      "thru": 18,
       "teeTime": null,
-      "status": "active",
+      "status": "complete",
       "position": "",
       "rounds": [
         2,
@@ -961,7 +961,7 @@
     {
       "name": "Patrick Cantlay",
       "score": -5,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1219,8 +1219,8 @@
     },
     {
       "name": "Jake Knapp",
-      "score": -6,
-      "thru": 15,
+      "score": -7,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1228,7 +1228,7 @@
         1,
         -3,
         -3,
-        -1
+        -2
       ]
     },
     {
