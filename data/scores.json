@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-04-12T22:55:07.702Z",
+  "lastUpdated": "2026-04-12T23:00:02.412Z",
   "tournament": "Masters Tournament",
   "round": 4,
-  "roundDetail": "Round 4 - In Progress",
-  "tournamentStatus": "in-progress",
+  "roundDetail": "Round 4 - Play Complete",
+  "tournamentStatus": "complete",
   "worstActiveScore": 12,
   "cutPenalty": 22,
   "projectedCut": 6,
