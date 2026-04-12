@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T20:30:10.840Z",
+  "lastUpdated": "2026-04-12T20:35:10.738Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -36,8 +36,8 @@
     },
     {
       "name": "Xander Schauffele",
-      "score": -7,
-      "thru": 14,
+      "score": -8,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -45,7 +45,7 @@
         -2,
         0,
         -2,
-        -3
+        -4
       ]
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "name": "Collin Morikawa",
-      "score": -5,
-      "thru": 12,
+      "score": -6,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -86,7 +86,7 @@
         2,
         -3,
         -4,
-        0
+        -1
       ]
     },
     {
@@ -132,8 +132,8 @@
     },
     {
       "name": "Wyndham Clark",
-      "score": -2,
-      "thru": 15,
+      "score": -3,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -141,7 +141,7 @@
         0,
         -4,
         0,
-        2
+        1
       ]
     },
     {
@@ -242,7 +242,7 @@
     {
       "name": "Jason Day",
       "score": -5,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -730,8 +730,8 @@
     },
     {
       "name": "Ryan Gerard",
-      "score": 2,
-      "thru": 14,
+      "score": 0,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -739,7 +739,7 @@
         0,
         0,
         -4,
-        6
+        4
       ]
     },
     {
@@ -849,8 +849,8 @@
     },
     {
       "name": "Russell Henley",
-      "score": -10,
-      "thru": 11,
+      "score": -9,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -858,7 +858,7 @@
         1,
         -1,
         -6,
-        -4
+        -3
       ]
     },
     {
@@ -918,8 +918,8 @@
     },
     {
       "name": "Patrick Reed",
-      "score": -5,
-      "thru": 12,
+      "score": -3,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -927,13 +927,13 @@
         -3,
         -3,
         0,
-        1
+        3
       ]
     },
     {
       "name": "Justin Rose",
       "score": -12,
-      "thru": 9,
+      "thru": 10,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -961,7 +961,7 @@
     {
       "name": "Patrick Cantlay",
       "score": -5,
-      "thru": 11,
+      "thru": 12,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -987,8 +987,8 @@
     },
     {
       "name": "Brooks Koepka",
-      "score": -5,
-      "thru": 15,
+      "score": -6,
+      "thru": 16,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -996,7 +996,7 @@
         0,
         -3,
         -1,
-        -1
+        -2
       ]
     },
     {
@@ -1150,7 +1150,7 @@
     {
       "name": "Haotong Li",
       "score": -7,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1164,7 +1164,7 @@
     {
       "name": "Scottie Scheffler",
       "score": -9,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
