@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T18:25:08.604Z",
+  "lastUpdated": "2026-04-12T18:30:08.667Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -37,7 +37,7 @@
     {
       "name": "Xander Schauffele",
       "score": -5,
-      "thru": 6,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -200,7 +200,7 @@
     {
       "name": "Sungjae Im",
       "score": 2,
-      "thru": 12,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -417,8 +417,8 @@
     },
     {
       "name": "Kristoffer Reitan",
-      "score": 2,
-      "thru": 10,
+      "score": 3,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -426,7 +426,7 @@
         0,
         -4,
         1,
-        5
+        6
       ]
     },
     {
@@ -460,7 +460,7 @@
     {
       "name": "Ben Griffin",
       "score": -4,
-      "thru": 5,
+      "thru": 6,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -526,8 +526,8 @@
     },
     {
       "name": "Sam Stevens",
-      "score": 0,
-      "thru": 14,
+      "score": -1,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -535,7 +535,7 @@
         0,
         2,
         -2,
-        0
+        -1
       ]
     },
     {
@@ -594,16 +594,16 @@
     },
     {
       "name": "Shane Lowry",
-      "score": -9,
-      "thru": 0,
-      "teeTime": "2:14 PM",
+      "score": -8,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -2,
         -3,
         -4,
-        0
+        1
       ]
     },
     {
@@ -635,7 +635,7 @@
     {
       "name": "Chris Gotterup",
       "score": -2,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -836,7 +836,7 @@
     {
       "name": "Harris English",
       "score": -1,
-      "thru": 14,
+      "thru": 15,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -850,7 +850,7 @@
     {
       "name": "Russell Henley",
       "score": -7,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -891,7 +891,7 @@
     {
       "name": "Tommy Fleetwood",
       "score": -1,
-      "thru": 7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -904,8 +904,8 @@
     },
     {
       "name": "Tyrrell Hatton",
-      "score": -6,
-      "thru": 7,
+      "score": -7,
+      "thru": 8,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -913,7 +913,7 @@
         2,
         -6,
         0,
-        -2
+        -3
       ]
     },
     {
@@ -946,8 +946,8 @@
     },
     {
       "name": "Hideki Matsuyama",
-      "score": -4,
-      "thru": 12,
+      "score": -5,
+      "thru": 13,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -955,7 +955,7 @@
         0,
         -2,
         0,
-        -2
+        -3
       ]
     },
     {
