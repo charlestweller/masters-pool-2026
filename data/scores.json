@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T21:45:07.864Z",
+  "lastUpdated": "2026-04-12T21:48:22.144Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -594,8 +594,8 @@
     },
     {
       "name": "Shane Lowry",
-      "score": -4,
-      "thru": 13,
+      "score": -3,
+      "thru": 14,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -603,7 +603,7 @@
         -2,
         -3,
         -4,
-        5
+        6
       ]
     },
     {
