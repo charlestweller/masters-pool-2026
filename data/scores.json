@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-12T15:40:07.906Z",
+  "lastUpdated": "2026-04-12T15:45:13.787Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
   "tournamentStatus": "in-progress",
   "worstActiveScore": 12,
   "cutPenalty": 22,
-  "projectedCut": 5,
+  "projectedCut": 6,
   "golfers": [
     {
       "name": "Bryson DeChambeau",
@@ -63,8 +63,8 @@
     },
     {
       "name": "Kurt Kitayama",
-      "score": 5,
-      "thru": 10,
+      "score": 6,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -72,7 +72,7 @@
         -3,
         7,
         3,
-        -2
+        -1
       ]
     },
     {
@@ -310,7 +310,7 @@
     {
       "name": "Gary Woodland",
       "score": 2,
-      "thru": 10,
+      "thru": 11,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -431,8 +431,8 @@
     },
     {
       "name": "Viktor Hovland",
-      "score": -1,
-      "thru": 6,
+      "score": -2,
+      "thru": 7,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -440,7 +440,7 @@
         3,
         -1,
         -1,
-        -2
+        -3
       ]
     },
     {
@@ -527,7 +527,7 @@
     {
       "name": "Sam Stevens",
       "score": 0,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -716,16 +716,16 @@
     },
     {
       "name": "Jacob Bridgeman",
-      "score": -2,
-      "thru": 0,
-      "teeTime": "11:29 AM",
+      "score": -1,
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
         -1,
         2,
         -3,
-        0
+        1
       ]
     },
     {
@@ -836,7 +836,7 @@
     {
       "name": "Harris English",
       "score": -1,
-      "thru": 2,
+      "thru": 3,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -1042,8 +1042,8 @@
     {
       "name": "Sepp Straka",
       "score": -2,
-      "thru": 0,
-      "teeTime": "11:29 AM",
+      "thru": 1,
+      "teeTime": null,
       "status": "active",
       "position": "",
       "rounds": [
