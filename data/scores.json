@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T20:35:10.738Z",
+  "lastUpdated": "2026-04-12T20:40:14.741Z",
   "tournament": "Masters Tournament",
   "round": 4,
   "roundDetail": "Round 4 - In Progress",
@@ -890,8 +890,8 @@
     },
     {
       "name": "Tommy Fleetwood",
-      "score": -2,
-      "thru": 16,
+      "score": 0,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
@@ -899,13 +899,13 @@
         -1,
         -4,
         1,
-        2
+        4
       ]
     },
     {
       "name": "Tyrrell Hatton",
       "score": -10,
-      "thru": 16,
+      "thru": 17,
       "teeTime": null,
       "status": "active",
       "position": "",
